@@ -19,7 +19,9 @@ def trigram(sentList):
                 tgDict[tg] += 1
 
     return tgDict
-        
+
+#creates a dict containing all bigrams and their counts
+#takes a list containing sentences
 def bigram(sentList):
     bgDict = {}
     for sent in sentList:
@@ -36,6 +38,8 @@ def bigram(sentList):
                 bgDict[bg] += 1
     return bgDict
 
+#returns individual word counts
+#takes a list of words 
 def unigram(wordList):
     aDict = {}
     for word in wordList:
@@ -51,7 +55,9 @@ def unigram(wordList):
     return aDict
 
 
+#Can tinker with the setting here to look for common occuring grams of a given length and occurence
 def gramAnalyzer(t,b,u):
+    print('Unigrams')
     for key in u:
         if u[key] > 10 and len(key) > 3:
             print(key)
@@ -65,6 +71,9 @@ def gramAnalyzer(t,b,u):
         if t[key] > 1:
             print(key)
 
+#TODO: stop returns of words at the beginning of sentences
+#Takes a list of individual words
+#Solution to TODO would be to take a list of sents and toss the first word
 def nounFinder(u):
     nounList = []
     for i in range(1,len(u)):
@@ -82,6 +91,7 @@ def nounFinder(u):
                 nounList.append(u[i])
     return nounList
 
+#cross checks nouns withs list of countries in external text file
 def countryFinder(nouns):
     places = []
     countries = open('countries').read().split('\n')
@@ -91,6 +101,7 @@ def countryFinder(nouns):
     return places
         
 
+#Can tinker with settings here - should add arguments to the function so can pass parameters on the fly
 def mostCommonWord(ugDict):
     max = 0
     word = ''
@@ -100,6 +111,8 @@ def mostCommonWord(ugDict):
             word = key
     return word
 
+
+#Some stat functions for nlp
 def trigramFreq(phrase,tgD,bgD):
     top = tgD[phrase]
     twoWords = phrase[:2]

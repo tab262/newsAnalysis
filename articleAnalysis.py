@@ -1,3 +1,5 @@
+###SCROLL DOWN TO MAIN TO FOLLOW ALONG###
+###I recommend outputting to a text file (python articleAnalysis.py outputFile) to get a better idea of what it's doing
 
 #creates a dict containing all trigrams and their counts
 #Takes a list containing sentences 
@@ -119,17 +121,39 @@ def tupleToString(myTuple):
     string += myTuple[-1]
     return string
 
+
+#star
 def main():
     a = 'megaArticle'
     f  = open(a)
+    
+    #Makes a list of sentences. Right now it's more like mini-paragraphs as I break up by newlines and not periods
+    #TODO: Get sentences and not paras
     sents = f.read().split('\n')
     f.close()
+    
+    #get list of individual words
     words = open(a).read().split()
+    
+    #trigrams are of sets three word sets ex: {(*,*,trigrams), (*,trigrams, are),(trigrams,are,sets),(are,sets,of)...etc}
+    #creates a list of trigrams with their counts. High counts indicates words often appear together (i.e. President Obama)
     tgDict = trigram(sents)
+    
+    #same, but with two words
     bgDict = bigram(sents)
+    
+    #individual words and count
     ugDict = unigram(words)
+    
+    #this guy needs little work, but will return capitalized words. Still working out the kinks for it to avoid returning
+    #words that are capitlized only because they occur at the begining of the sentence.
     nouns = nounFinder(words)
+    
+    #Checks to see if any of the nouns are countries
+    #Could add a people finder, city finder, organization finder etc...
     countries = countryFinder(nouns)
+    
+    #Can uncomment these to see what sort of analysis is being returned
     #print(nouns)
     #gramAnalyzer(tgDict,bgDict,ugDict)
     mcw =(mostCommonWord(ugDict))

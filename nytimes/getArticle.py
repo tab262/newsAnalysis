@@ -5,6 +5,7 @@ import re
 def getHtmlText(url):
 
     br = mechanize.Browser()
+    #br.set_handle_robots(False)
 
     HT = br.open(url).read()
     return HT

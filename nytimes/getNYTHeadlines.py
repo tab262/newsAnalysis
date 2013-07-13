@@ -1,3 +1,92 @@
+#!/usr/bin/python2.7 -S
+import sys
+reload(sys)
+sys.setdefaultencoding("utf-8")
+import time
+import datetime
+import csv
+import json
+import MySQLdb   #download
+import feedparser#download
+import imp
+import time
+import getArticle
+import getNYTHeadlines
+import saveLoadHeadlines
+import getArticle
+articleAnalysis = imp.load_source('articleAnalysis', '/home/caseyso/Projects/newsAnalysis/newsAnalysis/analysis')
+
+def get(nytimesFeed):
+    stories = {}
+    print "Getting latest stories..."
+    for i in range(len(nytimesFeed.entries)):
+           
+        date = nytimesFeed['entries'][i].published
+        link = nytimesFeed['entries'][i].link 
+        title = nytimesFeed.entries[i].title
+        title = title.replace("'","")
+        
+        
+        summary_detail = nytimesFeed.entries[i].summary_detail.value
+        summary = summary_detail[:summary_detail.find('<img')]
+        summary = list(summary)
+        for j in range(len(summary)):
+            if summary[j] == "'":
+                summary[j] = ""
+        summary = "".join(summary)
+
+        ####Article analysis
+        try:
+            body =  getArticle.get(link + '&pagewanted=all')
+            sents = body.split('.')
+            words = body.split()
+            AD = analysis(sents, words) #analysis dictionary
+        except:
+            try:
+                body =  getArticle.get(link + '&pagewanted=all')
+                sents = body.split('.')
+                words = body.split()
+                AD = analysis(sents, words) #analysis dictionary
+            
+            except:
+                print(link)
+        
+        
+
+        stories[i-1] = {'title' : title, 'summary' : summary, 'link' : link + '&pagewanted=all', 'date': date}
+        try:
+            for key in AD.keys():
+                stories[i-1][key] = AD[key]
+        except:
+            print('merp')
+        
+        print(i)
+        time.sleep(1)
+    return stories
+    
+if __name__ == "__main__":
+    nytimesRSS  = 'http://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml'
+    nytimesFeed = feedparser.parse(nytimesRSS)  #25 entries
+
+    stories = getNYTHeadlines.get(nytimesFeed)
+    
+    
+    
+
+
+
+
+
+#############################################
+
+
+
+
+
+
+
+
+
 ###SCROLL DOWN TO MAIN TO FOLLOW ALONG###
 ###I recommend outputting to a text file (python articleAnalysis.py outputFile) to get a better idea of what it's doing
 
@@ -94,7 +183,7 @@ def nounFinder(u):
 #cross checks nouns withs list of countries in external text file
 def countryFinder(nouns):
     places = []
-    countries = open('countries').read().split('\n')
+    countries = open('/home/caseyso/Projects/newsAnalysis/newsAnalysis/analysis/countries').read().split('\n')
     for word in nouns:
         if word in countries:
             places.append(word)
@@ -173,47 +262,6 @@ def analysis(sents, words):
     countries = countryFinder(nouns)
     commonGrams = getCommonGrams(tgDict, bgDict)
     analDict = {'nouns' : nouns, 'countries' : countries, 'commonGrams' : commonGrams }
-    print(analDict['nouns'])
     return analDict
 
-    
 
-#star
-def main():
-    a = 'article'
-    f  = open(a)
-    
-    #Makes a list of sentences. Right now it's more like mini-paragraphs as I break up by newlines and not periods
-    #TODO: Get sentences and not paras
-    sents = f.read().split('\n')
-    f.close()
-    
-    #get list of individual words
-    words = open(a).read().split()
-    
-    #trigrams are of sets three word sets ex: {(*,*,trigrams), (*,trigrams, are),(trigrams,are,sets),(are,sets,of)...etc}
-    #creates a list of trigrams with their counts. High counts indicates words often appear together (i.e. President Obama)
-    tgDict = trigram(sents)
-    
-    #same, but with two words
-    bgDict = bigram(sents)
-    
-    #individual words and count
-    ugDict = unigram(words)
-    
-    #this guy needs little work, but will return capitalized words. Still working out the kinks for it to avoid returning
-    #words that are capitlized only because they occur at the begining of the sentence.
-    nouns = nounFinder(words)
-    
-    #Checks to see if any of the nouns are countries
-    #Could add a people finder, city finder, organization finder etc...
-    countries = countryFinder(nouns)
-    
-    #Can uncomment these to see what sort of analysis is being returned
-    #print(nouns)
-    #gramAnalyzer(tgDict,bgDict,ugDict)
-    mcw =(mostCommonWord(ugDict))
-    
-    analysis(sents, words)
-
-if __name__=="__main__": main()

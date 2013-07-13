@@ -1,3 +1,7 @@
+import datetime
+import csv
+import json
+
 def saveHeadlines(headlineDict):
     now = datetime.datetime.now()
     filename = "headlines-"+str(now.year)+'-'+str(now.month)+'-'+ \
@@ -10,3 +14,4 @@ def saveHeadlines(headlineDict):
     
 def loadHeadLines(headlinesFile):
     return json.load(open(headlinesFile))
+

@@ -1,3 +1,4 @@
+
 #!/usr/bin/python2.7 -S
 
 import sys
@@ -9,22 +10,25 @@ import csv
 import json
 import MySQLdb   #download
 import feedparser#download
+import imp
+
 import getArticle
+import getNYTHeadlines
+import saveLoadHeadlines
 
-nytimesRSS  = 'http://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml'
+#importing my own modules
+articleAnalysis = imp.load_source('articleAnalysis', '/home/caseyso/Projects/newsAnalysis/newsAnalysis/analysis')
 
-nytimesFeed = feedparser.parse(nytimesRSS)  #25 entries
-
+#####################################################
 
 def main():
+    nytimesRSS  = 'http://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml'
+    nytimesFeed = feedparser.parse(nytimesRSS)  #25 entries
+
+    stories = getNYTHeadlines.get(nytimesFeed)
+    print stories[1]
     
-    stories = getNYTHeadLines()
-    link1 = stories[1]['link']+'&pagewanted=all'
-    print(link1)
-    body = getArticle.get(link1)
-    print len(body)
-    
-    
+    saveLoadHeadlines.saveHeadlines(stories)
     
     
 

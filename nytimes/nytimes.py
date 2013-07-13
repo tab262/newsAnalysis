@@ -26,7 +26,11 @@ def main():
     nytimesFeed = feedparser.parse(nytimesRSS)  #25 entries
 
     stories = getNYTHeadlines.get(nytimesFeed)
-    print stories[1]
+    
+    #weird quirk - bug somewhere in getNYTHeadlines has to do some 
+    #indexing kung fu
+    stories[0] = stories[-1]
+    del stories[-1]
     
     saveLoadHeadlines.saveHeadlines(stories)
     

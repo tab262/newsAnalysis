@@ -169,10 +169,10 @@ def getWordList(str_Article):
 def analysis(sents, words):
     tgDict = trigram(sents)
     bgDict = bigram(sents)
-    nouns = nounFinder(words)
+    keywords = nounFinder(words)
     countries = countryFinder(nouns)
     commonGrams = getCommonGrams(tgDict, bgDict)
-    analDict = {'nouns' : nouns, 'countries' : countries, 'commonGrams' : commonGrams }
+    analDict = {'keywords' : keywords, 'countries' : countries, 'commonGrams' : commonGrams }
     print(analDict['nouns'])
     return analDict
 

@@ -28,9 +28,10 @@ def main():
     stories = getNYTHeadlines.get(nytimesFeed)
     
     #weird quirk - bug somewhere in getNYTHeadlines has to do some 
-    #indexing kung fu
+    #indexing kung fu. This bit here fixes it. I know...bad programmer, bad!
+    temp = stories[0]
     stories[0] = stories[-1]
-    del stories[-1]
+    stories[-1] = temp
     
     saveLoadHeadlines.saveHeadlines(stories)
     

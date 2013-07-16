@@ -39,6 +39,6 @@ def getMainTextBody(htmlText):
 def get(url):
     HT = getHtmlText(url)
     body = getMainTextBody(HT)
-    return (body)    
+    return body    
     
     

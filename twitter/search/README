@@ -1,1 +1,21 @@
-Running main will run a program that asks you for an input address and radius and will return 15 tweets that fit that criteria. 
+Running main will run a program that asks you for an input address and radius and will return 15 tweets that fit that criteria.
+
+Will need need the twitter OAuth codes.
+
+First thing to do is to create a text file in the following format
+
+access_token_key 
+access_token_secret
+consumer_key
+consumer_secret 
+
+But with JUST the actual codes. 
+
+Then go to Twitter_Sent.py and note Line 3. Replace the string with the proper filepath of the above textfile.
+
+
+After this, try and run search/main.py. 
+
+You're probably going to get a bunch of missing module errors. Nothing to do, but install em. I recommoned getting pythons pip module first, which once installed allows you to do things like
+
+sudo pip install <package>

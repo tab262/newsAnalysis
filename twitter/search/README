@@ -19,3 +19,6 @@ After this, try and run search/main.py.
 You're probably going to get a bunch of missing module errors. Nothing to do, but install em. I recommoned getting pythons pip module first, which once installed allows you to do things like
 
 sudo pip install <package>
+
+
+Note once it is up and running, the times posted are GMT, so subtract 4 hours

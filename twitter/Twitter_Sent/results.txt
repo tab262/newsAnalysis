@@ -1,0 +1,3749 @@
+Reformatting data..
+<type 'str'>
+Writing to new file..
+Done processing file
+Building sentiment dict...
+Loading json file...
+fuck[-4] fuck[-4]   TWEET SCORE: -8
+dick[-4]   TWEET SCORE: -4
+no[-1]   TWEET SCORE: -1
+love[3] love[3]   TWEET SCORE: 6
+cool[1]   TWEET SCORE: 1
+no[-1]   TWEET SCORE: -1
+better[2]   TWEET SCORE: 2
+cute[2]   TWEET SCORE: 2
+bad[-3] good[3]   TWEET SCORE: 0
+leave[-1]   TWEET SCORE: -1
+happy[3]   TWEET SCORE: 3
+no[-1] lol[3]   TWEET SCORE: 2
+no[-1]   TWEET SCORE: -1
+no[-1] no[-1] no[-1]   TWEET SCORE: -3
+stalled[-2]   TWEET SCORE: -2
+damn[-4]   TWEET SCORE: -4
+fuck[-4]   TWEET SCORE: -4
+easy[1] hard[-1]   TWEET SCORE: 0
+true[2]   TWEET SCORE: 2
+ass[-4]   TWEET SCORE: -4
+want[1] like[2]   TWEET SCORE: 3
+no[-1]   TWEET SCORE: -1
+broken[-1]   TWEET SCORE: -1
+happy[3]   TWEET SCORE: 3
+ha[2]   TWEET SCORE: 2
+no[-1]   TWEET SCORE: -1
+wrong[-2]   TWEET SCORE: -2
+lol[3]   TWEET SCORE: 3
+favorite[2] wasting[-2]   TWEET SCORE: 0
+tired[-2]   TWEET SCORE: -2
+won[3]   TWEET SCORE: 3
+haha[3]   TWEET SCORE: 3
+hate[-3] excited[3]   TWEET SCORE: 0
+losing[-3] losing[-3]   TWEET SCORE: -6
+best[3]   TWEET SCORE: 3
+matters[1]   TWEET SCORE: 1
+no[-1]   TWEET SCORE: -1
+true[2]   TWEET SCORE: 2
+bad[-3] bad[-3]   TWEET SCORE: -6
+no[-1]   TWEET SCORE: -1
+no[-1]   TWEET SCORE: -1
+hate[-3]   TWEET SCORE: -3
+want[1]   TWEET SCORE: 1
+loyal[3] focused[2] losing[-3] hopeless[-2]   TWEET SCORE: 0
+romance[2]   TWEET SCORE: 2
+like[2] tired[-2]   TWEET SCORE: 0
+care[2] better[2]   TWEET SCORE: 4
+love[3]   TWEET SCORE: 3
+extends[1] shy[-1]   TWEET SCORE: 0
+regret[-2] promise[1] amazing[4]   TWEET SCORE: 3
+no[-1]   TWEET SCORE: -1
+like[2]   TWEET SCORE: 2
+love[3]   TWEET SCORE: 3
+charged[-3]   TWEET SCORE: -3
+pleased[3]   TWEET SCORE: 3
+lol[3] shit[-4] unbelievable[-1] scumbag[-4]   TWEET SCORE: -6
+haha[3]   TWEET SCORE: 3
+no[-1]   TWEET SCORE: -1
+lol[3]   TWEET SCORE: 3
+beautiful[3]   TWEET SCORE: 3
+hate[-3] like[2]   TWEET SCORE: -1
+no[-1]   TWEET SCORE: -1
+like[2] no[-1]   TWEET SCORE: 1
+energetic[2]   TWEET SCORE: 2
+worst[-3] feeling[1] pretending[-1] care[2]   TWEET SCORE: -1
+no[-1] no[-1]   TWEET SCORE: -2
+love[3]   TWEET SCORE: 3
+no[-1]   TWEET SCORE: -1
+like[2]   TWEET SCORE: 2
+hahaha[3]   TWEET SCORE: 3
+lol[3] thanks[2]   TWEET SCORE: 5
+amazing[4]   TWEET SCORE: 4
+hate[-3] ass[-4]   TWEET SCORE: -7
+slut[-5]   TWEET SCORE: -5
+god[1] bless[2]   TWEET SCORE: 3
+protesters[-2] clash[-2]   TWEET SCORE: -4
+chance[2]   TWEET SCORE: 2
+ruining[-2]   TWEET SCORE: -2
+struggle[-2] better[2]   TWEET SCORE: 0
+liked[2] liked[2]   TWEET SCORE: 4
+thank[2]   TWEET SCORE: 2
+no[-1]   TWEET SCORE: -1
+no[-1]   TWEET SCORE: -1
+fit[1] fit[1]   TWEET SCORE: 2
+better[2]   TWEET SCORE: 2
+alone[-2] bored[-2]   TWEET SCORE: -4
+no[-1]   TWEET SCORE: -1
+favorite[2] wasting[-2] haha[3]   TWEET SCORE: 3
+good[3]   TWEET SCORE: 3
+no[-1]   TWEET SCORE: -1
+fucked[-4]   TWEET SCORE: -4
+no[-1]   TWEET SCORE: -1
+want[1]   TWEET SCORE: 1
+lol[3]   TWEET SCORE: 3
+lost[-3]   TWEET SCORE: -3
+care[2]   TWEET SCORE: 2
+love[3]   TWEET SCORE: 3
+yeah[1]   TWEET SCORE: 1
+no[-1]   TWEET SCORE: -1
+legal[1]   TWEET SCORE: 1
+want[1]   TWEET SCORE: 1
+legal[1]   TWEET SCORE: 1
+love[3]   TWEET SCORE: 3
+no[-1]   TWEET SCORE: -1
+wish[1]   TWEET SCORE: 1
+afraid[-2] no[-1] courage[2]   TWEET SCORE: -1
+trust[1] love[3]   TWEET SCORE: 4
+cool[1]   TWEET SCORE: 1
+lol[3]   TWEET SCORE: 3
+no[-1]   TWEET SCORE: -1
+bad[-3]   TWEET SCORE: -3
+like[2]   TWEET SCORE: 2
+good[3]   TWEET SCORE: 3
+cute[2]   TWEET SCORE: 2
+love[3]   TWEET SCORE: 3
+amazing[4]   TWEET SCORE: 4
+rescue[2] died[-3]   TWEET SCORE: -1
+love[3]   TWEET SCORE: 3
+good[3] better[2]   TWEET SCORE: 5
+alive[1]   TWEET SCORE: 1
+cute[2]   TWEET SCORE: 2
+love[3] love[3]   TWEET SCORE: 6
+haha[3]   TWEET SCORE: 3
+fail[-2]   TWEET SCORE: -2
+lol[3]   TWEET SCORE: 3
+crush[-1]   TWEET SCORE: -1
+ass[-4]   TWEET SCORE: -4
+big[1] crazy[-2]   TWEET SCORE: -1
+no[-1]   TWEET SCORE: -1
+no[-1]   TWEET SCORE: -1
+no[-1] no[-1]   TWEET SCORE: -2
+favorite[2] important[2]   TWEET SCORE: 4
+want[1]   TWEET SCORE: 1
+best[3]   TWEET SCORE: 3
+ha[2]   TWEET SCORE: 2
+chance[2] shit[-4]   TWEET SCORE: -2
+dick[-4]   TWEET SCORE: -4
+haha[3]   TWEET SCORE: 3
+shit[-4]   TWEET SCORE: -4
+hell[-4]   TWEET SCORE: -4
+no[-1]   TWEET SCORE: -1
+good[3]   TWEET SCORE: 3
+no[-1]   TWEET SCORE: -1
+dear[2] sweet[2]   TWEET SCORE: 4
+thank[2]   TWEET SCORE: 2
+loving[2]   TWEET SCORE: 2
+no[-1]   TWEET SCORE: -1
+enjoy[2]   TWEET SCORE: 2
+alarm[-2]   TWEET SCORE: -2
+help[2] falling[-1] love[3]   TWEET SCORE: 4
+no[-1]   TWEET SCORE: -1
+better[2] agree[1]   TWEET SCORE: 3
+piss[-4] love[3]   TWEET SCORE: -1
+good[3]   TWEET SCORE: 3
+good[3]   TWEET SCORE: 3
+ill[-2]   TWEET SCORE: -2
+happy[3]   TWEET SCORE: 3
+bitch[-5] disturbing[-2] complains[-2]   TWEET SCORE: -9
+beautiful[3]   TWEET SCORE: 3
+yes[1]   TWEET SCORE: 1
+problems[-2]   TWEET SCORE: -2
+win[4]   TWEET SCORE: 4
+good[3]   TWEET SCORE: 3
+god[1] hurt[-2] yeah[1] hurt[-2] lol[3] better[2]   TWEET SCORE: 3
+happy[3]   TWEET SCORE: 3
+great[3] good[3]   TWEET SCORE: 6
+like[2] happy[3]   TWEET SCORE: 5
+no[-1]   TWEET SCORE: -1
+shit[-4]   TWEET SCORE: -4
+success[2] success[2] pain[-2] pleasure[3] pain[-2] pleasure[3] success[2]   TWEET SCORE: 8
+lovely[3]   TWEET SCORE: 3
+beautiful[3] better[2] cry[-1] smiling[2]   TWEET SCORE: 6
+accepting[1]   TWEET SCORE: 1
+wtf[-4]   TWEET SCORE: -4
+love[3]   TWEET SCORE: 3
+desperate[-3]   TWEET SCORE: -3
+ill[-2]   TWEET SCORE: -2
+like[2]   TWEET SCORE: 2
+ha[2]   TWEET SCORE: 2
+sorry[-1]   TWEET SCORE: -1
+thank[2]   TWEET SCORE: 2
+better[2]   TWEET SCORE: 2
+good[3]   TWEET SCORE: 3
+no[-1]   TWEET SCORE: -1
+no[-1] no[-1]   TWEET SCORE: -2
+stop[-1] bad[-3]   TWEET SCORE: -4
+lol[3]   TWEET SCORE: 3
+love[3]   TWEET SCORE: 3
+no[-1] no[-1]   TWEET SCORE: -2
+certain[1]   TWEET SCORE: 1
+no[-1]   TWEET SCORE: -1
+no[-1]   TWEET SCORE: -1
+good[3] no[-1]   TWEET SCORE: 2
+lost[-3] paradise[3]   TWEET SCORE: 0
+like[2]   TWEET SCORE: 2
+interested[2]   TWEET SCORE: 2
+good[3]   TWEET SCORE: 3
+leave[-1]   TWEET SCORE: -1
+laugh[1] cute[2]   TWEET SCORE: 3
+want[1]   TWEET SCORE: 1
+like[2] best[3]   TWEET SCORE: 5
+like[2]   TWEET SCORE: 2
+haha[3]   TWEET SCORE: 3
+alarm[-2]   TWEET SCORE: -2
+no[-1]   TWEET SCORE: -1
+miss[-2]   TWEET SCORE: -2
+pay[-1]   TWEET SCORE: -1
+no[-1] no[-1]   TWEET SCORE: -2
+like[2] calm[2] bitch[-5] lol[3]   TWEET SCORE: 2
+active[1] bored[-2]   TWEET SCORE: -1
+straight[1]   TWEET SCORE: 1
+fear[-2] fear[-2] powerful[2]   TWEET SCORE: -2
+cut[-1]   TWEET SCORE: -1
+shit[-4]   TWEET SCORE: -4
+love[3] proud[2] no[-1] matter[1] wish[1]   TWEET SCORE: 6
+hell[-4]   TWEET SCORE: -4
+shared[1]   TWEET SCORE: 1
+want[1]   TWEET SCORE: 1
+engage[1] positively[2]   TWEET SCORE: 3
+enchanted[2]   TWEET SCORE: 2
+good[3]   TWEET SCORE: 3
+cut[-1]   TWEET SCORE: -1
+favor[2]   TWEET SCORE: 2
+shit[-4]   TWEET SCORE: -4
+no[-1]   TWEET SCORE: -1
+leave[-1]   TWEET SCORE: -1
+no[-1]   TWEET SCORE: -1
+want[1]   TWEET SCORE: 1
+idiot[-3]   TWEET SCORE: -3
+awesome[4]   TWEET SCORE: 4
+sorry[-1]   TWEET SCORE: -1
+sorry[-1]   TWEET SCORE: -1
+no[-1]   TWEET SCORE: -1
+lol[3] allow[1] leave[-1] unsatisfied[-2]   TWEET SCORE: 1
+lol[3]   TWEET SCORE: 3
+avoid[-1] jackass[-4]   TWEET SCORE: -5
+error[-2]   TWEET SCORE: -2
+want[1]   TWEET SCORE: 1
+doubt[-1] ha[2]   TWEET SCORE: 1
+proud[2] pretty[1]   TWEET SCORE: 3
+love[3]   TWEET SCORE: 3
+stop[-1]   TWEET SCORE: -1
+sad[-2] love[3] like[2] love[3]   TWEET SCORE: 6
+great[3]   TWEET SCORE: 3
+fucking[-4]   TWEET SCORE: -4
+niggas[-5] fuck[-4] niggas[-5]   TWEET SCORE: -14
+reached[1]   TWEET SCORE: 1
+like[2] trouble[-2] want[1]   TWEET SCORE: 1
+no[-1]   TWEET SCORE: -1
+like[2] interesting[2]   TWEET SCORE: 4
+twat[-5] like[2]   TWEET SCORE: -3
+like[2]   TWEET SCORE: 2
+heartbreaking[-3] best[3] lmao[4]   TWEET SCORE: 4
+feeling[1] free[1]   TWEET SCORE: 2
+no[-1]   TWEET SCORE: -1
+fresh[1] like[2]   TWEET SCORE: 3
+like[2] sadly[-2]   TWEET SCORE: 0
+lost[-3] shit[-4] best[3]   TWEET SCORE: -4
+exhausted[-2]   TWEET SCORE: -2
+niggas[-5]   TWEET SCORE: -5
+cool[1] admit[-1]   TWEET SCORE: 0
+powerful[2]   TWEET SCORE: 2
+want[1]   TWEET SCORE: 1
+funny[4] shit[-4]   TWEET SCORE: 0
+huge[1] dick[-4] like[2]   TWEET SCORE: -1
+regret[-2]   TWEET SCORE: -2
+missed[-2] like[2] missed[-2] amazing[4]   TWEET SCORE: 2
+like[2] like[2]   TWEET SCORE: 4
+miss[-2]   TWEET SCORE: -2
+lame[-2]   TWEET SCORE: -2
+please[1]   TWEET SCORE: 1
+ha[2]   TWEET SCORE: 2
+beautiful[3]   TWEET SCORE: 3
+fuck[-4]   TWEET SCORE: -4
+fun[4]   TWEET SCORE: 4
+goddamn[-3]   TWEET SCORE: -3
+problems[-2]   TWEET SCORE: -2
+fan[3] welcome[2]   TWEET SCORE: 5
+no[-1]   TWEET SCORE: -1
+good[3]   TWEET SCORE: 3
+pissed[-4]   TWEET SCORE: -4
+favorite[2] wasting[-2]   TWEET SCORE: 0
+beating[-1]   TWEET SCORE: -1
+no[-1] lol[3]   TWEET SCORE: 2
+want[1]   TWEET SCORE: 1
+notorious[-2]   TWEET SCORE: -2
+matter[1]   TWEET SCORE: 1
+like[2]   TWEET SCORE: 2
+true[2]   TWEET SCORE: 2
+no[-1] hahaha[3] haha[3]   TWEET SCORE: 5
+haha[3] no[-1] brilliant[4]   TWEET SCORE: 6
+no[-1]   TWEET SCORE: -1
+forget[-1]   TWEET SCORE: -1
+dull[-2]   TWEET SCORE: -2
+hope[2]   TWEET SCORE: 2
+miss[-2] love[3]   TWEET SCORE: 1
+no[-1]   TWEET SCORE: -1
+promise[1]   TWEET SCORE: 1
+true[2]   TWEET SCORE: 2
+praying[1]   TWEET SCORE: 1
+hell[-4] yeah[1] lol[3]   TWEET SCORE: 0
+great[3]   TWEET SCORE: 3
+love[3]   TWEET SCORE: 3
+shit[-4]   TWEET SCORE: -4
+yeah[1]   TWEET SCORE: 1
+hate[-3] like[2] stupid[-2] forgive[1]   TWEET SCORE: -2
+want[1]   TWEET SCORE: 1
+liked[2]   TWEET SCORE: 2
+fool[-2]   TWEET SCORE: -2
+want[1] die[-3]   TWEET SCORE: -2
+freedom[2]   TWEET SCORE: 2
+lmao[4] no[-1]   TWEET SCORE: 3
+no[-1]   TWEET SCORE: -1
+sorry[-1] bad[-3]   TWEET SCORE: -4
+good[3]   TWEET SCORE: 3
+nice[3]   TWEET SCORE: 3
+no[-1]   TWEET SCORE: -1
+fails[-2]   TWEET SCORE: -2
+please[1] nice[3] hope[2] fine[2]   TWEET SCORE: 8
+fight[-1]   TWEET SCORE: -1
+hurt[-2]   TWEET SCORE: -2
+bomb[-1]   TWEET SCORE: -1
+want[1]   TWEET SCORE: 1
+sexy[3]   TWEET SCORE: 3
+wtf[-4]   TWEET SCORE: -4
+good[3]   TWEET SCORE: 3
+lovely[3]   TWEET SCORE: 3
+kill[-3]   TWEET SCORE: -3
+sexy[3]   TWEET SCORE: 3
+no[-1] shocked[-2]   TWEET SCORE: -3
+bad[-3]   TWEET SCORE: -3
+attack[-1]   TWEET SCORE: -1
+pretty[1]   TWEET SCORE: 1
+blah[-2] blah[-2] blah[-2] blah[-2]   TWEET SCORE: -8
+want[1]   TWEET SCORE: 1
+bitch[-5] fuck[-4]   TWEET SCORE: -9
+like[2] hell[-4]   TWEET SCORE: -2
+no[-1] no[-1]   TWEET SCORE: -2
+no[-1]   TWEET SCORE: -1
+want[1]   TWEET SCORE: 1
+important[2] important[2]   TWEET SCORE: 4
+no[-1]   TWEET SCORE: -1
+no[-1]   TWEET SCORE: -1
+lol[3]   TWEET SCORE: 3
+fucking[-4] god[1] annoying[-2]   TWEET SCORE: -5
+good[3]   TWEET SCORE: 3
+fuck[-4]   TWEET SCORE: -4
+broke[-1]   TWEET SCORE: -1
+no[-1]   TWEET SCORE: -1
+proud[2]   TWEET SCORE: 2
+smile[2] warmth[2]   TWEET SCORE: 4
+ass[-4] calm[2]   TWEET SCORE: -2
+sweet[2] lol[3]   TWEET SCORE: 5
+great[3]   TWEET SCORE: 3
+no[-1]   TWEET SCORE: -1
+top[2]   TWEET SCORE: 2
+love[3]   TWEET SCORE: 3
+allow[1]   TWEET SCORE: 1
+genial[3] no[-1]   TWEET SCORE: 2
+die[-3]   TWEET SCORE: -3
+better[2]   TWEET SCORE: 2
+true[2]   TWEET SCORE: 2
+like[2] waste[-1]   TWEET SCORE: 1
+dislike[-2]   TWEET SCORE: -2
+no[-1]   TWEET SCORE: -1
+collapse[-2] lol[3]   TWEET SCORE: 1
+stupid[-2]   TWEET SCORE: -2
+bitches[-5]   TWEET SCORE: -5
+no[-1]   TWEET SCORE: -1
+no[-1]   TWEET SCORE: -1
+miss[-2] chance[2] best[3]   TWEET SCORE: 3
+no[-1]   TWEET SCORE: -1
+win[4]   TWEET SCORE: 4
+haha[3] yeah[1]   TWEET SCORE: 4
+grateful[3] bless[2]   TWEET SCORE: 5
+good[3]   TWEET SCORE: 3
+haha[3]   TWEET SCORE: 3
+fun[4] dumb[-3]   TWEET SCORE: 1
+cute[2]   TWEET SCORE: 2
+bad[-3] haha[3]   TWEET SCORE: 0
+big[1]   TWEET SCORE: 1
+messed[-2]   TWEET SCORE: -2
+tired[-2]   TWEET SCORE: -2
+no[-1]   TWEET SCORE: -1
+care[2]   TWEET SCORE: 2
+no[-1]   TWEET SCORE: -1
+bright[1] winning[4] pissed[-4]   TWEET SCORE: 1
+pay[-1]   TWEET SCORE: -1
+nice[3]   TWEET SCORE: 3
+haha[3]   TWEET SCORE: 3
+worth[2] losing[-3]   TWEET SCORE: -1
+lol[3]   TWEET SCORE: 3
+saved[2]   TWEET SCORE: 2
+miss[-2]   TWEET SCORE: -2
+drunk[-2]   TWEET SCORE: -2
+bitch[-5]   TWEET SCORE: -5
+forget[-1] like[2]   TWEET SCORE: 1
+bad[-3] sick[-2]   TWEET SCORE: -5
+stupid[-2] smart[1]   TWEET SCORE: -1
+problem[-2]   TWEET SCORE: -2
+reach[1]   TWEET SCORE: 1
+good[3]   TWEET SCORE: 3
+weird[-2]   TWEET SCORE: -2
+bitch[-5] shit[-4] envy[-1]   TWEET SCORE: -10
+shit[-4] fucking[-4]   TWEET SCORE: -8
+grace[1] died[-3]   TWEET SCORE: -2
+no[-1]   TWEET SCORE: -1
+no[-1]   TWEET SCORE: -1
+love[3]   TWEET SCORE: 3
+no[-1]   TWEET SCORE: -1
+want[1] miss[-2]   TWEET SCORE: -1
+yeah[1] promised[1]   TWEET SCORE: 2
+like[2] no[-1] fear[-2]   TWEET SCORE: -1
+honest[2]   TWEET SCORE: 2
+ha[2]   TWEET SCORE: 2
+no[-1]   TWEET SCORE: -1
+feeling[1]   TWEET SCORE: 1
+worry[-3]   TWEET SCORE: -3
+spirit[1] upset[-2] love[3]   TWEET SCORE: 2
+lol[3]   TWEET SCORE: 3
+fan[3]   TWEET SCORE: 3
+yeah[1]   TWEET SCORE: 1
+straight[1]   TWEET SCORE: 1
+sad[-2] sexy[3]   TWEET SCORE: 1
+shit[-4]   TWEET SCORE: -4
+want[1] better[2]   TWEET SCORE: 3
+weak[-2]   TWEET SCORE: -2
+hate[-3] steal[-2]   TWEET SCORE: -5
+ha[2]   TWEET SCORE: 2
+cruel[-3] dead[-3]   TWEET SCORE: -6
+want[1] perfect[3]   TWEET SCORE: 4
+win[4] win[4]   TWEET SCORE: 8
+fun[4]   TWEET SCORE: 4
+glee[3]   TWEET SCORE: 3
+no[-1]   TWEET SCORE: -1
+happy[3]   TWEET SCORE: 3
+ugly[-3]   TWEET SCORE: -3
+excited[3]   TWEET SCORE: 3
+miss[-2]   TWEET SCORE: -2
+kind[2]   TWEET SCORE: 2
+like[2]   TWEET SCORE: 2
+love[3]   TWEET SCORE: 3
+like[2]   TWEET SCORE: 2
+mad[-3]   TWEET SCORE: -3
+trauma[-3] lucky[3]   TWEET SCORE: 0
+feeling[1] alone[-2] win[4] no[-1]   TWEET SCORE: 2
+stop[-1] love[3]   TWEET SCORE: 2
+miss[-2]   TWEET SCORE: -2
+calm[2] relaxed[2]   TWEET SCORE: 4
+lol[3]   TWEET SCORE: 3
+hahaha[3]   TWEET SCORE: 3
+awesome[4]   TWEET SCORE: 4
+want[1]   TWEET SCORE: 1
+smiling[2] lmao[4]   TWEET SCORE: 6
+nervous[-2]   TWEET SCORE: -2
+lol[3]   TWEET SCORE: 3
+no[-1]   TWEET SCORE: -1
+no[-1]   TWEET SCORE: -1
+losing[-3]   TWEET SCORE: -3
+no[-1]   TWEET SCORE: -1
+attacking[-1]   TWEET SCORE: -1
+no[-1]   TWEET SCORE: -1
+awesome[4]   TWEET SCORE: 4
+horrible[-3] mess[-2]   TWEET SCORE: -5
+ha[2]   TWEET SCORE: 2
+poor[-2] dead[-3]   TWEET SCORE: -5
+hate[-3]   TWEET SCORE: -3
+love[3]   TWEET SCORE: 3
+stop[-1]   TWEET SCORE: -1
+wish[1] like[2]   TWEET SCORE: 3
+no[-1]   TWEET SCORE: -1
+hurt[-2]   TWEET SCORE: -2
+important[2] focused[2]   TWEET SCORE: 4
+fucking[-4]   TWEET SCORE: -4
+disgusting[-3]   TWEET SCORE: -3
+ha[2] ha[2] lol[3]   TWEET SCORE: 7
+wrong[-2]   TWEET SCORE: -2
+like[2] amazing[4]   TWEET SCORE: 6
+like[2]   TWEET SCORE: 2
+bad[-3]   TWEET SCORE: -3
+fight[-1]   TWEET SCORE: -1
+hope[2]   TWEET SCORE: 2
+bad[-3]   TWEET SCORE: -3
+no[-1]   TWEET SCORE: -1
+ha[2]   TWEET SCORE: 2
+easy[1] yes[1]   TWEET SCORE: 2
+love[3]   TWEET SCORE: 3
+hope[2]   TWEET SCORE: 2
+good[3] lol[3]   TWEET SCORE: 6
+fucking[-4] leave[-1] alone[-2]   TWEET SCORE: -7
+no[-1]   TWEET SCORE: -1
+hard[-1]   TWEET SCORE: -1
+fight[-1]   TWEET SCORE: -1
+important[2]   TWEET SCORE: 2
+miss[-2]   TWEET SCORE: -2
+no[-1]   TWEET SCORE: -1
+entertaining[2]   TWEET SCORE: 2
+nice[3] like[2]   TWEET SCORE: 5
+terror[-3]   TWEET SCORE: -3
+no[-1]   TWEET SCORE: -1
+stop[-1]   TWEET SCORE: -1
+awesome[4]   TWEET SCORE: 4
+ugly[-3] like[2]   TWEET SCORE: -1
+care[2]   TWEET SCORE: 2
+funny[4]   TWEET SCORE: 4
+mad[-3]   TWEET SCORE: -3
+top[2]   TWEET SCORE: 2
+best[3]   TWEET SCORE: 3
+no[-1]   TWEET SCORE: -1
+accidentally[-2] like[2]   TWEET SCORE: 0
+love[3] like[2]   TWEET SCORE: 5
+no[-1]   TWEET SCORE: -1
+no[-1]   TWEET SCORE: -1
+shit[-4] save[2] nice[3] stop[-1]   TWEET SCORE: 0
+liked[2]   TWEET SCORE: 2
+no[-1]   TWEET SCORE: -1
+no[-1]   TWEET SCORE: -1
+good[3]   TWEET SCORE: 3
+happy[3] bless[2]   TWEET SCORE: 5
+strong[2]   TWEET SCORE: 2
+reach[1]   TWEET SCORE: 1
+anti[-1] harm[-2]   TWEET SCORE: -3
+amazing[4]   TWEET SCORE: 4
+happy[3]   TWEET SCORE: 3
+no[-1]   TWEET SCORE: -1
+nerves[-1] happy[3] lol[3]   TWEET SCORE: 5
+smiles[2]   TWEET SCORE: 2
+no[-1] no[-1] no[-1]   TWEET SCORE: -3
+god[1]   TWEET SCORE: 1
+won[3]   TWEET SCORE: 3
+dream[1] want[1]   TWEET SCORE: 2
+foolish[-2] perfectly[3]   TWEET SCORE: 1
+bad[-3]   TWEET SCORE: -3
+alarm[-2]   TWEET SCORE: -2
+hahaha[3]   TWEET SCORE: 3
+no[-1]   TWEET SCORE: -1
+fun[4]   TWEET SCORE: 4
+fucking[-4] amazing[4]   TWEET SCORE: 0
+love[3]   TWEET SCORE: 3
+liked[2]   TWEET SCORE: 2
+no[-1]   TWEET SCORE: -1
+scared[-2] piss[-4]   TWEET SCORE: -6
+lucky[3]   TWEET SCORE: 3
+no[-1]   TWEET SCORE: -1
+leave[-1]   TWEET SCORE: -1
+fun[4] mock[-2] reaching[1]   TWEET SCORE: 3
+poor[-2]   TWEET SCORE: -2
+dreams[1] true[2] dream[1]   TWEET SCORE: 4
+love[3] happy[3]   TWEET SCORE: 6
+recommend[2]   TWEET SCORE: 2
+bad[-3]   TWEET SCORE: -3
+haha[3]   TWEET SCORE: 3
+fucking[-4] pleasure[3]   TWEET SCORE: -1
+good[3]   TWEET SCORE: 3
+love[3] love[3] love[3]   TWEET SCORE: 9
+love[3] love[3]   TWEET SCORE: 6
+bitches[-5] good[3]   TWEET SCORE: -2
+hahahah[3] dead[-3]   TWEET SCORE: 0
+share[1] like[2]   TWEET SCORE: 3
+ignore[-1]   TWEET SCORE: -1
+haha[3]   TWEET SCORE: 3
+yes[1]   TWEET SCORE: 1
+interesting[2]   TWEET SCORE: 2
+bad[-3]   TWEET SCORE: -3
+ill[-2] tits[-2]   TWEET SCORE: -4
+nice[3]   TWEET SCORE: 3
+like[2]   TWEET SCORE: 2
+fucked[-4] like[2]   TWEET SCORE: -2
+proud[2] challenge[-1]   TWEET SCORE: 1
+bitch[-5]   TWEET SCORE: -5
+good[3]   TWEET SCORE: 3
+regret[-2] regret[-2]   TWEET SCORE: -4
+rage[-2] stupid[-2] rage[-2]   TWEET SCORE: -6
+sadly[-2]   TWEET SCORE: -2
+fuck[-4]   TWEET SCORE: -4
+straight[1] drop[-1]   TWEET SCORE: 0
+fuck[-4]   TWEET SCORE: -4
+no[-1] no[-1]   TWEET SCORE: -2
+feeling[1]   TWEET SCORE: 1
+want[1]   TWEET SCORE: 1
+ass[-4] hell[-4]   TWEET SCORE: -8
+hahaha[3]   TWEET SCORE: 3
+sexy[3]   TWEET SCORE: 3
+no[-1]   TWEET SCORE: -1
+welcome[2]   TWEET SCORE: 2
+no[-1]   TWEET SCORE: -1
+hope[2]   TWEET SCORE: 2
+guilty[-3]   TWEET SCORE: -3
+tears[-2]   TWEET SCORE: -2
+nice[3]   TWEET SCORE: 3
+no[-1]   TWEET SCORE: -1
+ass[-4]   TWEET SCORE: -4
+good[3]   TWEET SCORE: 3
+interesting[2]   TWEET SCORE: 2
+no[-1]   TWEET SCORE: -1
+no[-1]   TWEET SCORE: -1
+wishing[1]   TWEET SCORE: 1
+leaked[-1]   TWEET SCORE: -1
+love[3]   TWEET SCORE: 3
+no[-1]   TWEET SCORE: -1
+no[-1]   TWEET SCORE: -1
+dislike[-2]   TWEET SCORE: -2
+doubt[-1]   TWEET SCORE: -1
+sorry[-1] like[2] apology[-1] apology[-1] sincere[2]   TWEET SCORE: 1
+miss[-2]   TWEET SCORE: -2
+good[3]   TWEET SCORE: 3
+no[-1]   TWEET SCORE: -1
+good[3]   TWEET SCORE: 3
+ill[-2] funny[4] funny[4]   TWEET SCORE: 6
+hell[-4]   TWEET SCORE: -4
+love[3]   TWEET SCORE: 3
+no[-1]   TWEET SCORE: -1
+adorable[3] please[1] stop[-1]   TWEET SCORE: 3
+miss[-2]   TWEET SCORE: -2
+no[-1]   TWEET SCORE: -1
+sweet[2]   TWEET SCORE: 2
+yes[1]   TWEET SCORE: 1
+alone[-2]   TWEET SCORE: -2
+legal[1]   TWEET SCORE: 1
+cancer[-1]   TWEET SCORE: -1
+shit[-4] like[2] dirty[-2]   TWEET SCORE: -4
+fucking[-4]   TWEET SCORE: -4
+crazy[-2]   TWEET SCORE: -2
+lol[3]   TWEET SCORE: 3
+exciting[3]   TWEET SCORE: 3
+win[4]   TWEET SCORE: 4
+cool[1] like[2]   TWEET SCORE: 3
+no[-1]   TWEET SCORE: -1
+ugly[-3]   TWEET SCORE: -3
+illegal[-3]   TWEET SCORE: -3
+no[-1] no[-1]   TWEET SCORE: -2
+fight[-1] stupid[-2]   TWEET SCORE: -3
+thanks[2]   TWEET SCORE: 2
+died[-3]   TWEET SCORE: -3
+ill[-2] lol[3]   TWEET SCORE: 1
+lost[-3]   TWEET SCORE: -3
+adventure[2]   TWEET SCORE: 2
+solve[1]   TWEET SCORE: 1
+crazy[-2]   TWEET SCORE: -2
+like[2] good[3]   TWEET SCORE: 5
+sorry[-1]   TWEET SCORE: -1
+mistakes[-2]   TWEET SCORE: -2
+suicide[-2]   TWEET SCORE: -2
+glad[3] free[1] best[3]   TWEET SCORE: 7
+mad[-3]   TWEET SCORE: -3
+sad[-2] depressed[-2]   TWEET SCORE: -4
+invite[1]   TWEET SCORE: 1
+miss[-2]   TWEET SCORE: -2
+bad[-3]   TWEET SCORE: -3
+happy[3]   TWEET SCORE: 3
+better[2]   TWEET SCORE: 2
+forget[-1]   TWEET SCORE: -1
+no[-1]   TWEET SCORE: -1
+no[-1]   TWEET SCORE: -1
+hurt[-2]   TWEET SCORE: -2
+no[-1]   TWEET SCORE: -1
+miss[-2]   TWEET SCORE: -2
+like[2] cock[-5] blocked[-1]   TWEET SCORE: -4
+feeling[1]   TWEET SCORE: 1
+amazing[4]   TWEET SCORE: 4
+no[-1]   TWEET SCORE: -1
+nice[3]   TWEET SCORE: 3
+like[2] shit[-4]   TWEET SCORE: -2
+no[-1]   TWEET SCORE: -1
+lol[3]   TWEET SCORE: 3
+haha[3]   TWEET SCORE: 3
+please[1]   TWEET SCORE: 1
+ignored[-2]   TWEET SCORE: -2
+sorry[-1]   TWEET SCORE: -1
+leave[-1] fight[-1]   TWEET SCORE: -2
+like[2]   TWEET SCORE: 2
+amazing[4] beautiful[3]   TWEET SCORE: 7
+enjoy[2]   TWEET SCORE: 2
+whore[-4] cares[2] whore[-4]   TWEET SCORE: -6
+win[4]   TWEET SCORE: 4
+lmfao[4] no[-1] shit[-4]   TWEET SCORE: -1
+easy[1] drop[-1]   TWEET SCORE: 0
+no[-1] no[-1]   TWEET SCORE: -2
+accepting[1]   TWEET SCORE: 1
+like[2]   TWEET SCORE: 2
+want[1] competitive[2] advantage[2] lol[3]   TWEET SCORE: 8
+no[-1]   TWEET SCORE: -1
+broke[-1]   TWEET SCORE: -1
+fucked[-4]   TWEET SCORE: -4
+sucks[-3]   TWEET SCORE: -3
+no[-1] stop[-1]   TWEET SCORE: -2
+want[1]   TWEET SCORE: 1
+feeling[1]   TWEET SCORE: 1
+no[-1]   TWEET SCORE: -1
+no[-1]   TWEET SCORE: -1
+grand[3]   TWEET SCORE: 3
+stopped[-1] wishes[1] wish[1]   TWEET SCORE: 1
+no[-1]   TWEET SCORE: -1
+broke[-1]   TWEET SCORE: -1
+miss[-2] happy[3]   TWEET SCORE: 1
+no[-1] no[-1]   TWEET SCORE: -2
+stuck[-2]   TWEET SCORE: -2
+moaning[-2]   TWEET SCORE: -2
+best[3]   TWEET SCORE: 3
+thanks[2]   TWEET SCORE: 2
+want[1]   TWEET SCORE: 1
+killed[-3]   TWEET SCORE: -3
+pissed[-4]   TWEET SCORE: -4
+excuse[-1] help[2] love[3]   TWEET SCORE: 4
+pretty[1]   TWEET SCORE: 1
+sorry[-1]   TWEET SCORE: -1
+want[1]   TWEET SCORE: 1
+no[-1]   TWEET SCORE: -1
+mad[-3] want[1]   TWEET SCORE: -2
+worry[-3]   TWEET SCORE: -3
+good[3]   TWEET SCORE: 3
+cry[-1] want[1]   TWEET SCORE: 0
+love[3]   TWEET SCORE: 3
+fucking[-4] die[-3]   TWEET SCORE: -7
+hahaha[3]   TWEET SCORE: 3
+want[1]   TWEET SCORE: 1
+damn[-4] miss[-2]   TWEET SCORE: -6
+want[1] thankful[2]   TWEET SCORE: 3
+congrats[2]   TWEET SCORE: 2
+amazing[4]   TWEET SCORE: 4
+super[3]   TWEET SCORE: 3
+stop[-1] blaming[-2]   TWEET SCORE: -3
+want[1]   TWEET SCORE: 1
+fun[4] join[1]   TWEET SCORE: 5
+no[-1] accept[1] want[1]   TWEET SCORE: 1
+cute[2]   TWEET SCORE: 2
+like[2] happy[3] happy[3]   TWEET SCORE: 8
+hard[-1]   TWEET SCORE: -1
+no[-1]   TWEET SCORE: -1
+like[2]   TWEET SCORE: 2
+like[2] hiding[-1] worth[2]   TWEET SCORE: 3
+great[3]   TWEET SCORE: 3
+crazy[-2]   TWEET SCORE: -2
+no[-1]   TWEET SCORE: -1
+lol[3]   TWEET SCORE: 3
+stop[-1]   TWEET SCORE: -1
+no[-1]   TWEET SCORE: -1
+no[-1]   TWEET SCORE: -1
+no[-1]   TWEET SCORE: -1
+no[-1]   TWEET SCORE: -1
+hope[2]   TWEET SCORE: 2
+invite[1]   TWEET SCORE: 1
+no[-1] no[-1]   TWEET SCORE: -2
+wish[1]   TWEET SCORE: 1
+shit[-4]   TWEET SCORE: -4
+bitch[-5] fucked[-4]   TWEET SCORE: -9
+fucking[-4] fucking[-4]   TWEET SCORE: -8
+best[3]   TWEET SCORE: 3
+no[-1]   TWEET SCORE: -1
+no[-1]   TWEET SCORE: -1
+fuck[-4]   TWEET SCORE: -4
+no[-1]   TWEET SCORE: -1
+good[3]   TWEET SCORE: 3
+no[-1]   TWEET SCORE: -1
+better[2]   TWEET SCORE: 2
+bored[-2]   TWEET SCORE: -2
+beautiful[3]   TWEET SCORE: 3
+no[-1] no[-1]   TWEET SCORE: -2
+like[2]   TWEET SCORE: 2
+woo[3]   TWEET SCORE: 3
+beautiful[3]   TWEET SCORE: 3
+love[3]   TWEET SCORE: 3
+active[1]   TWEET SCORE: 1
+love[3] like[2] best[3]   TWEET SCORE: 8
+tout[-2]   TWEET SCORE: -2
+like[2]   TWEET SCORE: 2
+no[-1] no[-1] no[-1]   TWEET SCORE: -3
+like[2] want[1]   TWEET SCORE: 3
+no[-1]   TWEET SCORE: -1
+tears[-2]   TWEET SCORE: -2
+care[2]   TWEET SCORE: 2
+trust[1] faith[1] winner[4]   TWEET SCORE: 6
+no[-1]   TWEET SCORE: -1
+no[-1]   TWEET SCORE: -1
+no[-1]   TWEET SCORE: -1
+thanks[2]   TWEET SCORE: 2
+annoying[-2] bitch[-5] fuck[-4]   TWEET SCORE: -11
+no[-1]   TWEET SCORE: -1
+support[2]   TWEET SCORE: 2
+no[-1]   TWEET SCORE: -1
+hahaha[3]   TWEET SCORE: 3
+crazy[-2] obsessed[2] lol[3]   TWEET SCORE: 3
+want[1]   TWEET SCORE: 1
+dick[-4]   TWEET SCORE: -4
+asshole[-4]   TWEET SCORE: -4
+lol[3]   TWEET SCORE: 3
+blaming[-2] sucks[-3]   TWEET SCORE: -5
+no[-1]   TWEET SCORE: -1
+haha[3] thank[2] haha[3] want[1]   TWEET SCORE: 9
+no[-1]   TWEET SCORE: -1
+nice[3]   TWEET SCORE: 3
+pretty[1]   TWEET SCORE: 1
+bad[-3] bad[-3]   TWEET SCORE: -6
+like[2] huge[1] fuck[-4]   TWEET SCORE: -1
+kind[2] like[2]   TWEET SCORE: 4
+amazing[4]   TWEET SCORE: 4
+no[-1] hahaha[3]   TWEET SCORE: 2
+hate[-3]   TWEET SCORE: -3
+courage[2] trust[1]   TWEET SCORE: 3
+miss[-2]   TWEET SCORE: -2
+yeah[1]   TWEET SCORE: 1
+no[-1]   TWEET SCORE: -1
+miss[-2] love[3]   TWEET SCORE: 1
+haha[3]   TWEET SCORE: 3
+stop[-1] like[2]   TWEET SCORE: 1
+like[2] yeah[1]   TWEET SCORE: 3
+great[3]   TWEET SCORE: 3
+no[-1] vision[1]   TWEET SCORE: 0
+hate[-3]   TWEET SCORE: -3
+cuts[-1]   TWEET SCORE: -1
+afraid[-2]   TWEET SCORE: -2
+forgive[1]   TWEET SCORE: 1
+unbelievable[-1]   TWEET SCORE: -1
+ass[-4]   TWEET SCORE: -4
+yeah[1]   TWEET SCORE: 1
+bitch[-5] fucked[-4]   TWEET SCORE: -9
+no[-1]   TWEET SCORE: -1
+good[3]   TWEET SCORE: 3
+exciting[3]   TWEET SCORE: 3
+good[3]   TWEET SCORE: 3
+want[1]   TWEET SCORE: 1
+no[-1]   TWEET SCORE: -1
+active[1]   TWEET SCORE: 1
+confused[-2] blame[-2]   TWEET SCORE: -4
+best[3]   TWEET SCORE: 3
+no[-1]   TWEET SCORE: -1
+want[1]   TWEET SCORE: 1
+no[-1] no[-1]   TWEET SCORE: -2
+broken[-1] loving[2]   TWEET SCORE: 1
+no[-1]   TWEET SCORE: -1
+no[-1]   TWEET SCORE: -1
+beautiful[3]   TWEET SCORE: 3
+dream[1] like[2]   TWEET SCORE: 3
+no[-1] join[1]   TWEET SCORE: 0
+like[2]   TWEET SCORE: 2
+fuck[-4]   TWEET SCORE: -4
+love[3]   TWEET SCORE: 3
+please[1] appreciated[2]   TWEET SCORE: 3
+lol[3]   TWEET SCORE: 3
+like[2] shit[-4]   TWEET SCORE: -2
+guilty[-3]   TWEET SCORE: -3
+no[-1]   TWEET SCORE: -1
+accuse[-2]   TWEET SCORE: -2
+miss[-2]   TWEET SCORE: -2
+shocked[-2] lol[3]   TWEET SCORE: 1
+no[-1]   TWEET SCORE: -1
+shit[-4]   TWEET SCORE: -4
+swear[-2]   TWEET SCORE: -2
+no[-1]   TWEET SCORE: -1
+smiling[2]   TWEET SCORE: 2
+lovely[3]   TWEET SCORE: 3
+tout[-2]   TWEET SCORE: -2
+no[-1]   TWEET SCORE: -1
+excited[3]   TWEET SCORE: 3
+greetings[2] loved[3]   TWEET SCORE: 5
+perfect[3]   TWEET SCORE: 3
+love[3]   TWEET SCORE: 3
+highlight[2] shitty[-3]   TWEET SCORE: -1
+grey[-1] top[2] haha[3]   TWEET SCORE: 4
+excited[3]   TWEET SCORE: 3
+favorite[2]   TWEET SCORE: 2
+cool[1] like[2] like[2]   TWEET SCORE: 5
+swearing[-2]   TWEET SCORE: -2
+bitch[-5] fucked[-4]   TWEET SCORE: -9
+no[-1]   TWEET SCORE: -1
+happy[3] fake[-3] smile[2]   TWEET SCORE: 2
+regret[-2]   TWEET SCORE: -2
+no[-1]   TWEET SCORE: -1
+best[3]   TWEET SCORE: 3
+nice[3]   TWEET SCORE: 3
+no[-1] error[-2] no[-1] no[-1] no[-1]   TWEET SCORE: -6
+fail[-2] stop[-1] lame[-2] ass[-4] excuse[-1]   TWEET SCORE: -10
+please[1]   TWEET SCORE: 1
+fucked[-4] fucked[-4]   TWEET SCORE: -8
+hope[2] like[2] thank[2]   TWEET SCORE: 6
+hope[2]   TWEET SCORE: 2
+better[2]   TWEET SCORE: 2
+yes[1] yes[1] yes[1] yes[1]   TWEET SCORE: 4
+bored[-2]   TWEET SCORE: -2
+bitch[-5] fucked[-4]   TWEET SCORE: -9
+impress[3]   TWEET SCORE: 3
+no[-1]   TWEET SCORE: -1
+gift[2] fantastic[4] fair[2]   TWEET SCORE: 8
+cutting[-1]   TWEET SCORE: -1
+bitch[-5] fucked[-4]   TWEET SCORE: -9
+miss[-2]   TWEET SCORE: -2
+want[1] cock[-5] bad[-3]   TWEET SCORE: -7
+fond[2]   TWEET SCORE: 2
+like[2] loved[3]   TWEET SCORE: 5
+best[3]   TWEET SCORE: 3
+lol[3]   TWEET SCORE: 3
+top[2]   TWEET SCORE: 2
+no[-1]   TWEET SCORE: -1
+haha[3]   TWEET SCORE: 3
+ass[-4]   TWEET SCORE: -4
+top[2] easy[1]   TWEET SCORE: 3
+great[3] great[3]   TWEET SCORE: 6
+hopeless[-2] best[3]   TWEET SCORE: 1
+want[1]   TWEET SCORE: 1
+love[3] like[2]   TWEET SCORE: 5
+celebrate[3] shit[-4]   TWEET SCORE: -1
+want[1] focused[2]   TWEET SCORE: 3
+no[-1] no[-1] no[-1]   TWEET SCORE: -3
+cruel[-3]   TWEET SCORE: -3
+cares[2]   TWEET SCORE: 2
+like[2]   TWEET SCORE: 2
+haha[3]   TWEET SCORE: 3
+lol[3]   TWEET SCORE: 3
+laugh[1]   TWEET SCORE: 1
+like[2]   TWEET SCORE: 2
+no[-1] no[-1]   TWEET SCORE: -2
+no[-1]   TWEET SCORE: -1
+depressing[-2]   TWEET SCORE: -2
+liked[2]   TWEET SCORE: 2
+no[-1]   TWEET SCORE: -1
+miss[-2]   TWEET SCORE: -2
+like[2]   TWEET SCORE: 2
+love[3]   TWEET SCORE: 3
+miss[-2]   TWEET SCORE: -2
+mistake[-2]   TWEET SCORE: -2
+bad[-3]   TWEET SCORE: -3
+amazing[4]   TWEET SCORE: 4
+gag[-2]   TWEET SCORE: -2
+loved[3] lost[-3] missed[-2] hurt[-2] trusted[2] mistakes[-2]   TWEET SCORE: -4
+carefully[2]   TWEET SCORE: 2
+obsessed[2]   TWEET SCORE: 2
+love[3] appreciate[2] kind[2]   TWEET SCORE: 7
+blame[-2]   TWEET SCORE: -2
+niggas[-5] niggas[-5]   TWEET SCORE: -10
+piss[-4]   TWEET SCORE: -4
+amazing[4]   TWEET SCORE: 4
+swear[-2] shit[-4]   TWEET SCORE: -6
+beautiful[3]   TWEET SCORE: 3
+no[-1]   TWEET SCORE: -1
+hate[-3]   TWEET SCORE: -3
+want[1]   TWEET SCORE: 1
+thank[2]   TWEET SCORE: 2
+like[2] fuck[-4] like[2]   TWEET SCORE: 0
+shit[-4] suck[-3]   TWEET SCORE: -7
+bitch[-5]   TWEET SCORE: -5
+fucking[-4]   TWEET SCORE: -4
+worth[2] worth[2]   TWEET SCORE: 4
+no[-1]   TWEET SCORE: -1
+amazing[4]   TWEET SCORE: 4
+nice[3]   TWEET SCORE: 3
+like[2]   TWEET SCORE: 2
+favor[2]   TWEET SCORE: 2
+lol[3] swear[-2]   TWEET SCORE: 1
+favorite[2]   TWEET SCORE: 2
+want[1]   TWEET SCORE: 1
+perfect[3]   TWEET SCORE: 3
+ass[-4] tension[-1]   TWEET SCORE: -5
+like[2]   TWEET SCORE: 2
+nice[3] like[2]   TWEET SCORE: 5
+haha[3]   TWEET SCORE: 3
+please[1]   TWEET SCORE: 1
+unemployment[-2]   TWEET SCORE: -2
+want[1]   TWEET SCORE: 1
+true[2]   TWEET SCORE: 2
+fuck[-4] bitch[-5]   TWEET SCORE: -9
+good[3]   TWEET SCORE: 3
+sexy[3]   TWEET SCORE: 3
+no[-1]   TWEET SCORE: -1
+no[-1]   TWEET SCORE: -1
+sorry[-1]   TWEET SCORE: -1
+shit[-4]   TWEET SCORE: -4
+ass[-4]   TWEET SCORE: -4
+worse[-3]   TWEET SCORE: -3
+fan[3]   TWEET SCORE: 3
+no[-1]   TWEET SCORE: -1
+shit[-4]   TWEET SCORE: -4
+no[-1]   TWEET SCORE: -1
+enjoy[2]   TWEET SCORE: 2
+no[-1]   TWEET SCORE: -1
+lol[3]   TWEET SCORE: 3
+cuts[-1]   TWEET SCORE: -1
+love[3]   TWEET SCORE: 3
+lag[-1]   TWEET SCORE: -1
+faith[1] worst[-3] haters[-3]   TWEET SCORE: -5
+protest[-2] violence[-3]   TWEET SCORE: -5
+like[2]   TWEET SCORE: 2
+beautiful[3]   TWEET SCORE: 3
+whore[-4] interesting[2]   TWEET SCORE: -2
+wonderful[4] celebrate[3]   TWEET SCORE: 7
+bitches[-5] good[3]   TWEET SCORE: -2
+thank[2] miss[-2]   TWEET SCORE: 0
+good[3]   TWEET SCORE: 3
+no[-1]   TWEET SCORE: -1
+hard[-1] good[3]   TWEET SCORE: 2
+lol[3]   TWEET SCORE: 3
+big[1]   TWEET SCORE: 1
+love[3] love[3]   TWEET SCORE: 6
+favor[2]   TWEET SCORE: 2
+no[-1]   TWEET SCORE: -1
+poor[-2]   TWEET SCORE: -2
+miss[-2]   TWEET SCORE: -2
+awesome[4] lol[3] lol[3]   TWEET SCORE: 10
+hard[-1]   TWEET SCORE: -1
+favorite[2] love[3] love[3] obsessed[2]   TWEET SCORE: 10
+ugly[-3]   TWEET SCORE: -3
+hahaha[3]   TWEET SCORE: 3
+foolish[-2] missing[-2]   TWEET SCORE: -4
+missing[-2]   TWEET SCORE: -2
+no[-1]   TWEET SCORE: -1
+sexy[3]   TWEET SCORE: 3
+crying[-2]   TWEET SCORE: -2
+yes[1]   TWEET SCORE: 1
+leave[-1]   TWEET SCORE: -1
+hate[-3]   TWEET SCORE: -3
+amazing[4]   TWEET SCORE: 4
+crying[-2]   TWEET SCORE: -2
+no[-1]   TWEET SCORE: -1
+no[-1]   TWEET SCORE: -1
+like[2] hate[-3]   TWEET SCORE: -1
+miss[-2] like[2]   TWEET SCORE: 0
+cut[-1]   TWEET SCORE: -1
+important[2]   TWEET SCORE: 2
+calm[2]   TWEET SCORE: 2
+drunk[-2]   TWEET SCORE: -2
+convinced[1] happy[3] no[-1]   TWEET SCORE: 3
+fucking[-4] prick[-5]   TWEET SCORE: -9
+no[-1]   TWEET SCORE: -1
+kill[-3]   TWEET SCORE: -3
+like[2]   TWEET SCORE: 2
+suave[2]   TWEET SCORE: 2
+happy[3] beautiful[3]   TWEET SCORE: 6
+no[-1] no[-1]   TWEET SCORE: -2
+ugly[-3]   TWEET SCORE: -3
+better[2]   TWEET SCORE: 2
+cried[-2]   TWEET SCORE: -2
+thanks[2] love[3]   TWEET SCORE: 5
+god[1]   TWEET SCORE: 1
+worth[2] worth[2]   TWEET SCORE: 4
+like[2]   TWEET SCORE: 2
+tired[-2]   TWEET SCORE: -2
+bitches[-5]   TWEET SCORE: -5
+want[1]   TWEET SCORE: 1
+like[2]   TWEET SCORE: 2
+ha[2]   TWEET SCORE: 2
+love[3] best[3]   TWEET SCORE: 6
+like[2]   TWEET SCORE: 2
+no[-1]   TWEET SCORE: -1
+want[1]   TWEET SCORE: 1
+want[1] failing[-2] bother[-2]   TWEET SCORE: -3
+shameful[-2] like[2] pretend[-1]   TWEET SCORE: -1
+hope[2] forgive[1]   TWEET SCORE: 3
+want[1]   TWEET SCORE: 1
+ill[-2]   TWEET SCORE: -2
+lol[3]   TWEET SCORE: 3
+good[3] like[2]   TWEET SCORE: 5
+haha[3]   TWEET SCORE: 3
+cock[-5] blocking[-1]   TWEET SCORE: -6
+lmao[4]   TWEET SCORE: 4
+weird[-2]   TWEET SCORE: -2
+like[2]   TWEET SCORE: 2
+best[3]   TWEET SCORE: 3
+win[4]   TWEET SCORE: 4
+interesting[2]   TWEET SCORE: 2
+no[-1]   TWEET SCORE: -1
+lol[3]   TWEET SCORE: 3
+want[1]   TWEET SCORE: 1
+free[1]   TWEET SCORE: 1
+bitches[-5]   TWEET SCORE: -5
+better[2]   TWEET SCORE: 2
+offend[-2]   TWEET SCORE: -2
+bitch[-5] fucked[-4]   TWEET SCORE: -9
+miss[-2]   TWEET SCORE: -2
+lol[3]   TWEET SCORE: 3
+love[3]   TWEET SCORE: 3
+fun[4] like[2]   TWEET SCORE: 6
+god[1] fucking[-4] help[2]   TWEET SCORE: -1
+genial[3]   TWEET SCORE: 3
+hate[-3]   TWEET SCORE: -3
+badly[-3]   TWEET SCORE: -3
+no[-1]   TWEET SCORE: -1
+favorite[2]   TWEET SCORE: 2
+super[3]   TWEET SCORE: 3
+amazing[4]   TWEET SCORE: 4
+want[1]   TWEET SCORE: 1
+killing[-3]   TWEET SCORE: -3
+love[3]   TWEET SCORE: 3
+love[3]   TWEET SCORE: 3
+no[-1]   TWEET SCORE: -1
+no[-1] no[-1]   TWEET SCORE: -2
+no[-1]   TWEET SCORE: -1
+like[2] happy[3]   TWEET SCORE: 5
+hopeless[-2]   TWEET SCORE: -2
+no[-1]   TWEET SCORE: -1
+want[1]   TWEET SCORE: 1
+nice[3]   TWEET SCORE: 3
+bomb[-1]   TWEET SCORE: -1
+gained[2]   TWEET SCORE: 2
+fuck[-4]   TWEET SCORE: -4
+bored[-2]   TWEET SCORE: -2
+true[2]   TWEET SCORE: 2
+love[3]   TWEET SCORE: 3
+cute[2] fucking[-4]   TWEET SCORE: -2
+no[-1]   TWEET SCORE: -1
+no[-1]   TWEET SCORE: -1
+no[-1]   TWEET SCORE: -1
+no[-1]   TWEET SCORE: -1
+hard[-1] good[3]   TWEET SCORE: 2
+no[-1]   TWEET SCORE: -1
+win[4]   TWEET SCORE: 4
+ha[2]   TWEET SCORE: 2
+best[3]   TWEET SCORE: 3
+bored[-2]   TWEET SCORE: -2
+fine[2] ill[-2] damn[-4]   TWEET SCORE: -4
+fucked[-4] fucked[-4]   TWEET SCORE: -8
+no[-1]   TWEET SCORE: -1
+hahaha[3]   TWEET SCORE: 3
+love[3] hate[-3] like[2]   TWEET SCORE: 2
+bitch[-5] bomb[-1]   TWEET SCORE: -6
+yeah[1]   TWEET SCORE: 1
+ignorant[-2]   TWEET SCORE: -2
+want[1] want[1]   TWEET SCORE: 2
+fight[-1]   TWEET SCORE: -1
+like[2]   TWEET SCORE: 2
+no[-1]   TWEET SCORE: -1
+mistake[-2]   TWEET SCORE: -2
+top[2] love[3]   TWEET SCORE: 5
+like[2] awesome[4]   TWEET SCORE: 6
+wish[1] best[3]   TWEET SCORE: 4
+hahaha[3]   TWEET SCORE: 3
+please[1] happy[3] hate[-3] sad[-2] love[3] nice[3]   TWEET SCORE: 5
+exhausted[-2]   TWEET SCORE: -2
+miss[-2] fake[-3]   TWEET SCORE: -5
+bitch[-5] asshole[-4] perfect[3]   TWEET SCORE: -6
+great[3]   TWEET SCORE: 3
+fan[3]   TWEET SCORE: 3
+stop[-1] adorable[3]   TWEET SCORE: 2
+hard[-1]   TWEET SCORE: -1
+positive[2] kill[-3] good[3]   TWEET SCORE: 2
+no[-1]   TWEET SCORE: -1
+cute[2] fucking[-4]   TWEET SCORE: -2
+no[-1]   TWEET SCORE: -1
+no[-1]   TWEET SCORE: -1
+killing[-3] want[1] badly[-3]   TWEET SCORE: -5
+good[3]   TWEET SCORE: 3
+thanks[2]   TWEET SCORE: 2
+love[3]   TWEET SCORE: 3
+irresistible[2]   TWEET SCORE: 2
+congrats[2]   TWEET SCORE: 2
+love[3]   TWEET SCORE: 3
+leave[-1] ridiculous[-3]   TWEET SCORE: -4
+allow[1] firing[-2] no[-1]   TWEET SCORE: -2
+love[3]   TWEET SCORE: 3
+love[3] big[1] nice[3] lol[3]   TWEET SCORE: 10
+no[-1]   TWEET SCORE: -1
+damn[-4]   TWEET SCORE: -4
+proud[2]   TWEET SCORE: 2
+haha[3]   TWEET SCORE: 3
+best[3] bless[2] protect[1]   TWEET SCORE: 6
+good[3]   TWEET SCORE: 3
+no[-1]   TWEET SCORE: -1
+welcome[2]   TWEET SCORE: 2
+active[1]   TWEET SCORE: 1
+stopped[-1]   TWEET SCORE: -1
+help[2] protesters[-2] please[1]   TWEET SCORE: 1
+like[2]   TWEET SCORE: 2
+interest[1]   TWEET SCORE: 1
+no[-1]   TWEET SCORE: -1
+no[-1]   TWEET SCORE: -1
+no[-1]   TWEET SCORE: -1
+no[-1]   TWEET SCORE: -1
+curious[1]   TWEET SCORE: 1
+no[-1]   TWEET SCORE: -1
+no[-1]   TWEET SCORE: -1
+no[-1]   TWEET SCORE: -1
+good[3]   TWEET SCORE: 3
+no[-1] terrible[-3]   TWEET SCORE: -4
+clearly[1] dump[-1]   TWEET SCORE: 0
+no[-1]   TWEET SCORE: -1
+big[1]   TWEET SCORE: 1
+like[2]   TWEET SCORE: 2
+stupid[-2] hope[2] leave[-1]   TWEET SCORE: -1
+no[-1]   TWEET SCORE: -1
+interested[2]   TWEET SCORE: 2
+worry[-3]   TWEET SCORE: -3
+trust[1]   TWEET SCORE: 1
+wow[4] bad[-3] lol[3]   TWEET SCORE: 4
+no[-1]   TWEET SCORE: -1
+no[-1]   TWEET SCORE: -1
+joke[2]   TWEET SCORE: 2
+better[2]   TWEET SCORE: 2
+greatest[3]   TWEET SCORE: 3
+cut[-1]   TWEET SCORE: -1
+jealous[-2]   TWEET SCORE: -2
+hurts[-2]   TWEET SCORE: -2
+confidence[2]   TWEET SCORE: 2
+lol[3]   TWEET SCORE: 3
+no[-1]   TWEET SCORE: -1
+fallen[-2] cute[2]   TWEET SCORE: 0
+lol[3]   TWEET SCORE: 3
+yeah[1]   TWEET SCORE: 1
+nice[3]   TWEET SCORE: 3
+obsessed[2] cares[2]   TWEET SCORE: 4
+darkness[-1] hard[-1]   TWEET SCORE: -2
+hate[-3]   TWEET SCORE: -3
+wish[1] fucking[-4]   TWEET SCORE: -3
+like[2] disgusting[-3]   TWEET SCORE: -1
+good[3]   TWEET SCORE: 3
+want[1]   TWEET SCORE: 1
+help[2]   TWEET SCORE: 2
+hate[-3] fucking[-4]   TWEET SCORE: -7
+like[2] insecure[-2] like[2] shit[-4]   TWEET SCORE: -2
+haha[3]   TWEET SCORE: 3
+like[2]   TWEET SCORE: 2
+hahaha[3]   TWEET SCORE: 3
+like[2]   TWEET SCORE: 2
+no[-1]   TWEET SCORE: -1
+like[2] sad[-2]   TWEET SCORE: 0
+no[-1]   TWEET SCORE: -1
+no[-1]   TWEET SCORE: -1
+fuck[-4] hard[-1]   TWEET SCORE: -5
+best[3] feeling[1] laugh[1] crying[-2]   TWEET SCORE: 3
+no[-1]   TWEET SCORE: -1
+suck[-3]   TWEET SCORE: -3
+big[1]   TWEET SCORE: 1
+stops[-1]   TWEET SCORE: -1
+pray[1] winner[4]   TWEET SCORE: 5
+no[-1]   TWEET SCORE: -1
+good[3]   TWEET SCORE: 3
+no[-1]   TWEET SCORE: -1
+won[3]   TWEET SCORE: 3
+worth[2]   TWEET SCORE: 2
+hate[-3] hate[-3]   TWEET SCORE: -6
+leave[-1]   TWEET SCORE: -1
+like[2]   TWEET SCORE: 2
+matters[1] matters[1] cares[2]   TWEET SCORE: 4
+fuck[-4]   TWEET SCORE: -4
+love[3] niggas[-5]   TWEET SCORE: -2
+no[-1]   TWEET SCORE: -1
+pretty[1]   TWEET SCORE: 1
+like[2] heaven[2]   TWEET SCORE: 4
+like[2] better[2] feeling[1]   TWEET SCORE: 5
+like[2] love[3]   TWEET SCORE: 5
+pretty[1] tits[-2] fucking[-4]   TWEET SCORE: -5
+no[-1]   TWEET SCORE: -1
+ass[-4]   TWEET SCORE: -4
+funny[4]   TWEET SCORE: 4
+no[-1]   TWEET SCORE: -1
+best[3]   TWEET SCORE: 3
+no[-1]   TWEET SCORE: -1
+win[4]   TWEET SCORE: 4
+hate[-3]   TWEET SCORE: -3
+boring[-3]   TWEET SCORE: -3
+no[-1] no[-1]   TWEET SCORE: -2
+want[1]   TWEET SCORE: 1
+fucking[-4]   TWEET SCORE: -4
+genial[3]   TWEET SCORE: 3
+shit[-4]   TWEET SCORE: -4
+free[1]   TWEET SCORE: 1
+cut[-1]   TWEET SCORE: -1
+no[-1]   TWEET SCORE: -1
+no[-1]   TWEET SCORE: -1
+trust[1] dumb[-3] excellent[3] support[2]   TWEET SCORE: 3
+badass[-3]   TWEET SCORE: -3
+bad[-3]   TWEET SCORE: -3
+lost[-3]   TWEET SCORE: -3
+no[-1]   TWEET SCORE: -1
+no[-1]   TWEET SCORE: -1
+winner[4]   TWEET SCORE: 4
+enjoy[2] hope[2] enjoy[2]   TWEET SCORE: 6
+bitch[-5]   TWEET SCORE: -5
+banned[-2]   TWEET SCORE: -2
+better[2] winning[4]   TWEET SCORE: 6
+best[3]   TWEET SCORE: 3
+haha[3]   TWEET SCORE: 3
+upset[-2] promise[1]   TWEET SCORE: -1
+bitch[-5] fucked[-4]   TWEET SCORE: -9
+want[1]   TWEET SCORE: 1
+miss[-2]   TWEET SCORE: -2
+no[-1]   TWEET SCORE: -1
+pretty[1]   TWEET SCORE: 1
+gain[2]   TWEET SCORE: 2
+like[2]   TWEET SCORE: 2
+hate[-3]   TWEET SCORE: -3
+scare[-2] scare[-2]   TWEET SCORE: -4
+worse[-3] pain[-2]   TWEET SCORE: -5
+good[3]   TWEET SCORE: 3
+want[1] fun[4]   TWEET SCORE: 5
+better[2]   TWEET SCORE: 2
+no[-1]   TWEET SCORE: -1
+accuse[-2]   TWEET SCORE: -2
+enjoying[2]   TWEET SCORE: 2
+cares[2]   TWEET SCORE: 2
+want[1]   TWEET SCORE: 1
+liked[2]   TWEET SCORE: 2
+like[2]   TWEET SCORE: 2
+fucked[-4]   TWEET SCORE: -4
+advanced[1] love[3]   TWEET SCORE: 4
+like[2]   TWEET SCORE: 2
+wish[1]   TWEET SCORE: 1
+no[-1]   TWEET SCORE: -1
+clearly[1]   TWEET SCORE: 1
+no[-1]   TWEET SCORE: -1
+stop[-1]   TWEET SCORE: -1
+want[1]   TWEET SCORE: 1
+no[-1]   TWEET SCORE: -1
+save[2]   TWEET SCORE: 2
+dirty[-2] sexy[3]   TWEET SCORE: 1
+fun[4] miss[-2]   TWEET SCORE: 2
+like[2] fun[4] ignore[-1] leave[-1]   TWEET SCORE: 4
+no[-1]   TWEET SCORE: -1
+nice[3]   TWEET SCORE: 3
+fascinates[3]   TWEET SCORE: 3
+no[-1]   TWEET SCORE: -1
+yes[1]   TWEET SCORE: 1
+hope[2]   TWEET SCORE: 2
+no[-1]   TWEET SCORE: -1
+cute[2]   TWEET SCORE: 2
+like[2]   TWEET SCORE: 2
+no[-1] bullshit[-4]   TWEET SCORE: -5
+destroyed[-3]   TWEET SCORE: -3
+messed[-2] bad[-3]   TWEET SCORE: -5
+matter[1]   TWEET SCORE: 1
+trust[1]   TWEET SCORE: 1
+like[2]   TWEET SCORE: 2
+free[1]   TWEET SCORE: 1
+no[-1]   TWEET SCORE: -1
+lol[3]   TWEET SCORE: 3
+no[-1]   TWEET SCORE: -1
+shit[-4]   TWEET SCORE: -4
+no[-1]   TWEET SCORE: -1
+yeah[1]   TWEET SCORE: 1
+haha[3] cool[1]   TWEET SCORE: 4
+matter[1]   TWEET SCORE: 1
+wish[1] hate[-3]   TWEET SCORE: -2
+annoying[-2] fuck[-4]   TWEET SCORE: -6
+cancer[-1]   TWEET SCORE: -1
+like[2] awesome[4]   TWEET SCORE: 6
+no[-1]   TWEET SCORE: -1
+top[2]   TWEET SCORE: 2
+love[3]   TWEET SCORE: 3
+haha[3]   TWEET SCORE: 3
+super[3]   TWEET SCORE: 3
+excited[3]   TWEET SCORE: 3
+dear[2] sweet[2]   TWEET SCORE: 4
+wishing[1] best[3]   TWEET SCORE: 4
+lucky[3]   TWEET SCORE: 3
+loving[2]   TWEET SCORE: 2
+like[2]   TWEET SCORE: 2
+want[1]   TWEET SCORE: 1
+kiss[2]   TWEET SCORE: 2
+retreat[-1] lol[3]   TWEET SCORE: 2
+no[-1]   TWEET SCORE: -1
+no[-1] problem[-2]   TWEET SCORE: -3
+no[-1] nasty[-3] ass[-4]   TWEET SCORE: -8
+dumb[-3] ass[-4]   TWEET SCORE: -7
+haha[3]   TWEET SCORE: 3
+smiled[2]   TWEET SCORE: 2
+want[1] stop[-1]   TWEET SCORE: 0
+better[2]   TWEET SCORE: 2
+no[-1]   TWEET SCORE: -1
+lmao[4] wish[1]   TWEET SCORE: 5
+annoys[-2]   TWEET SCORE: -2
+weird[-2]   TWEET SCORE: -2
+hate[-3]   TWEET SCORE: -3
+lazy[-1]   TWEET SCORE: -1
+agree[1]   TWEET SCORE: 1
+no[-1]   TWEET SCORE: -1
+sad[-2]   TWEET SCORE: -2
+pretty[1]   TWEET SCORE: 1
+no[-1] no[-1]   TWEET SCORE: -2
+no[-1]   TWEET SCORE: -1
+no[-1] no[-1]   TWEET SCORE: -2
+bitch[-5]   TWEET SCORE: -5
+lol[3]   TWEET SCORE: 3
+smile[2] scared[-2]   TWEET SCORE: 0
+want[1]   TWEET SCORE: 1
+broke[-1]   TWEET SCORE: -1
+hahaha[3]   TWEET SCORE: 3
+sexy[3]   TWEET SCORE: 3
+want[1] suck[-3] yes[1] want[1]   TWEET SCORE: 0
+no[-1]   TWEET SCORE: -1
+lol[3]   TWEET SCORE: 3
+no[-1]   TWEET SCORE: -1
+hate[-3]   TWEET SCORE: -3
+help[2]   TWEET SCORE: 2
+stop[-1]   TWEET SCORE: -1
+kind[2]   TWEET SCORE: 2
+favorite[2]   TWEET SCORE: 2
+no[-1]   TWEET SCORE: -1
+leave[-1]   TWEET SCORE: -1
+love[3]   TWEET SCORE: 3
+best[3]   TWEET SCORE: 3
+no[-1]   TWEET SCORE: -1
+boring[-3]   TWEET SCORE: -3
+no[-1]   TWEET SCORE: -1
+proud[2]   TWEET SCORE: 2
+no[-1]   TWEET SCORE: -1
+liked[2]   TWEET SCORE: 2
+love[3]   TWEET SCORE: 3
+happy[3] sad[-2]   TWEET SCORE: 1
+leave[-1]   TWEET SCORE: -1
+accuse[-2]   TWEET SCORE: -2
+ha[2]   TWEET SCORE: 2
+thanks[2]   TWEET SCORE: 2
+shit[-4]   TWEET SCORE: -4
+bored[-2] thank[2] worried[-3]   TWEET SCORE: -3
+want[1] wish[1]   TWEET SCORE: 2
+good[3]   TWEET SCORE: 3
+happy[3]   TWEET SCORE: 3
+no[-1]   TWEET SCORE: -1
+no[-1]   TWEET SCORE: -1
+love[3] smile[2] smile[2]   TWEET SCORE: 7
+no[-1]   TWEET SCORE: -1
+chance[2] fallen[-2] hard[-1]   TWEET SCORE: -1
+misery[-2]   TWEET SCORE: -2
+no[-1]   TWEET SCORE: -1
+lucky[3] bastard[-5]   TWEET SCORE: -2
+like[2]   TWEET SCORE: 2
+god[1] help[2]   TWEET SCORE: 3
+no[-1]   TWEET SCORE: -1
+darkest[-2] love[3]   TWEET SCORE: 1
+like[2] excited[3]   TWEET SCORE: 5
+awkward[-2] like[2] great[3]   TWEET SCORE: 3
+rich[2] rich[2] liked[2]   TWEET SCORE: 6
+no[-1] no[-1]   TWEET SCORE: -2
+no[-1]   TWEET SCORE: -1
+lol[3] intimidating[-2]   TWEET SCORE: 1
+fucking[-4] good[3] no[-1]   TWEET SCORE: -2
+please[1] thank[2]   TWEET SCORE: 3
+fire[-2]   TWEET SCORE: -2
+want[1] suck[-3]   TWEET SCORE: -2
+shit[-4] cool[1]   TWEET SCORE: -3
+inspiration[2]   TWEET SCORE: 2
+blame[-2] deficit[-2]   TWEET SCORE: -4
+like[2] fun[4] ignore[-1] leave[-1]   TWEET SCORE: 4
+yeah[1]   TWEET SCORE: 1
+hate[-3]   TWEET SCORE: -3
+hard[-1] haha[3]   TWEET SCORE: 2
+mad[-3] no[-1] lol[3]   TWEET SCORE: -1
+stop[-1]   TWEET SCORE: -1
+wtf[-4] rage[-2]   TWEET SCORE: -6
+die[-3] hard[-1]   TWEET SCORE: -4
+no[-1]   TWEET SCORE: -1
+support[2]   TWEET SCORE: 2
+hurt[-2]   TWEET SCORE: -2
+no[-1]   TWEET SCORE: -1
+dreams[1]   TWEET SCORE: 1
+no[-1]   TWEET SCORE: -1
+mad[-3]   TWEET SCORE: -3
+no[-1]   TWEET SCORE: -1
+better[2]   TWEET SCORE: 2
+funny[4]   TWEET SCORE: 4
+perfect[3]   TWEET SCORE: 3
+pray[1] grand[3]   TWEET SCORE: 4
+no[-1]   TWEET SCORE: -1
+problem[-2]   TWEET SCORE: -2
+thank[2] piss[-4]   TWEET SCORE: -2
+super[3]   TWEET SCORE: 3
+miss[-2]   TWEET SCORE: -2
+lmao[4]   TWEET SCORE: 4
+miss[-2]   TWEET SCORE: -2
+no[-1]   TWEET SCORE: -1
+hate[-3]   TWEET SCORE: -3
+support[2]   TWEET SCORE: 2
+no[-1]   TWEET SCORE: -1
+good[3] good[3]   TWEET SCORE: 6
+genial[3]   TWEET SCORE: 3
+nice[3]   TWEET SCORE: 3
+fan[3] like[2] misery[-2]   TWEET SCORE: 3
+better[2]   TWEET SCORE: 2
+fight[-1]   TWEET SCORE: -1
+no[-1]   TWEET SCORE: -1
+sexy[3]   TWEET SCORE: 3
+pissed[-4]   TWEET SCORE: -4
+care[2]   TWEET SCORE: 2
+fag[-3]   TWEET SCORE: -3
+yeah[1] no[-1]   TWEET SCORE: 0
+haha[3]   TWEET SCORE: 3
+fails[-2] like[2]   TWEET SCORE: 0
+like[2] bitches[-5] like[2]   TWEET SCORE: -1
+no[-1] crying[-2] no[-1] cool[1] hurt[-2]   TWEET SCORE: -5
+straight[1]   TWEET SCORE: 1
+warm[1]   TWEET SCORE: 1
+beautiful[3] pretty[1]   TWEET SCORE: 4
+scare[-2] shit[-4]   TWEET SCORE: -6
+lost[-3]   TWEET SCORE: -3
+tired[-2]   TWEET SCORE: -2
+no[-1]   TWEET SCORE: -1
+like[2]   TWEET SCORE: 2
+no[-1]   TWEET SCORE: -1
+no[-1]   TWEET SCORE: -1
+hate[-3] hell[-4]   TWEET SCORE: -7
+desire[1] leave[-1]   TWEET SCORE: 0
+fuck[-4]   TWEET SCORE: -4
+cry[-1] yeah[1]   TWEET SCORE: 0
+love[3]   TWEET SCORE: 3
+haha[3]   TWEET SCORE: 3
+anti[-1]   TWEET SCORE: -1
+cheat[-3] better[2]   TWEET SCORE: -1
+love[3] hate[-3] like[2] want[1]   TWEET SCORE: 3
+bitches[-5]   TWEET SCORE: -5
+hell[-4] wrong[-2]   TWEET SCORE: -6
+fuck[-4]   TWEET SCORE: -4
+thanks[2]   TWEET SCORE: 2
+no[-1]   TWEET SCORE: -1
+no[-1]   TWEET SCORE: -1
+miss[-2]   TWEET SCORE: -2
+love[3] love[3]   TWEET SCORE: 6
+stop[-1] loving[2]   TWEET SCORE: 1
+win[4]   TWEET SCORE: 4
+miss[-2]   TWEET SCORE: -2
+want[1]   TWEET SCORE: 1
+fire[-2]   TWEET SCORE: -2
+no[-1]   TWEET SCORE: -1
+no[-1]   TWEET SCORE: -1
+sorry[-1]   TWEET SCORE: -1
+like[2] bad[-3]   TWEET SCORE: -1
+sad[-2] shit[-4] like[2]   TWEET SCORE: -4
+honest[2]   TWEET SCORE: 2
+no[-1]   TWEET SCORE: -1
+miss[-2] kiss[2]   TWEET SCORE: 0
+enjoy[2]   TWEET SCORE: 2
+big[1] stupid[-2] ass[-4] like[2]   TWEET SCORE: -3
+excited[3]   TWEET SCORE: 3
+lol[3]   TWEET SCORE: 3
+hopefully[2]   TWEET SCORE: 2
+win[4] win[4]   TWEET SCORE: 8
+happy[3]   TWEET SCORE: 3
+lol[3]   TWEET SCORE: 3
+no[-1]   TWEET SCORE: -1
+like[2] thank[2] exciting[3]   TWEET SCORE: 7
+amuse[3] share[1] sad[-2] funny[4] broken[-1]   TWEET SCORE: 5
+shit[-4]   TWEET SCORE: -4
+lucky[3] chance[2] waste[-1]   TWEET SCORE: 4
+hate[-3]   TWEET SCORE: -3
+revenge[-2]   TWEET SCORE: -2
+wtf[-4]   TWEET SCORE: -4
+care[2]   TWEET SCORE: 2
+hope[2]   TWEET SCORE: 2
+fuck[-4] loyal[3]   TWEET SCORE: -1
+hahaha[3]   TWEET SCORE: 3
+popular[3]   TWEET SCORE: 3
+cute[2] good[3]   TWEET SCORE: 5
+wish[1] no[-1] no[-1]   TWEET SCORE: -1
+positive[2]   TWEET SCORE: 2
+super[3]   TWEET SCORE: 3
+no[-1]   TWEET SCORE: -1
+no[-1]   TWEET SCORE: -1
+love[3] love[3]   TWEET SCORE: 6
+love[3]   TWEET SCORE: 3
+love[3] death[-2] like[2]   TWEET SCORE: 3
+fucking[-4]   TWEET SCORE: -4
+leave[-1]   TWEET SCORE: -1
+lol[3]   TWEET SCORE: 3
+fire[-2]   TWEET SCORE: -2
+no[-1]   TWEET SCORE: -1
+happy[3]   TWEET SCORE: 3
+better[2]   TWEET SCORE: 2
+fuck[-4]   TWEET SCORE: -4
+love[3]   TWEET SCORE: 3
+haha[3]   TWEET SCORE: 3
+better[2] love[3]   TWEET SCORE: 5
+no[-1] no[-1]   TWEET SCORE: -2
+good[3]   TWEET SCORE: 3
+shit[-4]   TWEET SCORE: -4
+afraid[-2]   TWEET SCORE: -2
+hope[2] jealous[-2]   TWEET SCORE: 0
+amazing[4]   TWEET SCORE: 4
+best[3]   TWEET SCORE: 3
+great[3] want[1]   TWEET SCORE: 4
+intelligent[2] demands[-1] intelligent[2]   TWEET SCORE: 3
+hard[-1] tired[-2]   TWEET SCORE: -3
+thank[2] god[1]   TWEET SCORE: 3
+smart[1]   TWEET SCORE: 1
+fucking[-4]   TWEET SCORE: -4
+no[-1]   TWEET SCORE: -1
+miss[-2]   TWEET SCORE: -2
+favorite[2] wasting[-2] perfectly[3] amazing[4]   TWEET SCORE: 7
+no[-1]   TWEET SCORE: -1
+lol[3]   TWEET SCORE: 3
+cool[1] fire[-2] no[-1]   TWEET SCORE: -2
+likes[2] wow[4]   TWEET SCORE: 6
+miss[-2] ass[-4]   TWEET SCORE: -6
+like[2]   TWEET SCORE: 2
+want[1]   TWEET SCORE: 1
+like[2]   TWEET SCORE: 2
+wish[1]   TWEET SCORE: 1
+ha[2]   TWEET SCORE: 2
+no[-1]   TWEET SCORE: -1
+no[-1] no[-1]   TWEET SCORE: -2
+hell[-4]   TWEET SCORE: -4
+growing[1]   TWEET SCORE: 1
+hell[-4]   TWEET SCORE: -4
+want[1]   TWEET SCORE: 1
+fucking[-4] like[2]   TWEET SCORE: -2
+like[2]   TWEET SCORE: 2
+lol[3]   TWEET SCORE: 3
+hate[-3]   TWEET SCORE: -3
+good[3]   TWEET SCORE: 3
+no[-1]   TWEET SCORE: -1
+like[2]   TWEET SCORE: 2
+wishing[1]   TWEET SCORE: 1
+like[2] miss[-2]   TWEET SCORE: 0
+niggas[-5]   TWEET SCORE: -5
+want[1]   TWEET SCORE: 1
+fun[4]   TWEET SCORE: 4
+no[-1]   TWEET SCORE: -1
+best[3] lol[3] thanks[2]   TWEET SCORE: 8
+like[2] loving[2]   TWEET SCORE: 4
+perfect[3] shit[-4]   TWEET SCORE: -1
+worth[2]   TWEET SCORE: 2
+happy[3]   TWEET SCORE: 3
+no[-1]   TWEET SCORE: -1
+no[-1]   TWEET SCORE: -1
+like[2]   TWEET SCORE: 2
+like[2]   TWEET SCORE: 2
+no[-1]   TWEET SCORE: -1
+lost[-3] lost[-3]   TWEET SCORE: -6
+hope[2]   TWEET SCORE: 2
+love[3]   TWEET SCORE: 3
+laughing[1] like[2]   TWEET SCORE: 3
+fabulous[4] support[2]   TWEET SCORE: 6
+no[-1]   TWEET SCORE: -1
+no[-1]   TWEET SCORE: -1
+annoying[-2]   TWEET SCORE: -2
+good[3]   TWEET SCORE: 3
+promises[1]   TWEET SCORE: 1
+no[-1]   TWEET SCORE: -1
+strong[2] disturb[-2] peace[2]   TWEET SCORE: 2
+loss[-3]   TWEET SCORE: -3
+shit[-4] like[2]   TWEET SCORE: -2
+liked[2]   TWEET SCORE: 2
+no[-1] no[-1]   TWEET SCORE: -2
+like[2]   TWEET SCORE: 2
+leave[-1] alone[-2]   TWEET SCORE: -3
+love[3]   TWEET SCORE: 3
+no[-1]   TWEET SCORE: -1
+like[2]   TWEET SCORE: 2
+no[-1]   TWEET SCORE: -1
+funny[4]   TWEET SCORE: 4
+favorited[2]   TWEET SCORE: 2
+haha[3]   TWEET SCORE: 3
+love[3] fun[4] stops[-1]   TWEET SCORE: 6
+big[1]   TWEET SCORE: 1
+excited[3]   TWEET SCORE: 3
+cute[2] shit[-4]   TWEET SCORE: -2
+praises[3]   TWEET SCORE: 3
+fail[-2]   TWEET SCORE: -2
+love[3]   TWEET SCORE: 3
+like[2] bored[-2]   TWEET SCORE: 0
+thanks[2]   TWEET SCORE: 2
+no[-1]   TWEET SCORE: -1
+chances[2]   TWEET SCORE: 2
+wish[1]   TWEET SCORE: 1
+love[3] love[3]   TWEET SCORE: 6
+like[2]   TWEET SCORE: 2
+leave[-1]   TWEET SCORE: -1
+uncomfortable[-2]   TWEET SCORE: -2
+leave[-1]   TWEET SCORE: -1
+funny[4]   TWEET SCORE: 4
+thanks[2]   TWEET SCORE: 2
+love[3]   TWEET SCORE: 3
+super[3]   TWEET SCORE: 3
+broke[-1]   TWEET SCORE: -1
+envy[-1]   TWEET SCORE: -1
+gift[2] granted[1]   TWEET SCORE: 3
+no[-1]   TWEET SCORE: -1
+wish[1]   TWEET SCORE: 1
+fucking[-4]   TWEET SCORE: -4
+big[1]   TWEET SCORE: 1
+like[2] love[3]   TWEET SCORE: 5
+joy[3] ass[-4] ass[-4]   TWEET SCORE: -5
+flu[-2]   TWEET SCORE: -2
+no[-1]   TWEET SCORE: -1
+sucks[-3]   TWEET SCORE: -3
+fan[3] hug[2] like[2] love[3]   TWEET SCORE: 10
+forget[-1]   TWEET SCORE: -1
+haha[3]   TWEET SCORE: 3
+better[2]   TWEET SCORE: 2
+yeah[1]   TWEET SCORE: 1
+yeah[1] want[1]   TWEET SCORE: 2
+shit[-4] haha[3]   TWEET SCORE: -1
+super[3]   TWEET SCORE: 3
+spam[-2]   TWEET SCORE: -2
+damn[-4] irritated[-3] miserable[-3]   TWEET SCORE: -10
+bitches[-5] ass[-4]   TWEET SCORE: -9
+liked[2]   TWEET SCORE: 2
+want[1] badass[-3]   TWEET SCORE: -2
+care[2]   TWEET SCORE: 2
+problems[-2]   TWEET SCORE: -2
+luck[3]   TWEET SCORE: 3
+amazing[4]   TWEET SCORE: 4
+annoying[-2]   TWEET SCORE: -2
+hahaha[3] lol[3]   TWEET SCORE: 6
+extend[1]   TWEET SCORE: 1
+best[3]   TWEET SCORE: 3
+bored[-2]   TWEET SCORE: -2
+please[1]   TWEET SCORE: 1
+damn[-4]   TWEET SCORE: -4
+happy[3]   TWEET SCORE: 3
+shit[-4]   TWEET SCORE: -4
+tired[-2] leave[-1] helping[2] clean[2]   TWEET SCORE: 1
+best[3]   TWEET SCORE: 3
+yes[1]   TWEET SCORE: 1
+hate[-3] enjoy[2]   TWEET SCORE: -1
+best[3]   TWEET SCORE: 3
+lol[3]   TWEET SCORE: 3
+bitch[-5] ass[-4]   TWEET SCORE: -9
+pain[-2] annoying[-2]   TWEET SCORE: -4
+hahaha[3]   TWEET SCORE: 3
+lol[3]   TWEET SCORE: 3
+complain[-2]   TWEET SCORE: -2
+lazy[-1]   TWEET SCORE: -1
+love[3]   TWEET SCORE: 3
+like[2]   TWEET SCORE: 2
+like[2]   TWEET SCORE: 2
+true[2]   TWEET SCORE: 2
+lovely[3]   TWEET SCORE: 3
+trouble[-2]   TWEET SCORE: -2
+haha[3]   TWEET SCORE: 3
+love[3]   TWEET SCORE: 3
+love[3] kiss[2] sexy[3]   TWEET SCORE: 8
+super[3]   TWEET SCORE: 3
+popular[3]   TWEET SCORE: 3
+hate[-3]   TWEET SCORE: -3
+abuses[-3]   TWEET SCORE: -3
+skeptical[-2]   TWEET SCORE: -2
+no[-1]   TWEET SCORE: -1
+want[1]   TWEET SCORE: 1
+favorite[2] wasting[-2]   TWEET SCORE: 0
+no[-1]   TWEET SCORE: -1
+fun[4] hurt[-2]   TWEET SCORE: 2
+please[1]   TWEET SCORE: 1
+like[2]   TWEET SCORE: 2
+cool[1] hahaha[3]   TWEET SCORE: 4
+cut[-1] lol[3] stupid[-2]   TWEET SCORE: 0
+want[1] want[1] worth[2]   TWEET SCORE: 4
+want[1]   TWEET SCORE: 1
+heaven[2]   TWEET SCORE: 2
+sorry[-1]   TWEET SCORE: -1
+top[2]   TWEET SCORE: 2
+like[2]   TWEET SCORE: 2
+cry[-1] cry[-1]   TWEET SCORE: -2
+god[1] miss[-2]   TWEET SCORE: -1
+strong[2] disturb[-2] peace[2]   TWEET SCORE: 2
+congrats[2]   TWEET SCORE: 2
+miss[-2]   TWEET SCORE: -2
+like[2] asshole[-4]   TWEET SCORE: -2
+cool[1] ass[-4] want[1]   TWEET SCORE: -2
+no[-1]   TWEET SCORE: -1
+niggas[-5]   TWEET SCORE: -5
+no[-1]   TWEET SCORE: -1
+love[3]   TWEET SCORE: 3
+fucking[-4] hacked[-1]   TWEET SCORE: -5
+pissed[-4]   TWEET SCORE: -4
+thanks[2]   TWEET SCORE: 2
+yes[1]   TWEET SCORE: 1
+good[3]   TWEET SCORE: 3
+good[3]   TWEET SCORE: 3
+no[-1]   TWEET SCORE: -1
+favor[2]   TWEET SCORE: 2
+no[-1]   TWEET SCORE: -1
+hard[-1]   TWEET SCORE: -1
+hate[-3] better[2]   TWEET SCORE: -1
+thanks[2] thanks[2] lucky[3]   TWEET SCORE: 7
+stressed[-2]   TWEET SCORE: -2
+stunning[4]   TWEET SCORE: 4
+haha[3]   TWEET SCORE: 3
+lol[3]   TWEET SCORE: 3
+no[-1] no[-1]   TWEET SCORE: -2
+feeling[1]   TWEET SCORE: 1
+swear[-2] care[2]   TWEET SCORE: 0
+easy[1]   TWEET SCORE: 1
+struggling[-2]   TWEET SCORE: -2
+slut[-5]   TWEET SCORE: -5
+join[1]   TWEET SCORE: 1
+swear[-2]   TWEET SCORE: -2
+no[-1]   TWEET SCORE: -1
+like[2]   TWEET SCORE: 2
+no[-1]   TWEET SCORE: -1
+chance[2]   TWEET SCORE: 2
+no[-1] pain[-2]   TWEET SCORE: -3
+likes[2]   TWEET SCORE: 2
+no[-1]   TWEET SCORE: -1
+trouble[-2] struggles[-2] crisis[-3]   TWEET SCORE: -7
+love[3]   TWEET SCORE: 3
+amazing[4]   TWEET SCORE: 4
+hoping[2] wishing[1] love[3]   TWEET SCORE: 6
+lol[3]   TWEET SCORE: 3
+good[3]   TWEET SCORE: 3
+no[-1]   TWEET SCORE: -1
+like[2] no[-1]   TWEET SCORE: 1
+like[2]   TWEET SCORE: 2
+bad[-3] bitch[-5]   TWEET SCORE: -8
+love[3]   TWEET SCORE: 3
+miss[-2]   TWEET SCORE: -2
+ass[-4]   TWEET SCORE: -4
+wtf[-4]   TWEET SCORE: -4
+hard[-1]   TWEET SCORE: -1
+loyal[3] worst[-3]   TWEET SCORE: 0
+like[2] love[3]   TWEET SCORE: 5
+stuck[-2]   TWEET SCORE: -2
+no[-1]   TWEET SCORE: -1
+cunt[-5] like[2] like[2]   TWEET SCORE: -1
+no[-1]   TWEET SCORE: -1
+sorry[-1]   TWEET SCORE: -1
+no[-1]   TWEET SCORE: -1
+starve[-2]   TWEET SCORE: -2
+want[1]   TWEET SCORE: 1
+funny[4] lol[3] dumb[-3]   TWEET SCORE: 4
+no[-1]   TWEET SCORE: -1
+no[-1] no[-1]   TWEET SCORE: -2
+want[1]   TWEET SCORE: 1
+top[2]   TWEET SCORE: 2
+bored[-2]   TWEET SCORE: -2
+beautiful[3] smile[2] struggled[-2]   TWEET SCORE: 3
+no[-1]   TWEET SCORE: -1
+hate[-3] shit[-4] shit[-4]   TWEET SCORE: -11
+no[-1]   TWEET SCORE: -1
+love[3] like[2] suck[-3]   TWEET SCORE: 2
+love[3]   TWEET SCORE: 3
+haha[3] wtf[-4]   TWEET SCORE: -1
+worry[-3]   TWEET SCORE: -3
+lol[3]   TWEET SCORE: 3
+tired[-2]   TWEET SCORE: -2
+like[2]   TWEET SCORE: 2
+boring[-3]   TWEET SCORE: -3
+love[3]   TWEET SCORE: 3
+sad[-2] like[2]   TWEET SCORE: 0
+spirit[1]   TWEET SCORE: 1
+excuse[-1] leave[-1]   TWEET SCORE: -2
+ass[-4]   TWEET SCORE: -4
+pretty[1]   TWEET SCORE: 1
+like[2]   TWEET SCORE: 2
+amazing[4]   TWEET SCORE: 4
+good[3] good[3]   TWEET SCORE: 6
+like[2] broken[-1]   TWEET SCORE: 1
+happy[3]   TWEET SCORE: 3
+love[3] bitch[-5]   TWEET SCORE: -2
+lol[3] thanks[2] appreciate[2] yeah[1] stupid[-2]   TWEET SCORE: 6
+alone[-2]   TWEET SCORE: -2
+ass[-4] lmao[4] funny[4]   TWEET SCORE: 4
+best[3]   TWEET SCORE: 3
+best[3]   TWEET SCORE: 3
+sorry[-1]   TWEET SCORE: -1
+no[-1]   TWEET SCORE: -1
+best[3]   TWEET SCORE: 3
+no[-1]   TWEET SCORE: -1
+welcome[2]   TWEET SCORE: 2
+no[-1] no[-1]   TWEET SCORE: -2
+won[3]   TWEET SCORE: 3
+no[-1]   TWEET SCORE: -1
+want[1]   TWEET SCORE: 1
+missed[-2]   TWEET SCORE: -2
+no[-1]   TWEET SCORE: -1
+no[-1]   TWEET SCORE: -1
+lonely[-2]   TWEET SCORE: -2
+lol[3] worth[2]   TWEET SCORE: 5
+fucking[-4]   TWEET SCORE: -4
+nice[3]   TWEET SCORE: 3
+lol[3]   TWEET SCORE: 3
+good[3] fire[-2] win[4]   TWEET SCORE: 5
+no[-1]   TWEET SCORE: -1
+faith[1] laughed[1]   TWEET SCORE: 2
+hate[-3]   TWEET SCORE: -3
+cute[2] like[2] sunshine[2]   TWEET SCORE: 6
+excited[3]   TWEET SCORE: 3
+no[-1]   TWEET SCORE: -1
+hard[-1]   TWEET SCORE: -1
+want[1]   TWEET SCORE: 1
+want[1] like[2] stop[-1]   TWEET SCORE: 2
+no[-1]   TWEET SCORE: -1
+kill[-3] stop[-1]   TWEET SCORE: -4
+lol[3]   TWEET SCORE: 3
+hate[-3] niggas[-5] no[-1]   TWEET SCORE: -9
+sad[-2]   TWEET SCORE: -2
+happy[3]   TWEET SCORE: 3
+super[3]   TWEET SCORE: 3
+no[-1]   TWEET SCORE: -1
+niggas[-5]   TWEET SCORE: -5
+no[-1]   TWEET SCORE: -1
+blame[-2]   TWEET SCORE: -2
+no[-1]   TWEET SCORE: -1
+win[4]   TWEET SCORE: 4
+worry[-3]   TWEET SCORE: -3
+jealous[-2]   TWEET SCORE: -2
+like[2] like[2] love[3]   TWEET SCORE: 7
+no[-1]   TWEET SCORE: -1
+lovely[3]   TWEET SCORE: 3
+grief[-2]   TWEET SCORE: -2
+wish[1]   TWEET SCORE: 1
+damn[-4]   TWEET SCORE: -4
+wish[1]   TWEET SCORE: 1
+win[4]   TWEET SCORE: 4
+ha[2] ha[2]   TWEET SCORE: 4
+haha[3]   TWEET SCORE: 3
+feeling[1]   TWEET SCORE: 1
+nice[3]   TWEET SCORE: 3
+hell[-4] missed[-2]   TWEET SCORE: -6
+no[-1] ha[2]   TWEET SCORE: 1
+fool[-2]   TWEET SCORE: -2
+cry[-1]   TWEET SCORE: -1
+tout[-2]   TWEET SCORE: -2
+ha[2] ha[2]   TWEET SCORE: 4
+bad[-3] ass[-4]   TWEET SCORE: -7
+better[2]   TWEET SCORE: 2
+sad[-2]   TWEET SCORE: -2
+cunt[-5]   TWEET SCORE: -5
+wtf[-4]   TWEET SCORE: -4
+lol[3] love[3]   TWEET SCORE: 6
+sorry[-1] hope[2] better[2]   TWEET SCORE: 3
+no[-1]   TWEET SCORE: -1
+thank[2] care[2]   TWEET SCORE: 4
+crush[-1]   TWEET SCORE: -1
+lol[3]   TWEET SCORE: 3
+funny[4]   TWEET SCORE: 4
+haha[3]   TWEET SCORE: 3
+like[2]   TWEET SCORE: 2
+crying[-2]   TWEET SCORE: -2
+bitches[-5]   TWEET SCORE: -5
+haha[3]   TWEET SCORE: 3
+super[3] fucking[-4] hard[-1]   TWEET SCORE: -2
+mess[-2] moody[-1] hard[-1]   TWEET SCORE: -4
+hate[-3] fucking[-4] shit[-4]   TWEET SCORE: -11
+forget[-1]   TWEET SCORE: -1
+no[-1]   TWEET SCORE: -1
+ass[-4]   TWEET SCORE: -4
+like[2]   TWEET SCORE: 2
+want[1]   TWEET SCORE: 1
+no[-1]   TWEET SCORE: -1
+lol[3]   TWEET SCORE: 3
+amazing[4]   TWEET SCORE: 4
+want[1] hell[-4]   TWEET SCORE: -3
+bless[2]   TWEET SCORE: 2
+love[3]   TWEET SCORE: 3
+big[1] please[1] help[2] important[2] please[1] please[1]   TWEET SCORE: 8
+love[3]   TWEET SCORE: 3
+happy[3] pissed[-4]   TWEET SCORE: -1
+ghost[-1]   TWEET SCORE: -1
+fuck[-4] shit[-4]   TWEET SCORE: -8
+damn[-4] beautiful[3]   TWEET SCORE: -1
+like[2]   TWEET SCORE: 2
+no[-1]   TWEET SCORE: -1
+no[-1]   TWEET SCORE: -1
+good[3]   TWEET SCORE: 3
+top[2] no[-1]   TWEET SCORE: 1
+favorite[2] growing[1]   TWEET SCORE: 3
+shit[-4]   TWEET SCORE: -4
+like[2]   TWEET SCORE: 2
+no[-1]   TWEET SCORE: -1
+like[2]   TWEET SCORE: 2
+no[-1]   TWEET SCORE: -1
+no[-1]   TWEET SCORE: -1
+strike[-1] top[2]   TWEET SCORE: 1
+no[-1]   TWEET SCORE: -1
+bitches[-5]   TWEET SCORE: -5
+drop[-1]   TWEET SCORE: -1
+niggas[-5]   TWEET SCORE: -5
+loss[-3] greatest[3] pain[-2]   TWEET SCORE: -2
+lol[3]   TWEET SCORE: 3
+nice[3]   TWEET SCORE: 3
+no[-1]   TWEET SCORE: -1
+lmao[4]   TWEET SCORE: 4
+strong[2] chance[2] stupid[-2]   TWEET SCORE: 2
+super[3] amazing[4] wish[1]   TWEET SCORE: 8
+no[-1]   TWEET SCORE: -1
+fun[4] bitch[-5] lol[3]   TWEET SCORE: 2
+hahaha[3]   TWEET SCORE: 3
+annoying[-2]   TWEET SCORE: -2
+gift[2]   TWEET SCORE: 2
+no[-1]   TWEET SCORE: -1
+killed[-3] no[-1]   TWEET SCORE: -4
+pretty[1] big[1]   TWEET SCORE: 2
+cut[-1]   TWEET SCORE: -1
+no[-1]   TWEET SCORE: -1
+worry[-3]   TWEET SCORE: -3
+missed[-2] cute[2]   TWEET SCORE: 0
+pretend[-1]   TWEET SCORE: -1
+thank[2]   TWEET SCORE: 2
+niggas[-5]   TWEET SCORE: -5
+no[-1]   TWEET SCORE: -1
+mad[-3]   TWEET SCORE: -3
+no[-1]   TWEET SCORE: -1
+no[-1] no[-1]   TWEET SCORE: -2
+kill[-3]   TWEET SCORE: -3
+warning[-3]   TWEET SCORE: -3
+best[3]   TWEET SCORE: 3
+lol[3]   TWEET SCORE: 3
+no[-1]   TWEET SCORE: -1
+problem[-2]   TWEET SCORE: -2
+no[-1]   TWEET SCORE: -1
+enjoys[2]   TWEET SCORE: 2
+ha[2]   TWEET SCORE: 2
+want[1]   TWEET SCORE: 1
+dirty[-2]   TWEET SCORE: -2
+lol[3]   TWEET SCORE: 3
+proud[2]   TWEET SCORE: 2
+fuck[-4] want[1]   TWEET SCORE: -3
+promises[1]   TWEET SCORE: 1
+dedicated[2]   TWEET SCORE: 2
+like[2] fun[4] ignore[-1] leave[-1]   TWEET SCORE: 4
+thanks[2]   TWEET SCORE: 2
+amazing[4] lol[3]   TWEET SCORE: 7
+beautiful[3]   TWEET SCORE: 3
+thankful[2]   TWEET SCORE: 2
+alas[-1]   TWEET SCORE: -1
+fire[-2] worth[2]   TWEET SCORE: 0
+beautiful[3] stunning[4]   TWEET SCORE: 7
+no[-1]   TWEET SCORE: -1
+important[2]   TWEET SCORE: 2
+nice[3]   TWEET SCORE: 3
+like[2] tired[-2]   TWEET SCORE: 0
+amazing[4]   TWEET SCORE: 4
+no[-1]   TWEET SCORE: -1
+bad[-3] success[2]   TWEET SCORE: -1
+win[4]   TWEET SCORE: 4
+love[3]   TWEET SCORE: 3
+no[-1]   TWEET SCORE: -1
+great[3]   TWEET SCORE: 3
+cute[2] like[2] sunshine[2]   TWEET SCORE: 6
+no[-1]   TWEET SCORE: -1
+bitch[-5]   TWEET SCORE: -5
+fan[3] favor[2]   TWEET SCORE: 5
+wish[1] luck[3]   TWEET SCORE: 4
+haha[3] thanks[2]   TWEET SCORE: 5
+good[3] bad[-3]   TWEET SCORE: 0
+love[3]   TWEET SCORE: 3
+no[-1]   TWEET SCORE: -1
+honor[2]   TWEET SCORE: 2
+leave[-1] depressing[-2]   TWEET SCORE: -3
+fuck[-4]   TWEET SCORE: -4
+no[-1] bomb[-1]   TWEET SCORE: -2
+accuse[-2]   TWEET SCORE: -2
+wish[1]   TWEET SCORE: 1
+nice[3] happy[3]   TWEET SCORE: 6
+want[1] no[-1]   TWEET SCORE: 0
+frustrated[-2]   TWEET SCORE: -2
+legal[1]   TWEET SCORE: 1
+love[3]   TWEET SCORE: 3
+please[1]   TWEET SCORE: 1
+good[3]   TWEET SCORE: 3
+smile[2] hide[-1]   TWEET SCORE: 1
+no[-1] no[-1]   TWEET SCORE: -2
+lol[3]   TWEET SCORE: 3
+combat[-1]   TWEET SCORE: -1
+favorited[2]   TWEET SCORE: 2
+no[-1]   TWEET SCORE: -1
+pretty[1]   TWEET SCORE: 1
+hahahah[3]   TWEET SCORE: 3
+stop[-1] lol[3]   TWEET SCORE: 2
+love[3]   TWEET SCORE: 3
+helping[2] sweet[2]   TWEET SCORE: 4
+miss[-2]   TWEET SCORE: -2
+yeah[1] lol[3]   TWEET SCORE: 4
+good[3]   TWEET SCORE: 3
+congrats[2]   TWEET SCORE: 2
+cut[-1] perfect[3]   TWEET SCORE: 2
+best[3]   TWEET SCORE: 3
+want[1] no[-1]   TWEET SCORE: 0
+falling[-1] crying[-2]   TWEET SCORE: -3
+great[3]   TWEET SCORE: 3
+like[2] big[1]   TWEET SCORE: 3
+lol[3]   TWEET SCORE: 3
+top[2]   TWEET SCORE: 2
+strong[2] disturb[-2] peace[2]   TWEET SCORE: 2
+lol[3]   TWEET SCORE: 3
+grant[1]   TWEET SCORE: 1
+favorite[2] wasting[-2]   TWEET SCORE: 0
+awesome[4]   TWEET SCORE: 4
+thanks[2]   TWEET SCORE: 2
+no[-1] lol[3]   TWEET SCORE: 2
+no[-1]   TWEET SCORE: -1
+smart[1] laugh[1]   TWEET SCORE: 2
+happy[3]   TWEET SCORE: 3
+casualty[-2]   TWEET SCORE: -2
+no[-1]   TWEET SCORE: -1
+faith[1]   TWEET SCORE: 1
+no[-1] no[-1]   TWEET SCORE: -2
+alive[1]   TWEET SCORE: 1
+help[2]   TWEET SCORE: 2
+accepted[1] leave[-1]   TWEET SCORE: 0
+no[-1]   TWEET SCORE: -1
+no[-1]   TWEET SCORE: -1
+strong[2]   TWEET SCORE: 2
+no[-1]   TWEET SCORE: -1
+big[1]   TWEET SCORE: 1
+tard[-2]   TWEET SCORE: -2
+no[-1]   TWEET SCORE: -1
+piss[-4]   TWEET SCORE: -4
+no[-1]   TWEET SCORE: -1
+want[1] wrong[-2] like[2]   TWEET SCORE: 1
+missed[-2]   TWEET SCORE: -2
+great[3] escape[-1]   TWEET SCORE: 2
+bad[-3]   TWEET SCORE: -3
+stop[-1] smart[1] ass[-4] smarter[2]   TWEET SCORE: -2
+worst[-3] damn[-4] luck[3]   TWEET SCORE: -4
+leave[-1] fabulous[4]   TWEET SCORE: 3
+wish[1] wish[1] wish[1] bright[1] no[-1] matter[1]   TWEET SCORE: 4
+miss[-2] miss[-2]   TWEET SCORE: -4
+want[1]   TWEET SCORE: 1
+no[-1]   TWEET SCORE: -1
+fucking[-4] funny[4]   TWEET SCORE: 0
+nice[3]   TWEET SCORE: 3
+no[-1]   TWEET SCORE: -1
+like[2] responsible[2]   TWEET SCORE: 4
+no[-1]   TWEET SCORE: -1
+lmao[4]   TWEET SCORE: 4
+fuck[-4] shit[-4]   TWEET SCORE: -8
+shit[-4]   TWEET SCORE: -4
+lol[3]   TWEET SCORE: 3
+happy[3]   TWEET SCORE: 3
+annoyed[-2]   TWEET SCORE: -2
+confused[-2]   TWEET SCORE: -2
+chance[2] win[4]   TWEET SCORE: 6
+great[3] wrong[-2]   TWEET SCORE: 1
+bitch[-5]   TWEET SCORE: -5
+cry[-1] best[3]   TWEET SCORE: 2
+hurts[-2] hate[-3]   TWEET SCORE: -5
+no[-1] no[-1]   TWEET SCORE: -2
+fool[-2]   TWEET SCORE: -2
+awesome[4] super[3] funny[4]   TWEET SCORE: 11
+nice[3]   TWEET SCORE: 3
+haha[3] yeah[1] lol[3]   TWEET SCORE: 7
+no[-1]   TWEET SCORE: -1
+awesome[4] no[-1]   TWEET SCORE: 3
+dumbass[-3] blocked[-1]   TWEET SCORE: -4
+mad[-3]   TWEET SCORE: -3
+swear[-2] mad[-3]   TWEET SCORE: -5
+good[3]   TWEET SCORE: 3
+hope[2] screwed[-2]   TWEET SCORE: 0
+no[-1]   TWEET SCORE: -1
+care[2] mad[-3]   TWEET SCORE: -1
+thrilled[5]   TWEET SCORE: 5
+no[-1]   TWEET SCORE: -1
+yeah[1] lol[3]   TWEET SCORE: 4
+better[2]   TWEET SCORE: 2
+fun[4]   TWEET SCORE: 4
+big[1]   TWEET SCORE: 1
+like[2]   TWEET SCORE: 2
+like[2]   TWEET SCORE: 2
+amazing[4]   TWEET SCORE: 4
+good[3]   TWEET SCORE: 3
+yeah[1]   TWEET SCORE: 1
+matter[1] good[3] bad[-3] thankful[2]   TWEET SCORE: 3
+like[2]   TWEET SCORE: 2
+want[1] lol[3]   TWEET SCORE: 4
+miss[-2]   TWEET SCORE: -2
+bitches[-5] hate[-3] shit[-4]   TWEET SCORE: -12
+no[-1] no[-1]   TWEET SCORE: -2
+miss[-2]   TWEET SCORE: -2
+no[-1]   TWEET SCORE: -1
+fun[4]   TWEET SCORE: 4
+niggas[-5]   TWEET SCORE: -5
+shit[-4]   TWEET SCORE: -4
+hope[2] fulfilled[2] sorry[-1] miss[-2]   TWEET SCORE: 1
+loved[3] swear[-2] love[3]   TWEET SCORE: 4
+no[-1]   TWEET SCORE: -1
+like[2] dreams[1]   TWEET SCORE: 3
+nerves[-1] killing[-3]   TWEET SCORE: -4
+lmao[4]   TWEET SCORE: 4
+ass[-4] fight[-1]   TWEET SCORE: -5
+shit[-4]   TWEET SCORE: -4
+better[2]   TWEET SCORE: 2
+no[-1]   TWEET SCORE: -1
+awesome[4]   TWEET SCORE: 4
+no[-1]   TWEET SCORE: -1
+boring[-3]   TWEET SCORE: -3
+hurting[-2]   TWEET SCORE: -2
+bitch[-5] fucked[-4]   TWEET SCORE: -9
+dumb[-3]   TWEET SCORE: -3
+hope[2] helps[2]   TWEET SCORE: 4
+fuck[-4]   TWEET SCORE: -4
+war[-2]   TWEET SCORE: -2
+like[2]   TWEET SCORE: 2
+ha[2]   TWEET SCORE: 2
+kind[2] glad[3] enjoying[2] hope[2]   TWEET SCORE: 9
+bad[-3]   TWEET SCORE: -3
+like[2] loving[2]   TWEET SCORE: 4
+no[-1]   TWEET SCORE: -1
+like[2]   TWEET SCORE: 2
+kiss[2]   TWEET SCORE: 2
+no[-1] no[-1]   TWEET SCORE: -2
+ass[-4]   TWEET SCORE: -4
+tricked[-2]   TWEET SCORE: -2
+nice[3]   TWEET SCORE: 3
+like[2]   TWEET SCORE: 2
+fucking[-4]   TWEET SCORE: -4
+no[-1] love[3] dead[-3]   TWEET SCORE: -1
+frightened[-2]   TWEET SCORE: -2
+fire[-2]   TWEET SCORE: -2
+miss[-2] forget[-1]   TWEET SCORE: -3
+shit[-4]   TWEET SCORE: -4
+block[-1]   TWEET SCORE: -1
+sexy[3] bless[2] sadly[-2]   TWEET SCORE: 3
+hard[-1] matter[1]   TWEET SCORE: 0
+admit[-1]   TWEET SCORE: -1
+difficult[-1]   TWEET SCORE: -1
+fucked[-4]   TWEET SCORE: -4
+ha[2]   TWEET SCORE: 2
+proud[2]   TWEET SCORE: 2
+lol[3]   TWEET SCORE: 3
+big[1]   TWEET SCORE: 1
+killed[-3]   TWEET SCORE: -3
+love[3]   TWEET SCORE: 3
+greatest[3]   TWEET SCORE: 3
+fuck[-4] ruin[-2] fucking[-4]   TWEET SCORE: -10
+no[-1]   TWEET SCORE: -1
+ha[2]   TWEET SCORE: 2
+please[1]   TWEET SCORE: 1
+thanks[2]   TWEET SCORE: 2
+no[-1]   TWEET SCORE: -1
+proud[2]   TWEET SCORE: 2
+important[2]   TWEET SCORE: 2
+cried[-2]   TWEET SCORE: -2
+liked[2]   TWEET SCORE: 2
+thanks[2]   TWEET SCORE: 2
+accepted[1] leave[-1]   TWEET SCORE: 0
+god[1]   TWEET SCORE: 1
+thank[2]   TWEET SCORE: 2
+lost[-3] hope[2] no[-1]   TWEET SCORE: -2
+happy[3]   TWEET SCORE: 3
+lol[3] lol[3]   TWEET SCORE: 6
+love[3]   TWEET SCORE: 3
+lol[3]   TWEET SCORE: 3
+no[-1] no[-1]   TWEET SCORE: -2
+best[3]   TWEET SCORE: 3
+love[3]   TWEET SCORE: 3
+grant[1] help[2]   TWEET SCORE: 3
+wish[1]   TWEET SCORE: 1
+no[-1] shame[-2]   TWEET SCORE: -3
+ass[-4]   TWEET SCORE: -4
+glad[3] miss[-2]   TWEET SCORE: 1
+bored[-2]   TWEET SCORE: -2
+haha[3] hahaha[3]   TWEET SCORE: 6
+lmao[4]   TWEET SCORE: 4
+racist[-3] lmao[4]   TWEET SCORE: 1
+love[3]   TWEET SCORE: 3
+tout[-2]   TWEET SCORE: -2
+yeah[1] sweet[2]   TWEET SCORE: 3
+weird[-2]   TWEET SCORE: -2
+no[-1]   TWEET SCORE: -1
+fun[4] drunk[-2] wow[4] hurts[-2]   TWEET SCORE: 4
+wtf[-4]   TWEET SCORE: -4
+no[-1]   TWEET SCORE: -1
+invite[1] want[1]   TWEET SCORE: 2
+hahaha[3] blamed[-2] shitty[-3]   TWEET SCORE: -2
+haha[3]   TWEET SCORE: 3
+best[3]   TWEET SCORE: 3
+no[-1]   TWEET SCORE: -1
+hard[-1]   TWEET SCORE: -1
+no[-1]   TWEET SCORE: -1
+hell[-4] drunk[-2]   TWEET SCORE: -6
+no[-1]   TWEET SCORE: -1
+ugly[-3] ass[-4] pretty[1]   TWEET SCORE: -6
+grand[3]   TWEET SCORE: 3
+hard[-1]   TWEET SCORE: -1
+no[-1]   TWEET SCORE: -1
+bless[2] saved[2]   TWEET SCORE: 4
+fucking[-4]   TWEET SCORE: -4
+pretty[1]   TWEET SCORE: 1
+no[-1]   TWEET SCORE: -1
+no[-1]   TWEET SCORE: -1
+no[-1]   TWEET SCORE: -1
+hate[-3] hate[-3]   TWEET SCORE: -6
+no[-1]   TWEET SCORE: -1
+no[-1]   TWEET SCORE: -1
+hopes[2]   TWEET SCORE: 2
+hope[2]   TWEET SCORE: 2
+cool[1]   TWEET SCORE: 1
+hahahah[3] ill[-2]   TWEET SCORE: 1
+wrong[-2]   TWEET SCORE: -2
+weird[-2]   TWEET SCORE: -2
+chilling[-1]   TWEET SCORE: -1
+love[3] please[1]   TWEET SCORE: 4
+happy[3] love[3]   TWEET SCORE: 6
+shit[-4] care[2]   TWEET SCORE: -2
+bad[-3]   TWEET SCORE: -3
+niggas[-5]   TWEET SCORE: -5
+sincerely[2] crying[-2] lol[3]   TWEET SCORE: 3
+worse[-3]   TWEET SCORE: -3
+wrong[-2]   TWEET SCORE: -2
+good[3] bitch[-5]   TWEET SCORE: -2
+haha[3] pain[-2]   TWEET SCORE: 1
+no[-1] legal[1]   TWEET SCORE: 0
+frustrated[-2]   TWEET SCORE: -2
+thanks[2]   TWEET SCORE: 2
+no[-1]   TWEET SCORE: -1
+killed[-3] triumph[4]   TWEET SCORE: 1
+like[2]   TWEET SCORE: 2
+niggas[-5] niggas[-5]   TWEET SCORE: -10
+stop[-1] proud[2]   TWEET SCORE: 1
+like[2] bad[-3]   TWEET SCORE: -1
+jesus[1]   TWEET SCORE: 1
+wtf[-4] like[2]   TWEET SCORE: -2
+saved[2] no[-1]   TWEET SCORE: 1
+miss[-2]   TWEET SCORE: -2
+no[-1]   TWEET SCORE: -1
+bullshit[-4]   TWEET SCORE: -4
+please[1]   TWEET SCORE: 1
+better[2]   TWEET SCORE: 2
+bitch[-5]   TWEET SCORE: -5
+like[2]   TWEET SCORE: 2
+spirit[1]   TWEET SCORE: 1
+love[3]   TWEET SCORE: 3
+deny[-2]   TWEET SCORE: -2
+bad[-3] cancel[-1]   TWEET SCORE: -4
+no[-1]   TWEET SCORE: -1
+like[2] fire[-2]   TWEET SCORE: 0
+chance[2]   TWEET SCORE: 2
+enjoying[2] certain[1] fan[3]   TWEET SCORE: 6
+kill[-3]   TWEET SCORE: -3
+no[-1] no[-1]   TWEET SCORE: -2
+no[-1]   TWEET SCORE: -1
+abuse[-3]   TWEET SCORE: -3
+ass[-4]   TWEET SCORE: -4
+like[2] fun[4] ignore[-1] leave[-1]   TWEET SCORE: 4
+feeling[1] haha[3]   TWEET SCORE: 4
+fucking[-4] trouble[-2]   TWEET SCORE: -6
+want[1]   TWEET SCORE: 1
+lol[3]   TWEET SCORE: 3
+big[1]   TWEET SCORE: 1
+cry[-1] piss[-4] like[2] bitch[-5]   TWEET SCORE: -8
+excited[3]   TWEET SCORE: 3
+thanks[2]   TWEET SCORE: 2
+ha[2]   TWEET SCORE: 2
+pique[-2] no[-1]   TWEET SCORE: -3
+true[2]   TWEET SCORE: 2
+no[-1]   TWEET SCORE: -1
+yeah[1]   TWEET SCORE: 1
+tout[-2]   TWEET SCORE: -2
+no[-1]   TWEET SCORE: -1
+pathetic[-2] help[2]   TWEET SCORE: 0
+tout[-2]   TWEET SCORE: -2
+ass[-4]   TWEET SCORE: -4
+unfair[-2]   TWEET SCORE: -2
+like[2]   TWEET SCORE: 2
+ass[-4]   TWEET SCORE: -4
+bored[-2]   TWEET SCORE: -2
+no[-1]   TWEET SCORE: -1
+please[1] like[2]   TWEET SCORE: 3
+wish[1] no[-1] blind[-1] fuck[-4]   TWEET SCORE: -5
+trust[1] good[3]   TWEET SCORE: 4
+lied[-2]   TWEET SCORE: -2
+no[-1]   TWEET SCORE: -1
+no[-1] want[1]   TWEET SCORE: 0
+fuck[-4] mad[-3] saved[2]   TWEET SCORE: -5
+lol[3]   TWEET SCORE: 3
+wrong[-2]   TWEET SCORE: -2
+no[-1] no[-1] no[-1]   TWEET SCORE: -3
+ass[-4]   TWEET SCORE: -4
+niggas[-5]   TWEET SCORE: -5
+no[-1]   TWEET SCORE: -1
+fucking[-4]   TWEET SCORE: -4
+smile[2] hide[-1] problems[-2]   TWEET SCORE: -1
+love[3] cried[-2]   TWEET SCORE: 1
+fucking[-4] joke[2]   TWEET SCORE: -2
+block[-1]   TWEET SCORE: -1
+no[-1]   TWEET SCORE: -1
+want[1]   TWEET SCORE: 1
+good[3]   TWEET SCORE: 3
+no[-1]   TWEET SCORE: -1
+no[-1]   TWEET SCORE: -1
+want[1] drag[-1] ass[-4]   TWEET SCORE: -4
+no[-1]   TWEET SCORE: -1
+true[2]   TWEET SCORE: 2
+lol[3]   TWEET SCORE: 3
+love[3]   TWEET SCORE: 3
+shit[-4] lmfao[4] scared[-2]   TWEET SCORE: -2
+awesome[4]   TWEET SCORE: 4
+love[3]   TWEET SCORE: 3
+wish[1] sunshine[2]   TWEET SCORE: 3
+no[-1] ha[2]   TWEET SCORE: 1
+no[-1] no[-1] no[-1]   TWEET SCORE: -3
+no[-1]   TWEET SCORE: -1
+hahaha[3]   TWEET SCORE: 3
+no[-1]   TWEET SCORE: -1
+shit[-4]   TWEET SCORE: -4
+good[3]   TWEET SCORE: 3
+damn[-4] want[1]   TWEET SCORE: -3
+jerk[-3] lol[3] great[3]   TWEET SCORE: 3
+laugh[1] best[3]   TWEET SCORE: 4
+no[-1]   TWEET SCORE: -1
+no[-1] want[1] bitches[-5] tired[-2]   TWEET SCORE: -7
+yeah[1]   TWEET SCORE: 1
+no[-1]   TWEET SCORE: -1
+better[2] better[2]   TWEET SCORE: 4
+crying[-2] ass[-4]   TWEET SCORE: -6
+thanks[2] win[4] good[3]   TWEET SCORE: 9
+niggas[-5] smarter[2]   TWEET SCORE: -3
+no[-1]   TWEET SCORE: -1
+nice[3]   TWEET SCORE: 3
+ha[2]   TWEET SCORE: 2
+hahaha[3]   TWEET SCORE: 3
+want[1]   TWEET SCORE: 1
+chance[2]   TWEET SCORE: 2
+love[3] mad[-3] like[2]   TWEET SCORE: 2
+thank[2]   TWEET SCORE: 2
+thank[2]   TWEET SCORE: 2
+jealous[-2] cool[1]   TWEET SCORE: -1
+struggling[-2]   TWEET SCORE: -2
+appreciate[2] support[2] best[3]   TWEET SCORE: 7
+good[3]   TWEET SCORE: 3
+suck[-3]   TWEET SCORE: -3
+tout[-2]   TWEET SCORE: -2
+hard[-1]   TWEET SCORE: -1
+no[-1]   TWEET SCORE: -1
+proud[2]   TWEET SCORE: 2
+happy[3]   TWEET SCORE: 3
+no[-1]   TWEET SCORE: -1
+no[-1]   TWEET SCORE: -1
+no[-1]   TWEET SCORE: -1
+death[-2]   TWEET SCORE: -2
+want[1]   TWEET SCORE: 1
+hahaha[3]   TWEET SCORE: 3
+rape[-4]   TWEET SCORE: -4
+great[3]   TWEET SCORE: 3
+stupid[-2] bitch[-5]   TWEET SCORE: -7
+no[-1]   TWEET SCORE: -1
+favorited[2] wrong[-2]   TWEET SCORE: 0
+clear[1]   TWEET SCORE: 1
+miss[-2]   TWEET SCORE: -2
+free[1] help[2]   TWEET SCORE: 3
+fucked[-4]   TWEET SCORE: -4
+no[-1]   TWEET SCORE: -1
+favorite[2]   TWEET SCORE: 2
+lol[3]   TWEET SCORE: 3
+no[-1]   TWEET SCORE: -1
+support[2]   TWEET SCORE: 2
+miss[-2]   TWEET SCORE: -2
+support[2]   TWEET SCORE: 2
+like[2]   TWEET SCORE: 2
+glorious[2] lol[3]   TWEET SCORE: 5
+annoying[-2]   TWEET SCORE: -2
+hate[-3] limited[-1]   TWEET SCORE: -4
+hell[-4]   TWEET SCORE: -4
+tired[-2] fuck[-4] broke[-1]   TWEET SCORE: -7
+shit[-4]   TWEET SCORE: -4
+no[-1]   TWEET SCORE: -1
+amazing[4]   TWEET SCORE: 4
+no[-1]   TWEET SCORE: -1
+ignored[-2]   TWEET SCORE: -2
+fun[4]   TWEET SCORE: 4
+hate[-3] swift[2]   TWEET SCORE: -1
+love[3]   TWEET SCORE: 3
+perfect[3]   TWEET SCORE: 3
+hate[-3]   TWEET SCORE: -3
+help[2] big[1]   TWEET SCORE: 3
+wow[4] mature[2]   TWEET SCORE: 6
+no[-1] no[-1]   TWEET SCORE: -2
+fail[-2]   TWEET SCORE: -2
+miss[-2]   TWEET SCORE: -2
+cleared[1]   TWEET SCORE: 1
+fuck[-4]   TWEET SCORE: -4
+no[-1]   TWEET SCORE: -1
+hate[-3]   TWEET SCORE: -3
+hate[-3]   TWEET SCORE: -3
+welcome[2]   TWEET SCORE: 2
+strength[2]   TWEET SCORE: 2
+nice[3]   TWEET SCORE: 3
+no[-1]   TWEET SCORE: -1
+hate[-3]   TWEET SCORE: -3
+no[-1]   TWEET SCORE: -1
+help[2]   TWEET SCORE: 2
+want[1] want[1]   TWEET SCORE: 2
+hate[-3] idiot[-3] join[1]   TWEET SCORE: -5
+swear[-2] suck[-3]   TWEET SCORE: -5
+funny[4]   TWEET SCORE: 4
+lol[3]   TWEET SCORE: 3
+hate[-3] feeling[1] like[2] annoying[-2]   TWEET SCORE: -2
+good[3]   TWEET SCORE: 3
+lol[3] love[3]   TWEET SCORE: 6
+lol[3]   TWEET SCORE: 3
+want[1] refuse[-2]   TWEET SCORE: -1
+bitch[-5] likes[2]   TWEET SCORE: -3
+steal[-2]   TWEET SCORE: -2
+winning[4]   TWEET SCORE: 4
+stubborn[-2]   TWEET SCORE: -2
+natural[1]   TWEET SCORE: 1
+kind[2]   TWEET SCORE: 2
+stupid[-2]   TWEET SCORE: -2
+win[4]   TWEET SCORE: 4
+shit[-4] fuck[-4] lol[3]   TWEET SCORE: -5
+kiss[2]   TWEET SCORE: 2
+matter[1] good[3]   TWEET SCORE: 4
+lol[3] hilarious[2]   TWEET SCORE: 5
+hate[-3]   TWEET SCORE: -3
+mad[-3]   TWEET SCORE: -3
+love[3] faithful[3] trust[1]   TWEET SCORE: 7
+haha[3]   TWEET SCORE: 3
+hard[-1]   TWEET SCORE: -1
+scary[-2]   TWEET SCORE: -2
+no[-1]   TWEET SCORE: -1
+god[1] stop[-1] laughing[1]   TWEET SCORE: 1
+trouble[-2]   TWEET SCORE: -2
+like[2]   TWEET SCORE: 2
+benefit[2]   TWEET SCORE: 2
+big[1]   TWEET SCORE: 1
+love[3]   TWEET SCORE: 3
+fun[4]   TWEET SCORE: 4
+best[3]   TWEET SCORE: 3
+missing[-2]   TWEET SCORE: -2
+fails[-2] disappoint[-2]   TWEET SCORE: -4
+stop[-1] fucking[-4] shit[-4]   TWEET SCORE: -9
+want[1]   TWEET SCORE: 1
+love[3]   TWEET SCORE: 3
+want[1]   TWEET SCORE: 1
+ill[-2] calm[2]   TWEET SCORE: 0
+worry[-3]   TWEET SCORE: -3
+no[-1]   TWEET SCORE: -1
+haha[3] tired[-2] haha[3] drunk[-2]   TWEET SCORE: 2
+killed[-3]   TWEET SCORE: -3
+pretty[1]   TWEET SCORE: 1
+bitch[-5] fucked[-4]   TWEET SCORE: -9
+wish[1] happy[3]   TWEET SCORE: 4
+no[-1]   TWEET SCORE: -1
+no[-1]   TWEET SCORE: -1
+win[4]   TWEET SCORE: 4
+like[2]   TWEET SCORE: 2
+hard[-1] worry[-3]   TWEET SCORE: -4
+no[-1]   TWEET SCORE: -1
+best[3] best[3]   TWEET SCORE: 6
+hahaha[3] like[2]   TWEET SCORE: 5
+win[4] luck[3]   TWEET SCORE: 7
+want[1]   TWEET SCORE: 1
+no[-1]   TWEET SCORE: -1
+accident[-2] ha[2]   TWEET SCORE: 0
+lol[3]   TWEET SCORE: 3
+lol[3]   TWEET SCORE: 3
+amused[3]   TWEET SCORE: 3
+apology[-1] accepted[1]   TWEET SCORE: 0
+like[2]   TWEET SCORE: 2
+best[3]   TWEET SCORE: 3
+lol[3]   TWEET SCORE: 3
+no[-1]   TWEET SCORE: -1
+love[3] appreciate[2]   TWEET SCORE: 5
+lol[3]   TWEET SCORE: 3
+greatest[3] ruin[-2]   TWEET SCORE: 1
+amazing[4]   TWEET SCORE: 4
+nerves[-1] tender[2]   TWEET SCORE: 1
+great[3] favors[2]   TWEET SCORE: 5
+lol[3]   TWEET SCORE: 3
+wtf[-4]   TWEET SCORE: -4
+no[-1] haha[3]   TWEET SCORE: 2
+like[2] no[-1] no[-1]   TWEET SCORE: 0
+lol[3]   TWEET SCORE: 3
+no[-1]   TWEET SCORE: -1
+no[-1]   TWEET SCORE: -1
+good[3]   TWEET SCORE: 3
+lost[-3]   TWEET SCORE: -3
+want[1]   TWEET SCORE: 1
+love[3]   TWEET SCORE: 3
+no[-1]   TWEET SCORE: -1
+care[2]   TWEET SCORE: 2
+haha[3]   TWEET SCORE: 3
+like[2]   TWEET SCORE: 2
+no[-1]   TWEET SCORE: -1
+swear[-2] ruin[-2]   TWEET SCORE: -4
+drop[-1]   TWEET SCORE: -1
+no[-1]   TWEET SCORE: -1
+no[-1]   TWEET SCORE: -1
+ha[2] no[-1]   TWEET SCORE: 1
+badass[-3] hurt[-2]   TWEET SCORE: -5
+lol[3]   TWEET SCORE: 3
+stalling[-2]   TWEET SCORE: -2
+natural[1]   TWEET SCORE: 1
+amazing[4]   TWEET SCORE: 4
+love[3]   TWEET SCORE: 3
+no[-1]   TWEET SCORE: -1
+want[1] bad[-3]   TWEET SCORE: -2
+no[-1]   TWEET SCORE: -1
+no[-1]   TWEET SCORE: -1
+please[1] scared[-2]   TWEET SCORE: -1
+like[2] lol[3] big[1] damn[-4] shame[-2]   TWEET SCORE: 0
+failing[-2] matters[1]   TWEET SCORE: -1
+no[-1] lol[3]   TWEET SCORE: 2
+better[2]   TWEET SCORE: 2
+top[2] sorry[-1] like[2]   TWEET SCORE: 3
+love[3]   TWEET SCORE: 3
+no[-1] no[-1]   TWEET SCORE: -2
+no[-1]   TWEET SCORE: -1
+fun[4]   TWEET SCORE: 4
+haha[3] care[2]   TWEET SCORE: 5
+yes[1]   TWEET SCORE: 1
+best[3]   TWEET SCORE: 3
+happy[3]   TWEET SCORE: 3
+no[-1] no[-1] no[-1]   TWEET SCORE: -3
+best[3] thank[2]   TWEET SCORE: 5
+great[3]   TWEET SCORE: 3
+like[2] lol[3]   TWEET SCORE: 5
+thanks[2] warnings[-3]   TWEET SCORE: -1
+save[2]   TWEET SCORE: 2
+sorry[-1]   TWEET SCORE: -1
+shit[-4]   TWEET SCORE: -4
+lost[-3]   TWEET SCORE: -3
+good[3]   TWEET SCORE: 3
+thanks[2]   TWEET SCORE: 2
+no[-1] worth[2]   TWEET SCORE: 1
+good[3] good[3]   TWEET SCORE: 6
+no[-1]   TWEET SCORE: -1
+ruin[-2]   TWEET SCORE: -2
+no[-1]   TWEET SCORE: -1
+favorite[2]   TWEET SCORE: 2
+die[-3] lol[3]   TWEET SCORE: 0
+like[2]   TWEET SCORE: 2
+love[3] want[1]   TWEET SCORE: 4
+admits[-1]   TWEET SCORE: -1
+upset[-2] love[3]   TWEET SCORE: 1
+no[-1]   TWEET SCORE: -1
+love[3] like[2]   TWEET SCORE: 5
+fabulous[4]   TWEET SCORE: 4
+cool[1]   TWEET SCORE: 1
+stubborn[-2] bitch[-5]   TWEET SCORE: -7
+rich[2]   TWEET SCORE: 2
+no[-1]   TWEET SCORE: -1
+scared[-2]   TWEET SCORE: -2
+proud[2]   TWEET SCORE: 2
+win[4]   TWEET SCORE: 4
+no[-1]   TWEET SCORE: -1
+stupid[-2] ass[-4]   TWEET SCORE: -6
+sweet[2] niggas[-5]   TWEET SCORE: -3
+shit[-4]   TWEET SCORE: -4
+please[1]   TWEET SCORE: 1
+bored[-2]   TWEET SCORE: -2
+good[3]   TWEET SCORE: 3
+broken[-1]   TWEET SCORE: -1
+best[3]   TWEET SCORE: 3
+calm[2]   TWEET SCORE: 2
+no[-1]   TWEET SCORE: -1
+love[3]   TWEET SCORE: 3
+niggas[-5] like[2] bold[2] like[2] niggas[-5]   TWEET SCORE: -4
+alive[1]   TWEET SCORE: 1
+win[4]   TWEET SCORE: 4
+help[2] love[3]   TWEET SCORE: 5
+thank[2] amazing[4]   TWEET SCORE: 6
+no[-1]   TWEET SCORE: -1
+no[-1]   TWEET SCORE: -1
+greater[3] love[3]   TWEET SCORE: 6
+ass[-4]   TWEET SCORE: -4
+crazy[-2] comfortable[2]   TWEET SCORE: 0
+lol[3]   TWEET SCORE: 3
+big[1]   TWEET SCORE: 1
+no[-1] no[-1]   TWEET SCORE: -2
+no[-1]   TWEET SCORE: -1
+good[3]   TWEET SCORE: 3
+honest[2] trust[1]   TWEET SCORE: 3
+killed[-3]   TWEET SCORE: -3
+lost[-3] hell[-4] good[3]   TWEET SCORE: -4
+fucking[-4]   TWEET SCORE: -4
+like[2]   TWEET SCORE: 2
+hope[2] love[3] please[1]   TWEET SCORE: 6
+no[-1]   TWEET SCORE: -1
+protect[1]   TWEET SCORE: 1
+afraid[-2] chance[2]   TWEET SCORE: 0
+no[-1]   TWEET SCORE: -1
+hate[-3]   TWEET SCORE: -3
+thank[2]   TWEET SCORE: 2
+haha[3]   TWEET SCORE: 3
+love[3]   TWEET SCORE: 3
+like[2]   TWEET SCORE: 2
+want[1]   TWEET SCORE: 1
+lol[3] glad[3] admitted[-1] bad[-3] good[3] lol[3]   TWEET SCORE: 8
+horrendous[-3]   TWEET SCORE: -3
+best[3] feeling[1]   TWEET SCORE: 4
+love[3]   TWEET SCORE: 3
+dumb[-3] ass[-4] dead[-3] pissed[-4]   TWEET SCORE: -14
+attacking[-1]   TWEET SCORE: -1
+important[2]   TWEET SCORE: 2
+notorious[-2]   TWEET SCORE: -2
+like[2] like[2]   TWEET SCORE: 4
+hate[-3] ease[2]   TWEET SCORE: -1
+lack[-2]   TWEET SCORE: -2
+like[2] want[1]   TWEET SCORE: 3
+afraid[-2]   TWEET SCORE: -2
+lol[3]   TWEET SCORE: 3
+sweet[2]   TWEET SCORE: 2
+haha[3]   TWEET SCORE: 3
+fucking[-4]   TWEET SCORE: -4
+important[2] trust[1]   TWEET SCORE: 3
+cute[2]   TWEET SCORE: 2
+excited[3] happy[3]   TWEET SCORE: 6
+hope[2]   TWEET SCORE: 2
+tired[-2]   TWEET SCORE: -2
+no[-1]   TWEET SCORE: -1
+like[2]   TWEET SCORE: 2
+fake[-3] smile[2]   TWEET SCORE: -1
+like[2]   TWEET SCORE: 2
+lurking[-1]   TWEET SCORE: -1
+like[2]   TWEET SCORE: 2
+annoy[-2] love[3]   TWEET SCORE: 1
+like[2] stopped[-1]   TWEET SCORE: 1
+fake[-3]   TWEET SCORE: -3
+love[3]   TWEET SCORE: 3
+love[3]   TWEET SCORE: 3
+bullshit[-4]   TWEET SCORE: -4
+want[1]   TWEET SCORE: 1
+hate[-3] sick[-2] wasting[-2] tears[-2]   TWEET SCORE: -9
+no[-1]   TWEET SCORE: -1
+super[3] no[-1]   TWEET SCORE: 2
+die[-3]   TWEET SCORE: -3
+miss[-2]   TWEET SCORE: -2
+amazing[4]   TWEET SCORE: 4
+like[2]   TWEET SCORE: 2
+join[1] happy[3]   TWEET SCORE: 4
+fuck[-4] shit[-4]   TWEET SCORE: -8
+loyal[3] want[1]   TWEET SCORE: 4
+promote[1]   TWEET SCORE: 1
+love[3]   TWEET SCORE: 3
+stop[-1]   TWEET SCORE: -1
+awesome[4] free[1]   TWEET SCORE: 5
+hell[-4]   TWEET SCORE: -4
+no[-1]   TWEET SCORE: -1
+swear[-2]   TWEET SCORE: -2
+die[-3] broken[-1]   TWEET SCORE: -4
+hahahah[3]   TWEET SCORE: 3
+want[1]   TWEET SCORE: 1
+like[2]   TWEET SCORE: 2
+love[3]   TWEET SCORE: 3
+fucking[-4] cute[2]   TWEET SCORE: -2
+beautiful[3]   TWEET SCORE: 3
+block[-1]   TWEET SCORE: -1
+no[-1]   TWEET SCORE: -1
+no[-1]   TWEET SCORE: -1
+shit[-4]   TWEET SCORE: -4
+tired[-2]   TWEET SCORE: -2
+no[-1]   TWEET SCORE: -1
+love[3]   TWEET SCORE: 3
+crime[-3] lmao[4]   TWEET SCORE: 1
+yes[1] like[2] great[3]   TWEET SCORE: 6
+no[-1]   TWEET SCORE: -1
+no[-1] no[-1]   TWEET SCORE: -2
+die[-3]   TWEET SCORE: -3
+fuck[-4] fuck[-4] fuckers[-4]   TWEET SCORE: -12
+fucking[-4]   TWEET SCORE: -4
+fuck[-4]   TWEET SCORE: -4
+no[-1]   TWEET SCORE: -1
+afraid[-2] cry[-1]   TWEET SCORE: -3
+lol[3]   TWEET SCORE: 3
+cute[2]   TWEET SCORE: 2
+jealous[-2]   TWEET SCORE: -2
+ha[2]   TWEET SCORE: 2
+afraid[-2] die[-3]   TWEET SCORE: -5
+fight[-1]   TWEET SCORE: -1
+saved[2] hope[2]   TWEET SCORE: 4
+lucky[3]   TWEET SCORE: 3
+fulfill[2]   TWEET SCORE: 2
+adorable[3] love[3]   TWEET SCORE: 6
+shit[-4]   TWEET SCORE: -4
+peaceful[2]   TWEET SCORE: 2
+strong[2] disturb[-2] peace[2]   TWEET SCORE: 2
+wonderful[4] pleasure[3] true[2]   TWEET SCORE: 9
+want[1]   TWEET SCORE: 1
+want[1] free[1]   TWEET SCORE: 2
+hope[2]   TWEET SCORE: 2
+like[2]   TWEET SCORE: 2
+want[1]   TWEET SCORE: 1
+solve[1] unemployment[-2]   TWEET SCORE: -1
+emergency[-2]   TWEET SCORE: -2
+sucks[-3]   TWEET SCORE: -3
+hard[-1]   TWEET SCORE: -1
+pay[-1]   TWEET SCORE: -1
+top[2]   TWEET SCORE: 2
+pretty[1] good[3]   TWEET SCORE: 4
+shoot[-1] fabulous[4] bitches[-5]   TWEET SCORE: -2
+lol[3] good[3]   TWEET SCORE: 6
+good[3]   TWEET SCORE: 3
+sweet[2]   TWEET SCORE: 2
+no[-1]   TWEET SCORE: -1
+no[-1] no[-1]   TWEET SCORE: -2
+hide[-1] hide[-1] hide[-1]   TWEET SCORE: -3
+appreciate[2]   TWEET SCORE: 2
+no[-1]   TWEET SCORE: -1
+lazy[-1]   TWEET SCORE: -1
+madness[-3]   TWEET SCORE: -3
+like[2]   TWEET SCORE: 2
+love[3]   TWEET SCORE: 3
+ha[2]   TWEET SCORE: 2
+love[3] love[3]   TWEET SCORE: 6
+nice[3]   TWEET SCORE: 3
+love[3]   TWEET SCORE: 3
+top[2] great[3]   TWEET SCORE: 5
+happy[3]   TWEET SCORE: 3
+miss[-2]   TWEET SCORE: -2
+stop[-1]   TWEET SCORE: -1
+promise[1] swear[-2]   TWEET SCORE: -1
+good[3]   TWEET SCORE: 3
+calm[2]   TWEET SCORE: 2
+easy[1] solution[1] like[2]   TWEET SCORE: 4
+nice[3]   TWEET SCORE: 3
+drop[-1]   TWEET SCORE: -1
+no[-1]   TWEET SCORE: -1
+damn[-4]   TWEET SCORE: -4
+dedicated[2] shit[-4]   TWEET SCORE: -2
+saved[2]   TWEET SCORE: 2
+no[-1]   TWEET SCORE: -1
+like[2]   TWEET SCORE: 2
+thank[2]   TWEET SCORE: 2
+fuck[-4]   TWEET SCORE: -4
+lol[3] ass[-4] shit[-4] ha[2]   TWEET SCORE: -3
+shit[-4] cute[2] shit[-4] laughing[1]   TWEET SCORE: -5
+worth[2]   TWEET SCORE: 2
+love[3]   TWEET SCORE: 3
+cry[-1]   TWEET SCORE: -1
+ass[-4]   TWEET SCORE: -4
+love[3]   TWEET SCORE: 3
+love[3]   TWEET SCORE: 3
+fucking[-4] scared[-2]   TWEET SCORE: -6
+bored[-2]   TWEET SCORE: -2
+no[-1]   TWEET SCORE: -1
+no[-1]   TWEET SCORE: -1
+natural[1]   TWEET SCORE: 1
+hahaha[3]   TWEET SCORE: 3
+hoping[2]   TWEET SCORE: 2
+battle[-1]   TWEET SCORE: -1
+favorite[2] wasting[-2]   TWEET SCORE: 0
+no[-1] ha[2]   TWEET SCORE: 1
+drunk[-2]   TWEET SCORE: -2
+love[3]   TWEET SCORE: 3
+beautiful[3] no[-1] love[3]   TWEET SCORE: 5
+no[-1]   TWEET SCORE: -1
+no[-1]   TWEET SCORE: -1
+no[-1]   TWEET SCORE: -1
+clean[2]   TWEET SCORE: 2
+fuck[-4] cry[-1]   TWEET SCORE: -5
+loved[3] better[2]   TWEET SCORE: 5
+love[3]   TWEET SCORE: 3
+haha[3] hahahah[3]   TWEET SCORE: 6
+no[-1] best[3] yes[1]   TWEET SCORE: 3
+miss[-2] forget[-1]   TWEET SCORE: -3
+no[-1]   TWEET SCORE: -1
+better[2]   TWEET SCORE: 2
+drunk[-2]   TWEET SCORE: -2
+best[3]   TWEET SCORE: 3
+sorry[-1]   TWEET SCORE: -1
+lol[3]   TWEET SCORE: 3
+no[-1]   TWEET SCORE: -1
+hard[-1]   TWEET SCORE: -1
+haha[3] enjoying[2]   TWEET SCORE: 5
+love[3]   TWEET SCORE: 3
+no[-1]   TWEET SCORE: -1
+feeling[1] guilty[-3]   TWEET SCORE: -2
+like[2]   TWEET SCORE: 2
+pissing[-3]   TWEET SCORE: -3
+hate[-3] feeling[1]   TWEET SCORE: -2
+bad[-3]   TWEET SCORE: -3
+lol[3]   TWEET SCORE: 3
+haha[3]   TWEET SCORE: 3
+no[-1]   TWEET SCORE: -1
+great[3]   TWEET SCORE: 3
+yeah[1]   TWEET SCORE: 1
+shares[1] love[3]   TWEET SCORE: 4
+hahahah[3]   TWEET SCORE: 3
+lucky[3] chance[2] waste[-1]   TWEET SCORE: 4
+pay[-1] ass[-4]   TWEET SCORE: -5
+dead[-3] death[-2]   TWEET SCORE: -5
+please[1]   TWEET SCORE: 1
+good[3]   TWEET SCORE: 3
+want[1]   TWEET SCORE: 1
+no[-1]   TWEET SCORE: -1
+jokes[2]   TWEET SCORE: 2
+want[1] love[3] like[2]   TWEET SCORE: 6
+want[1]   TWEET SCORE: 1
+no[-1]   TWEET SCORE: -1
+love[3] like[2]   TWEET SCORE: 5
+like[2]   TWEET SCORE: 2
+care[2]   TWEET SCORE: 2
+die[-3]   TWEET SCORE: -3
+crazy[-2] lmao[4]   TWEET SCORE: 2
+no[-1] lol[3]   TWEET SCORE: 2
+fuck[-4]   TWEET SCORE: -4
+like[2]   TWEET SCORE: 2
+gross[-2]   TWEET SCORE: -2
+happiness[3] fun[4]   TWEET SCORE: 7
+hoping[2]   TWEET SCORE: 2
+shit[-4] broke[-1]   TWEET SCORE: -5
+sorry[-1]   TWEET SCORE: -1
+no[-1] no[-1]   TWEET SCORE: -2
+died[-3]   TWEET SCORE: -3
+free[1]   TWEET SCORE: 1
+sad[-2] lost[-3] stabbed[-2] loss[-3]   TWEET SCORE: -10
+ass[-4] bad[-3]   TWEET SCORE: -7
+exciting[3]   TWEET SCORE: 3
+want[1]   TWEET SCORE: 1
+like[2] like[2] inspiring[3]   TWEET SCORE: 7
+care[2] like[2] like[2]   TWEET SCORE: 6
+problems[-2]   TWEET SCORE: -2
+no[-1]   TWEET SCORE: -1
+dream[1]   TWEET SCORE: 1
+love[3]   TWEET SCORE: 3
+no[-1]   TWEET SCORE: -1
+like[2]   TWEET SCORE: 2
+please[1]   TWEET SCORE: 1
+love[3] good[3]   TWEET SCORE: 6
+hero[2]   TWEET SCORE: 2
+bomb[-1]   TWEET SCORE: -1
+wish[1] rich[2]   TWEET SCORE: 3
+no[-1]   TWEET SCORE: -1
+miss[-2]   TWEET SCORE: -2
+stop[-1]   TWEET SCORE: -1
+good[3]   TWEET SCORE: 3
+hate[-3]   TWEET SCORE: -3
+funny[4]   TWEET SCORE: 4
+haha[3]   TWEET SCORE: 3
+encourage[2]   TWEET SCORE: 2
+hope[2]   TWEET SCORE: 2
+want[1]   TWEET SCORE: 1
+forget[-1]   TWEET SCORE: -1
+no[-1]   TWEET SCORE: -1
+shit[-4]   TWEET SCORE: -4
+cheering[2]   TWEET SCORE: 2
+haha[3] like[2]   TWEET SCORE: 5
+hahaha[3]   TWEET SCORE: 3
+want[1]   TWEET SCORE: 1
+wish[1] happy[3]   TWEET SCORE: 4
+stable[2] no[-1] like[2]   TWEET SCORE: 3
+cry[-1]   TWEET SCORE: -1
+worst[-3]   TWEET SCORE: -3
+lol[3] like[2]   TWEET SCORE: 5
+good[3]   TWEET SCORE: 3
+want[1] lol[3]   TWEET SCORE: 4
+no[-1]   TWEET SCORE: -1
+die[-3]   TWEET SCORE: -3
+wish[1]   TWEET SCORE: 1
+like[2]   TWEET SCORE: 2
+haha[3]   TWEET SCORE: 3
+no[-1]   TWEET SCORE: -1
+perfect[3] good[3] cry[-1]   TWEET SCORE: 5
+stop[-1]   TWEET SCORE: -1
+fuck[-4] hahahah[3]   TWEET SCORE: -1
+excited[3]   TWEET SCORE: 3
+hard[-1] yeah[1] bitch[-5]   TWEET SCORE: -5
+yeah[1]   TWEET SCORE: 1
+no[-1]   TWEET SCORE: -1
+hard[-1]   TWEET SCORE: -1
+gain[2]   TWEET SCORE: 2
+good[3]   TWEET SCORE: 3
+damn[-4]   TWEET SCORE: -4
+scary[-2]   TWEET SCORE: -2
+kill[-3]   TWEET SCORE: -3
+no[-1]   TWEET SCORE: -1
+shit[-4]   TWEET SCORE: -4
+fun[4] hates[-3]   TWEET SCORE: 1
+thankful[2]   TWEET SCORE: 2
+worried[-3]   TWEET SCORE: -3
+calmed[2]   TWEET SCORE: 2
+lol[3]   TWEET SCORE: 3
+ill[-2]   TWEET SCORE: -2
+defender[2]   TWEET SCORE: 2
+fucking[-4]   TWEET SCORE: -4
+delight[3] delight[3] destroy[-3]   TWEET SCORE: 3
+thank[2] drop[-1] hard[-1]   TWEET SCORE: 0
+no[-1]   TWEET SCORE: -1
+no[-1]   TWEET SCORE: -1
+fun[4]   TWEET SCORE: 4
+die[-3]   TWEET SCORE: -3
+like[2]   TWEET SCORE: 2
+favorited[2] favorites[2]   TWEET SCORE: 4
+cheers[2] thanks[2]   TWEET SCORE: 4
+miss[-2] want[1]   TWEET SCORE: -1
+cool[1]   TWEET SCORE: 1
+free[1]   TWEET SCORE: 1
+laughs[1] smiling[2]   TWEET SCORE: 3
+love[3]   TWEET SCORE: 3
+no[-1] ha[2] super[3]   TWEET SCORE: 4
+indifferent[-2]   TWEET SCORE: -2
+big[1] hope[2] fight[-1] like[2] big[1]   TWEET SCORE: 5
+love[3]   TWEET SCORE: 3
+won[3]   TWEET SCORE: 3
+stolen[-2]   TWEET SCORE: -2
+sexy[3]   TWEET SCORE: 3
+like[2] scared[-2]   TWEET SCORE: 0
+energetic[2]   TWEET SCORE: 2
+like[2] care[2]   TWEET SCORE: 4
+love[3]   TWEET SCORE: 3
+no[-1]   TWEET SCORE: -1
+like[2]   TWEET SCORE: 2
+no[-1]   TWEET SCORE: -1
+super[3]   TWEET SCORE: 3
+ha[2]   TWEET SCORE: 2
+bad[-3] ass[-4]   TWEET SCORE: -7
+nice[3]   TWEET SCORE: 3
+appreciate[2]   TWEET SCORE: 2
+save[2]   TWEET SCORE: 2
+wish[1]   TWEET SCORE: 1
+hopeless[-2]   TWEET SCORE: -2
+like[2]   TWEET SCORE: 2
+like[2]   TWEET SCORE: 2
+no[-1]   TWEET SCORE: -1
+no[-1]   TWEET SCORE: -1
+wish[1]   TWEET SCORE: 1
+no[-1]   TWEET SCORE: -1
+super[3]   TWEET SCORE: 3
+death[-2]   TWEET SCORE: -2
+like[2]   TWEET SCORE: 2
+hell[-4] hilarious[2]   TWEET SCORE: -2
+suspended[-1] stupid[-2]   TWEET SCORE: -3
+hahaha[3]   TWEET SCORE: 3
+blessing[3]   TWEET SCORE: 3
+like[2]   TWEET SCORE: 2
+like[2]   TWEET SCORE: 2
+congrats[2]   TWEET SCORE: 2
+like[2]   TWEET SCORE: 2
+no[-1]   TWEET SCORE: -1
+alone[-2] noble[2]   TWEET SCORE: 0
+no[-1]   TWEET SCORE: -1
+like[2] pretend[-1]   TWEET SCORE: 1
+amazing[4]   TWEET SCORE: 4
+no[-1]   TWEET SCORE: -1
+bizarre[-2]   TWEET SCORE: -2
+bitches[-5] like[2] laughing[1]   TWEET SCORE: -2
+enjoy[2]   TWEET SCORE: 2
+no[-1] no[-1]   TWEET SCORE: -2
+niggas[-5]   TWEET SCORE: -5
+thank[2]   TWEET SCORE: 2
+bitches[-5] cut[-1] stopped[-1]   TWEET SCORE: -7
+cut[-1] no[-1] cheat[-3]   TWEET SCORE: -5
+no[-1]   TWEET SCORE: -1
+attacking[-1]   TWEET SCORE: -1
+disregard[-2]   TWEET SCORE: -2
+good[3]   TWEET SCORE: 3
+please[1]   TWEET SCORE: 1
+good[3]   TWEET SCORE: 3
+no[-1]   TWEET SCORE: -1
+no[-1]   TWEET SCORE: -1
+love[3]   TWEET SCORE: 3
+bad[-3] bitches[-5]   TWEET SCORE: -8
+like[2] better[2]   TWEET SCORE: 4
+love[3] shit[-4] like[2]   TWEET SCORE: 1
+favorite[2] wasting[-2]   TWEET SCORE: 0
+thank[2] wishing[1] peace[2]   TWEET SCORE: 5
+miss[-2]   TWEET SCORE: -2
+big[1] big[1] lol[3]   TWEET SCORE: 5
+no[-1]   TWEET SCORE: -1
+funny[4]   TWEET SCORE: 4
+hahaha[3]   TWEET SCORE: 3
+wish[1]   TWEET SCORE: 1
+wish[1]   TWEET SCORE: 1
+missed[-2]   TWEET SCORE: -2
+mad[-3]   TWEET SCORE: -3
+ass[-4] cute[2]   TWEET SCORE: -2
+mad[-3] mad[-3] mature[2]   TWEET SCORE: -4
+pissed[-4]   TWEET SCORE: -4
+miss[-2]   TWEET SCORE: -2
+no[-1]   TWEET SCORE: -1
+no[-1]   TWEET SCORE: -1
+hoping[2] god[1]   TWEET SCORE: 3
+good[3]   TWEET SCORE: 3
+love[3]   TWEET SCORE: 3
+dead[-3]   TWEET SCORE: -3
+waste[-1] weird[-2]   TWEET SCORE: -3
+no[-1]   TWEET SCORE: -1
+fucked[-4]   TWEET SCORE: -4
+bored[-2]   TWEET SCORE: -2
+lol[3] funny[4]   TWEET SCORE: 7
+loving[2]   TWEET SCORE: 2
+beautiful[3]   TWEET SCORE: 3
+happy[3]   TWEET SCORE: 3
+no[-1] haha[3]   TWEET SCORE: 2
+lmfao[4] forgotten[-1]   TWEET SCORE: 3
+no[-1]   TWEET SCORE: -1
+miss[-2]   TWEET SCORE: -2
+no[-1]   TWEET SCORE: -1
+best[3]   TWEET SCORE: 3
+no[-1]   TWEET SCORE: -1
+bored[-2] haha[3]   TWEET SCORE: 1
+hard[-1]   TWEET SCORE: -1
+love[3]   TWEET SCORE: 3
+love[3] sorry[-1]   TWEET SCORE: 2
+alone[-2] no[-1]   TWEET SCORE: -3
+ridiculous[-3]   TWEET SCORE: -3
+niggas[-5] niggas[-5]   TWEET SCORE: -10
+ass[-4]   TWEET SCORE: -4
+love[3] support[2] smile[2] smile[2]   TWEET SCORE: 9
+perfect[3] miss[-2] imperfect[-2] perfectly[3]   TWEET SCORE: 2
+amazing[4] miss[-2]   TWEET SCORE: 2
+free[1]   TWEET SCORE: 1
+pray[1] poison[-2]   TWEET SCORE: -1
+like[2]   TWEET SCORE: 2
+hahaha[3]   TWEET SCORE: 3
+happy[3]   TWEET SCORE: 3
+no[-1]   TWEET SCORE: -1
+shit[-4] like[2]   TWEET SCORE: -2
+good[3]   TWEET SCORE: 3
+sorry[-1]   TWEET SCORE: -1
+like[2]   TWEET SCORE: 2
+no[-1]   TWEET SCORE: -1
+crazy[-2] crazier[-2]   TWEET SCORE: -4
+haha[3]   TWEET SCORE: 3
+like[2]   TWEET SCORE: 2
+proud[2]   TWEET SCORE: 2
+cheated[-3]   TWEET SCORE: -3
+no[-1]   TWEET SCORE: -1
+want[1]   TWEET SCORE: 1
+yes[1]   TWEET SCORE: 1
+lol[3]   TWEET SCORE: 3
+good[3]   TWEET SCORE: 3
+shit[-4]   TWEET SCORE: -4
+crush[-1]   TWEET SCORE: -1
+love[3]   TWEET SCORE: 3
+no[-1]   TWEET SCORE: -1
+bitches[-5] heartbroken[-3] lmfao[4]   TWEET SCORE: -4
+pretty[1]   TWEET SCORE: 1
+greet[1] kill[-3]   TWEET SCORE: -2
+collapses[-2] reach[1]   TWEET SCORE: -1
+love[3] powerful[2]   TWEET SCORE: 5
+like[2] greedy[-2]   TWEET SCORE: 0
+no[-1]   TWEET SCORE: -1
+approval[2] support[2]   TWEET SCORE: 4
+laughed[1]   TWEET SCORE: 1
+clean[2]   TWEET SCORE: 2
+tired[-2]   TWEET SCORE: -2
+win[4] save[2]   TWEET SCORE: 6
+laugh[1]   TWEET SCORE: 1
+anger[-3] problems[-2]   TWEET SCORE: -5
+chances[2] like[2]   TWEET SCORE: 4
+no[-1]   TWEET SCORE: -1
+save[2]   TWEET SCORE: 2
+good[3]   TWEET SCORE: 3
+like[2]   TWEET SCORE: 2
+help[2]   TWEET SCORE: 2
+fucking[-4] sick[-2]   TWEET SCORE: -6
+like[2]   TWEET SCORE: 2
+no[-1]   TWEET SCORE: -1
+sparkle[3] dreams[1]   TWEET SCORE: 4
+like[2] fun[4] ignore[-1] leave[-1]   TWEET SCORE: 4
+no[-1]   TWEET SCORE: -1
+ass[-4]   TWEET SCORE: -4
+wish[1]   TWEET SCORE: 1
+no[-1]   TWEET SCORE: -1
+fucking[-4]   TWEET SCORE: -4
+embarrassed[-2]   TWEET SCORE: -2
+like[2]   TWEET SCORE: 2
+hate[-3] hates[-3] strong[2]   TWEET SCORE: -4
+like[2]   TWEET SCORE: 2
+perfect[3] dirty[-2]   TWEET SCORE: 1
+like[2]   TWEET SCORE: 2
+shit[-4] hard[-1] hell[-4]   TWEET SCORE: -9
+no[-1]   TWEET SCORE: -1
+likes[2]   TWEET SCORE: 2
+best[3]   TWEET SCORE: 3
+like[2]   TWEET SCORE: 2
+intense[1]   TWEET SCORE: 1
+liked[2]   TWEET SCORE: 2
+suffers[-2] struggling[-2]   TWEET SCORE: -4
+exhausted[-2]   TWEET SCORE: -2
+confused[-2] lol[3]   TWEET SCORE: 1
+ha[2] ha[2]   TWEET SCORE: 4
+lol[3]   TWEET SCORE: 3
+yes[1] hug[2]   TWEET SCORE: 3
+good[3]   TWEET SCORE: 3
+hurt[-2]   TWEET SCORE: -2
+fight[-1] love[3]   TWEET SCORE: 2
+yes[1]   TWEET SCORE: 1
+good[3]   TWEET SCORE: 3
+chance[2]   TWEET SCORE: 2
+terrible[-3]   TWEET SCORE: -3
+no[-1]   TWEET SCORE: -1
+swear[-2] hate[-3]   TWEET SCORE: -5
+good[3]   TWEET SCORE: 3
+rape[-4] like[2]   TWEET SCORE: -2
+hahaha[3]   TWEET SCORE: 3
+no[-1]   TWEET SCORE: -1
+relaxed[2]   TWEET SCORE: 2
+no[-1]   TWEET SCORE: -1
+oks[2]   TWEET SCORE: 2
+lol[3]   TWEET SCORE: 3
+like[2]   TWEET SCORE: 2
+love[3]   TWEET SCORE: 3
+killing[-3]   TWEET SCORE: -3
+hell[-4]   TWEET SCORE: -4
+blame[-2]   TWEET SCORE: -2
+like[2]   TWEET SCORE: 2
+ha[2]   TWEET SCORE: 2
+weird[-2]   TWEET SCORE: -2
+bad[-3] super[3]   TWEET SCORE: 0
+help[2]   TWEET SCORE: 2
+funny[4] love[3]   TWEET SCORE: 7
+angry[-3]   TWEET SCORE: -3
+suck[-3]   TWEET SCORE: -3
+good[3] lol[3]   TWEET SCORE: 6
+wrong[-2]   TWEET SCORE: -2
+stop[-1]   TWEET SCORE: -1
+irony[-1]   TWEET SCORE: -1
+sarcastic[-2] yeah[1] fucking[-4] love[3] ill[-2] admit[-1] lol[3] cunt[-5]   TWEET SCORE: -7
+struggling[-2] pay[-1] strange[-1]   TWEET SCORE: -4
+care[2]   TWEET SCORE: 2
+thanks[2]   TWEET SCORE: 2
+ridiculous[-3]   TWEET SCORE: -3
+want[1] win[4] cry[-1]   TWEET SCORE: 4
+strong[2]   TWEET SCORE: 2
+ill[-2]   TWEET SCORE: -2
+focused[2] positive[2] negative[-2]   TWEET SCORE: 2
+powerful[2]   TWEET SCORE: 2
+god[1]   TWEET SCORE: 1
+hate[-3] pay[-1] love[3]   TWEET SCORE: -1
+flu[-2]   TWEET SCORE: -2
+shit[-4]   TWEET SCORE: -4
+awesome[4] hate[-3]   TWEET SCORE: 1
+sorry[-1]   TWEET SCORE: -1
+love[3]   TWEET SCORE: 3
+ass[-4]   TWEET SCORE: -4
+yes[1]   TWEET SCORE: 1
+no[-1]   TWEET SCORE: -1
+insensitivity[-2]   TWEET SCORE: -2
+forget[-1] harsh[-2] strange[-1]   TWEET SCORE: -4
+please[1]   TWEET SCORE: 1
+yes[1]   TWEET SCORE: 1
+good[3]   TWEET SCORE: 3
+want[1]   TWEET SCORE: 1
+afraid[-2]   TWEET SCORE: -2
+fun[4]   TWEET SCORE: 4
+likes[2]   TWEET SCORE: 2
+drunk[-2]   TWEET SCORE: -2
+haha[3]   TWEET SCORE: 3
+haha[3]   TWEET SCORE: 3
+mad[-3] unsure[-1]   TWEET SCORE: -4
+shit[-4] fucking[-4]   TWEET SCORE: -8
+hate[-3]   TWEET SCORE: -3
+clever[2] clever[2]   TWEET SCORE: 4
+ugly[-3]   TWEET SCORE: -3
+annoy[-2]   TWEET SCORE: -2
+like[2]   TWEET SCORE: 2
+miss[-2]   TWEET SCORE: -2
+nice[3] confuse[-2]   TWEET SCORE: 1
+no[-1]   TWEET SCORE: -1
+like[2] bad[-3]   TWEET SCORE: -1
+silly[-1] chance[2]   TWEET SCORE: 1
+liked[2]   TWEET SCORE: 2
+like[2]   TWEET SCORE: 2
+funny[4] like[2]   TWEET SCORE: 6
+lol[3]   TWEET SCORE: 3
+hahaha[3] bad[-3]   TWEET SCORE: 0
+no[-1]   TWEET SCORE: -1
+sick[-2] joke[2]   TWEET SCORE: 0
+trust[1] natural[1]   TWEET SCORE: 2
+kind[2] crazy[-2] wish[1]   TWEET SCORE: 1
+no[-1] no[-1]   TWEET SCORE: -2
+worried[-3]   TWEET SCORE: -3
+lol[3]   TWEET SCORE: 3
+laughing[1]   TWEET SCORE: 1
+favorite[2] wasting[-2]   TWEET SCORE: 0
+hahaha[3]   TWEET SCORE: 3
+shitty[-3] block[-1]   TWEET SCORE: -4
+good[3]   TWEET SCORE: 3
+hell[-4] wrong[-2]   TWEET SCORE: -6
+sorry[-1] hard[-1]   TWEET SCORE: -2
+no[-1]   TWEET SCORE: -1
+stop[-1]   TWEET SCORE: -1
+weird[-2]   TWEET SCORE: -2
+niggas[-5]   TWEET SCORE: -5
+lol[3]   TWEET SCORE: 3
+no[-1]   TWEET SCORE: -1
+shame[-2]   TWEET SCORE: -2
+perfect[3]   TWEET SCORE: 3
+bizarre[-2]   TWEET SCORE: -2
+glad[3]   TWEET SCORE: 3
+fucking[-4]   TWEET SCORE: -4
+lol[3]   TWEET SCORE: 3
+suck[-3]   TWEET SCORE: -3
+share[1]   TWEET SCORE: 1
+favorite[2]   TWEET SCORE: 2
+bad[-3]   TWEET SCORE: -3
+hate[-3]   TWEET SCORE: -3
+accuse[-2]   TWEET SCORE: -2
+love[3]   TWEET SCORE: 3
+no[-1]   TWEET SCORE: -1
+want[1]   TWEET SCORE: 1
+no[-1]   TWEET SCORE: -1
+no[-1]   TWEET SCORE: -1
+no[-1]   TWEET SCORE: -1
+yeah[1]   TWEET SCORE: 1
+love[3]   TWEET SCORE: 3
+no[-1] rewarded[2]   TWEET SCORE: 1
+no[-1]   TWEET SCORE: -1
+please[1]   TWEET SCORE: 1
+beautiful[3]   TWEET SCORE: 3
+help[2]   TWEET SCORE: 2
+good[3]   TWEET SCORE: 3
+disqualified[-2]   TWEET SCORE: -2
+like[2]   TWEET SCORE: 2
+love[3]   TWEET SCORE: 3
+favor[2]   TWEET SCORE: 2
+no[-1]   TWEET SCORE: -1
+no[-1]   TWEET SCORE: -1
+mad[-3]   TWEET SCORE: -3
+bitch[-5]   TWEET SCORE: -5
+no[-1]   TWEET SCORE: -1
+hahaha[3]   TWEET SCORE: 3
+no[-1]   TWEET SCORE: -1
+leave[-1]   TWEET SCORE: -1
+crazy[-2]   TWEET SCORE: -2
+no[-1]   TWEET SCORE: -1
+tears[-2]   TWEET SCORE: -2
+good[3] ass[-4]   TWEET SCORE: -1
+forgotten[-1] like[2]   TWEET SCORE: 1
+died[-3]   TWEET SCORE: -3
+like[2]   TWEET SCORE: 2
+no[-1] no[-1]   TWEET SCORE: -2
+perfect[3] thank[2] loving[2]   TWEET SCORE: 7
+fuck[-4]   TWEET SCORE: -4
+no[-1]   TWEET SCORE: -1
+miss[-2] care[2]   TWEET SCORE: 0
+no[-1]   TWEET SCORE: -1
+top[2] happy[3] drop[-1] heaven[2]   TWEET SCORE: 6
+like[2] fuck[-4]   TWEET SCORE: -2
+stop[-1]   TWEET SCORE: -1
+favorite[2] haha[3]   TWEET SCORE: 5
+hahaha[3] love[3]   TWEET SCORE: 6
+haha[3]   TWEET SCORE: 3
+stuck[-2]   TWEET SCORE: -2
+broken[-1]   TWEET SCORE: -1
+haha[3]   TWEET SCORE: 3
+sore[-1]   TWEET SCORE: -1
+cool[1]   TWEET SCORE: 1
+want[1] no[-1] fun[4]   TWEET SCORE: 4
+like[2]   TWEET SCORE: 2
+no[-1]   TWEET SCORE: -1
+like[2]   TWEET SCORE: 2
+good[3]   TWEET SCORE: 3
+no[-1]   TWEET SCORE: -1
+grave[-2]   TWEET SCORE: -2
+like[2] ignore[-1]   TWEET SCORE: 1
+no[-1]   TWEET SCORE: -1
+good[3]   TWEET SCORE: 3
+joke[2]   TWEET SCORE: 2
+welcome[2]   TWEET SCORE: 2
+cool[1]   TWEET SCORE: 1
+worst[-3] feeling[1] no[-1]   TWEET SCORE: -3
+good[3] care[2]   TWEET SCORE: 5
+no[-1]   TWEET SCORE: -1
+want[1] damn[-4]   TWEET SCORE: -3
+cry[-1]   TWEET SCORE: -1
+cute[2] better[2]   TWEET SCORE: 4
+shit[-4] love[3]   TWEET SCORE: -1
+courtesy[2] hard[-1]   TWEET SCORE: 1
+no[-1]   TWEET SCORE: -1
+want[1]   TWEET SCORE: 1
+lol[3]   TWEET SCORE: 3
+want[1]   TWEET SCORE: 1
+miss[-2]   TWEET SCORE: -2
+rich[2]   TWEET SCORE: 2
+no[-1]   TWEET SCORE: -1
+peace[2] disturbing[-2]   TWEET SCORE: 0
+thankful[2]   TWEET SCORE: 2
+bitch[-5]   TWEET SCORE: -5
+worried[-3]   TWEET SCORE: -3
+like[2]   TWEET SCORE: 2
+wow[4]   TWEET SCORE: 4
+hahaha[3] no[-1]   TWEET SCORE: 2
+pissed[-4]   TWEET SCORE: -4
+no[-1]   TWEET SCORE: -1
+distraction[-2]   TWEET SCORE: -2
+blocks[-1]   TWEET SCORE: -1
+die[-3]   TWEET SCORE: -3
+funny[4] drunk[-2] straight[1] entertaining[2]   TWEET SCORE: 5
+like[2]   TWEET SCORE: 2
+sentence[-2] miss[-2]   TWEET SCORE: -4
+haha[3]   TWEET SCORE: 3
+good[3]   TWEET SCORE: 3
+no[-1]   TWEET SCORE: -1
+no[-1] no[-1] no[-1] no[-1] no[-1]   TWEET SCORE: -5
+no[-1] stop[-1]   TWEET SCORE: -2
+cry[-1] like[2]   TWEET SCORE: 1
+haha[3]   TWEET SCORE: 3
+miss[-2]   TWEET SCORE: -2
+no[-1]   TWEET SCORE: -1
+complain[-2]   TWEET SCORE: -2
+please[1] thanks[2] like[2]   TWEET SCORE: 5
+want[1]   TWEET SCORE: 1
+want[1]   TWEET SCORE: 1
+no[-1]   TWEET SCORE: -1
+hard[-1]   TWEET SCORE: -1
+mad[-3]   TWEET SCORE: -3
+great[3] best[3]   TWEET SCORE: 6
+no[-1]   TWEET SCORE: -1
+want[1] favorite[2]   TWEET SCORE: 3
+no[-1]   TWEET SCORE: -1
+favorite[2]   TWEET SCORE: 2
+sorry[-1]   TWEET SCORE: -1
+bitch[-5] lol[3]   TWEET SCORE: -2
+fine[2]   TWEET SCORE: 2
+fucking[-4] love[3]   TWEET SCORE: -1
+insecure[-2]   TWEET SCORE: -2
+odd[-2]   TWEET SCORE: -2
+like[2] mess[-2]   TWEET SCORE: 0
+like[2] hate[-3]   TWEET SCORE: -1
+miss[-2] wish[1]   TWEET SCORE: -1
+no[-1]   TWEET SCORE: -1
+supports[2]   TWEET SCORE: 2
+better[2]   TWEET SCORE: 2
+nice[3]   TWEET SCORE: 3
+no[-1]   TWEET SCORE: -1
+nervous[-2]   TWEET SCORE: -2
+hate[-3] shitty[-3]   TWEET SCORE: -6
+love[3] support[2] no[-1] matter[1]   TWEET SCORE: 5
+pray[1] miracle[4]   TWEET SCORE: 5
+no[-1]   TWEET SCORE: -1
+haha[3]   TWEET SCORE: 3
+good[3]   TWEET SCORE: 3
+worth[2] glory[2]   TWEET SCORE: 4
+no[-1]   TWEET SCORE: -1
+please[1]   TWEET SCORE: 1
+please[1] strength[2] falling[-1]   TWEET SCORE: 2
+fuck[-4] yeah[1]   TWEET SCORE: -3
+love[3]   TWEET SCORE: 3
+please[1]   TWEET SCORE: 1
+best[3] bad[-3]   TWEET SCORE: 0
+adventure[2] like[2]   TWEET SCORE: 4
+no[-1]   TWEET SCORE: -1
+better[2]   TWEET SCORE: 2
+mad[-3] like[2]   TWEET SCORE: -1
+no[-1] no[-1]   TWEET SCORE: -2
+no[-1]   TWEET SCORE: -1
+cute[2]   TWEET SCORE: 2
+no[-1]   TWEET SCORE: -1
+bitches[-5]   TWEET SCORE: -5
+no[-1]   TWEET SCORE: -1
+no[-1]   TWEET SCORE: -1
+no[-1]   TWEET SCORE: -1
+thank[2]   TWEET SCORE: 2
+kill[-3]   TWEET SCORE: -3
+care[2]   TWEET SCORE: 2
+award[3] cool[1]   TWEET SCORE: 4
+good[3]   TWEET SCORE: 3
+no[-1] no[-1]   TWEET SCORE: -2
+lol[3]   TWEET SCORE: 3
+cry[-1]   TWEET SCORE: -1
+no[-1]   TWEET SCORE: -1
+love[3]   TWEET SCORE: 3
+ass[-4]   TWEET SCORE: -4
+lost[-3]   TWEET SCORE: -3
+like[2] support[2]   TWEET SCORE: 4
+thank[2] like[2] glad[3]   TWEET SCORE: 7
+love[3]   TWEET SCORE: 3
+beautiful[3] terrible[-3]   TWEET SCORE: 0
+losing[-3]   TWEET SCORE: -3
+no[-1]   TWEET SCORE: -1
+promote[1] hahaha[3] promote[1]   TWEET SCORE: 5
+stop[-1]   TWEET SCORE: -1
+proud[2] love[3]   TWEET SCORE: 5
+sorry[-1]   TWEET SCORE: -1
+want[1]   TWEET SCORE: 1
+fake[-3]   TWEET SCORE: -3
+greetings[2] loved[3]   TWEET SCORE: 5
+no[-1]   TWEET SCORE: -1
+please[1]   TWEET SCORE: 1
+love[3] free[1] love[3]   TWEET SCORE: 7
+worried[-3]   TWEET SCORE: -3
+love[3]   TWEET SCORE: 3
+drop[-1] dead[-3]   TWEET SCORE: -4
+gained[2] thanks[2] great[3]   TWEET SCORE: 7
+pathetic[-2]   TWEET SCORE: -2
+true[2]   TWEET SCORE: 2
+no[-1]   TWEET SCORE: -1
+like[2]   TWEET SCORE: 2
+unequal[-1] rich[2] poor[-2]   TWEET SCORE: -1
+noob[-2]   TWEET SCORE: -2
+best[3]   TWEET SCORE: 3
+piss[-4]   TWEET SCORE: -4
+better[2]   TWEET SCORE: 2
+lol[3]   TWEET SCORE: 3
+damn[-4] ugly[-3]   TWEET SCORE: -7
+fascinating[3]   TWEET SCORE: 3
+yeah[1]   TWEET SCORE: 1
+no[-1]   TWEET SCORE: -1
+no[-1]   TWEET SCORE: -1
+cool[1] ass[-4] niggas[-5]   TWEET SCORE: -8
+drop[-1] dead[-3]   TWEET SCORE: -4
+want[1] love[3]   TWEET SCORE: 4
+suspected[-1]   TWEET SCORE: -1
+no[-1] evil[-3] no[-1]   TWEET SCORE: -5
+lol[3] calm[2] nerves[-1]   TWEET SCORE: 4
+kind[2] darkest[-2]   TWEET SCORE: 0
+hate[-3]   TWEET SCORE: -3
+winning[4]   TWEET SCORE: 4
+nice[3] improve[2]   TWEET SCORE: 5
+sexy[3]   TWEET SCORE: 3
+trouble[-2]   TWEET SCORE: -2
+hahaha[3] thanks[2] shit[-4] love[3]   TWEET SCORE: 4
+like[2] tired[-2]   TWEET SCORE: 0
+haha[3]   TWEET SCORE: 3
+pain[-2]   TWEET SCORE: -2
+like[2] haha[3] love[3]   TWEET SCORE: 8
+no[-1] no[-1] no[-1]   TWEET SCORE: -3
+best[3]   TWEET SCORE: 3
+hates[-3]   TWEET SCORE: -3
+haha[3]   TWEET SCORE: 3
+matter[1]   TWEET SCORE: 1
+good[3]   TWEET SCORE: 3
+wins[4] big[1] help[2] missing[-2]   TWEET SCORE: 5
+no[-1]   TWEET SCORE: -1
+lol[3]   TWEET SCORE: 3
+miss[-2]   TWEET SCORE: -2
+fan[3] no[-1] doubt[-1]   TWEET SCORE: 1
+smile[2] steal[-2] pay[-1]   TWEET SCORE: -1
+suspect[-1] suspect[-1] death[-2]   TWEET SCORE: -4
+love[3]   TWEET SCORE: 3
+love[3]   TWEET SCORE: 3
+lol[3]   TWEET SCORE: 3
+like[2]   TWEET SCORE: 2
+funny[4] interested[2]   TWEET SCORE: 6
+happy[3]   TWEET SCORE: 3
+excited[3]   TWEET SCORE: 3
+no[-1]   TWEET SCORE: -1
+damn[-4] adorable[3]   TWEET SCORE: -1
+liked[2] better[2]   TWEET SCORE: 4
+no[-1]   TWEET SCORE: -1
+love[3] bright[1] nice[3]   TWEET SCORE: 7
+excuse[-1]   TWEET SCORE: -1
+ban[-2]   TWEET SCORE: -2
+super[3]   TWEET SCORE: 3
+kind[2]   TWEET SCORE: 2
+fail[-2]   TWEET SCORE: -2
+like[2] strike[-1] like[2] won[3]   TWEET SCORE: 6
+glad[3]   TWEET SCORE: 3
+want[1] great[3]   TWEET SCORE: 4
+lied[-2] love[3] affection[3] wtf[-4]   TWEET SCORE: 0
+miss[-2]   TWEET SCORE: -2
+no[-1]   TWEET SCORE: -1
+like[2]   TWEET SCORE: 2
+bad[-3]   TWEET SCORE: -3
+no[-1] no[-1]   TWEET SCORE: -2
+hahaha[3]   TWEET SCORE: 3
+pain[-2] best[3] sorry[-1]   TWEET SCORE: 0
+want[1]   TWEET SCORE: 1
+wow[4]   TWEET SCORE: 4
+like[2] want[1]   TWEET SCORE: 3
+no[-1] win[4]   TWEET SCORE: 3
+perfect[3] perfect[3] perfect[3]   TWEET SCORE: 9
+like[2]   TWEET SCORE: 2
+bitch[-5] fucked[-4]   TWEET SCORE: -9
+lol[3]   TWEET SCORE: 3
+dead[-3]   TWEET SCORE: -3
+super[3] cool[1]   TWEET SCORE: 4
+miss[-2]   TWEET SCORE: -2
+no[-1]   TWEET SCORE: -1
+no[-1]   TWEET SCORE: -1
+yeah[1]   TWEET SCORE: 1
+good[3] nice[3]   TWEET SCORE: 6
+strikes[-1]   TWEET SCORE: -1
+no[-1] good[3]   TWEET SCORE: 2
+big[1] rewards[2]   TWEET SCORE: 3
+happy[3]   TWEET SCORE: 3
+no[-1]   TWEET SCORE: -1
+wish[1]   TWEET SCORE: 1
+want[1] want[1]   TWEET SCORE: 2
+popular[3]   TWEET SCORE: 3
+hate[-3] shit[-4]   TWEET SCORE: -7
+great[3]   TWEET SCORE: 3
+please[1]   TWEET SCORE: 1
+haha[3]   TWEET SCORE: 3
+pissed[-4] nice[3]   TWEET SCORE: -1
+annoying[-2] please[1]   TWEET SCORE: -1
+liked[2]   TWEET SCORE: 2
+clear[1]   TWEET SCORE: 1
+miss[-2]   TWEET SCORE: -2
+no[-1]   TWEET SCORE: -1
+glad[3]   TWEET SCORE: 3
+no[-1]   TWEET SCORE: -1
+allergic[-2]   TWEET SCORE: -2
+want[1] great[3]   TWEET SCORE: 4
+please[1] love[3]   TWEET SCORE: 4
+lol[3]   TWEET SCORE: 3
+winning[4]   TWEET SCORE: 4
+want[1]   TWEET SCORE: 1
+appreciate[2]   TWEET SCORE: 2
+fuck[-4] shit[-4]   TWEET SCORE: -8
+no[-1]   TWEET SCORE: -1
+big[1]   TWEET SCORE: 1
+drunk[-2] hating[-3]   TWEET SCORE: -5
+suspend[-1]   TWEET SCORE: -1
+no[-1] fuck[-4] cut[-1]   TWEET SCORE: -6
+good[3]   TWEET SCORE: 3
+no[-1]   TWEET SCORE: -1
+amazing[4]   TWEET SCORE: 4
+alarm[-2]   TWEET SCORE: -2
+no[-1]   TWEET SCORE: -1
+fuck[-4]   TWEET SCORE: -4
+calm[2]   TWEET SCORE: 2
+bitch[-5]   TWEET SCORE: -5
+trusted[2]   TWEET SCORE: 2
+happy[3]   TWEET SCORE: 3
+no[-1]   TWEET SCORE: -1
+hate[-3] hate[-3]   TWEET SCORE: -6
+no[-1] no[-1]   TWEET SCORE: -2
+spam[-2] good[3] ill[-2] love[3]   TWEET SCORE: 2
+sad[-2]   TWEET SCORE: -2
+fuck[-4]   TWEET SCORE: -4
+no[-1]   TWEET SCORE: -1
+ruined[-2]   TWEET SCORE: -2
+no[-1]   TWEET SCORE: -1
+haha[3]   TWEET SCORE: 3
+suspected[-1] affected[-1]   TWEET SCORE: -2
+solve[1] problem[-2]   TWEET SCORE: -1
+good[3]   TWEET SCORE: 3
+happy[3]   TWEET SCORE: 3
+courage[2] heaven[2]   TWEET SCORE: 4
+like[2]   TWEET SCORE: 2
+love[3]   TWEET SCORE: 3
+lol[3]   TWEET SCORE: 3
+bomb[-1] madness[-3]   TWEET SCORE: -4
+good[3] no[-1]   TWEET SCORE: 2
+difficult[-1]   TWEET SCORE: -1
+best[3]   TWEET SCORE: 3
+hope[2] laughing[1] lol[3]   TWEET SCORE: 6
+no[-1]   TWEET SCORE: -1
+bitch[-5] fucked[-4]   TWEET SCORE: -9
+like[2] no[-1]   TWEET SCORE: 1
+big[1]   TWEET SCORE: 1
+exciting[3] care[2]   TWEET SCORE: 5
+fantastic[4] lovely[3]   TWEET SCORE: 7
+shit[-4]   TWEET SCORE: -4
+happy[3]   TWEET SCORE: 3
+tired[-2] warn[-2] no[-1] hard[-1]   TWEET SCORE: -6
+free[1] saved[2]   TWEET SCORE: 3
+no[-1]   TWEET SCORE: -1
+lol[3]   TWEET SCORE: 3
+losing[-3]   TWEET SCORE: -3
+worn[-1]   TWEET SCORE: -1
+super[3]   TWEET SCORE: 3
+waste[-1]   TWEET SCORE: -1
+sorry[-1]   TWEET SCORE: -1
+better[2]   TWEET SCORE: 2
+feeling[1]   TWEET SCORE: 1
+bitch[-5]   TWEET SCORE: -5
+loved[3] cheated[-3] hate[-3]   TWEET SCORE: -3
+hate[-3] missing[-2] love[3]   TWEET SCORE: -2
+favorite[2] wasting[-2]   TWEET SCORE: 0
+fuck[-4]   TWEET SCORE: -4
+wtf[-4]   TWEET SCORE: -4
+cute[2]   TWEET SCORE: 2
+worst[-3]   TWEET SCORE: -3
+ass[-4]   TWEET SCORE: -4
+care[2] good[3]   TWEET SCORE: 5
+no[-1]   TWEET SCORE: -1
+want[1]   TWEET SCORE: 1
+big[1]   TWEET SCORE: 1
+hahaha[3]   TWEET SCORE: 3
+favorite[2] wasting[-2]   TWEET SCORE: 0
+no[-1]   TWEET SCORE: -1
+shit[-4] like[2] shit[-4]   TWEET SCORE: -6
+like[2]   TWEET SCORE: 2
+proud[2]   TWEET SCORE: 2
+saved[2]   TWEET SCORE: 2
+love[3]   TWEET SCORE: 3
+win[4]   TWEET SCORE: 4
+like[2]   TWEET SCORE: 2
+kind[2]   TWEET SCORE: 2
+no[-1]   TWEET SCORE: -1
+like[2] crazy[-2]   TWEET SCORE: 0
+fake[-3]   TWEET SCORE: -3
+haha[3]   TWEET SCORE: 3
+alone[-2]   TWEET SCORE: -2
+haha[3]   TWEET SCORE: 3
+favor[2]   TWEET SCORE: 2
+enemy[-2]   TWEET SCORE: -2
+save[2]   TWEET SCORE: 2
+like[2] proud[2]   TWEET SCORE: 4
+accepted[1]   TWEET SCORE: 1
+clean[2] lazy[-1]   TWEET SCORE: 1
+ha[2]   TWEET SCORE: 2
+like[2] choke[-2]   TWEET SCORE: 0
+worst[-3] fear[-2] losing[-3]   TWEET SCORE: -8
+miss[-2] hahaha[3]   TWEET SCORE: 1
+love[3]   TWEET SCORE: 3
+like[2]   TWEET SCORE: 2
+forget[-1]   TWEET SCORE: -1
+no[-1]   TWEET SCORE: -1
+die[-3]   TWEET SCORE: -3
+blah[-2] blah[-2]   TWEET SCORE: -4
+confuse[-2]   TWEET SCORE: -2
+demands[-1]   TWEET SCORE: -1
+love[3]   TWEET SCORE: 3
+waste[-1] mistakes[-2]   TWEET SCORE: -3
+cry[-1]   TWEET SCORE: -1
+faithful[3]   TWEET SCORE: 3
+ha[2] ha[2] hahaha[3]   TWEET SCORE: 7
+excited[3]   TWEET SCORE: 3
+confident[2]   TWEET SCORE: 2
+threat[-2]   TWEET SCORE: -2
+no[-1]   TWEET SCORE: -1
+no[-1]   TWEET SCORE: -1
+no[-1]   TWEET SCORE: -1
+favorite[2]   TWEET SCORE: 2
+excuse[-1]   TWEET SCORE: -1
+dislike[-2] hate[-3]   TWEET SCORE: -5
+drop[-1]   TWEET SCORE: -1
+love[3]   TWEET SCORE: 3
+no[-1]   TWEET SCORE: -1
+ass[-4]   TWEET SCORE: -4
+love[3]   TWEET SCORE: 3
+happy[3] love[3]   TWEET SCORE: 6
+proud[2] fun[4] miss[-2]   TWEET SCORE: 4
+forget[-1]   TWEET SCORE: -1
+trust[1]   TWEET SCORE: 1
+beautiful[3] like[2]   TWEET SCORE: 5
+problems[-2]   TWEET SCORE: -2
+struggles[-2]   TWEET SCORE: -2
+fired[-2]   TWEET SCORE: -2
+join[1]   TWEET SCORE: 1
+passionate[2] loving[2] interest[1]   TWEET SCORE: 5
+yeah[1]   TWEET SCORE: 1
+care[2]   TWEET SCORE: 2
+stupid[-2]   TWEET SCORE: -2
+no[-1]   TWEET SCORE: -1
+tout[-2]   TWEET SCORE: -2
+no[-1]   TWEET SCORE: -1
+hating[-3] fun[4]   TWEET SCORE: 1
+haha[3]   TWEET SCORE: 3
+no[-1]   TWEET SCORE: -1
+like[2] better[2] lag[-1]   TWEET SCORE: 3
+no[-1]   TWEET SCORE: -1
+worry[-3]   TWEET SCORE: -3
+no[-1]   TWEET SCORE: -1
+hate[-3] sad[-2]   TWEET SCORE: -5
+drunk[-2] good[3]   TWEET SCORE: 1
+tout[-2]   TWEET SCORE: -2
+ignorance[-2] ignorant[-2]   TWEET SCORE: -4
+no[-1]   TWEET SCORE: -1
+no[-1]   TWEET SCORE: -1
+fun[4] wish[1]   TWEET SCORE: 5
+hard[-1]   TWEET SCORE: -1
+die[-3]   TWEET SCORE: -3
+wins[4] big[1] help[2] missing[-2]   TWEET SCORE: 5
+forget[-1]   TWEET SCORE: -1
+drunk[-2]   TWEET SCORE: -2
+no[-1]   TWEET SCORE: -1
+no[-1] fight[-1]   TWEET SCORE: -2
+haha[3]   TWEET SCORE: 3
+nice[3] bored[-2]   TWEET SCORE: 1
+broke[-1] best[3]   TWEET SCORE: 2
+no[-1] lol[3] funny[4]   TWEET SCORE: 6
+drunk[-2]   TWEET SCORE: -2
+hate[-3] like[2]   TWEET SCORE: -1
+smile[2]   TWEET SCORE: 2
+like[2] falling[-1]   TWEET SCORE: 1
+win[4] courtesy[2]   TWEET SCORE: 6
+excitement[3]   TWEET SCORE: 3
+damn[-4]   TWEET SCORE: -4
+lol[3]   TWEET SCORE: 3
+recommend[2]   TWEET SCORE: 2
+boring[-3]   TWEET SCORE: -3
+favorite[2]   TWEET SCORE: 2
+hate[-3]   TWEET SCORE: -3
+suave[2]   TWEET SCORE: 2
+miss[-2]   TWEET SCORE: -2
+super[3]   TWEET SCORE: 3
+arrested[-3]   TWEET SCORE: -3
+Total sentiment value: 1109

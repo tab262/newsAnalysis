@@ -1,0 +1,22 @@
+This program works by running the following commands:
+
+python twitterstream.py > output.json
+
+It will run for as long as you want, getting tweets.
+
+At the moment, the output.json file needs to edited by hand. Requires a [ at the beginning and a ] at the end (this could be implemented in code. Also requires cropping of tweet data that gets cut off when we shut the program down.
+
+We then run:
+python tweet_sentiment.py AFINN-111.txt output.json
+
+This will process the data and analyze the sentiment
+
+
+#####7-16-13
+getTweets.py is now the useful module to accessing the twitterstream
+
+results = getTweets(numOfT, debug=False) - will return numOfT(int) tweets in a json format
+
+results will be a list of tweets, with each item in the list consisting of a (dict)tweet with the following keys
+
+

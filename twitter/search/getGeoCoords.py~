@@ -1,0 +1,5 @@
+from googlemaps import GoogleMaps
+gmaps = GoogleMaps("AIzaSyDAIGqm5tls_svPHzAOpzNwU4dawuZCFek")
+address = "1211 Beacon St, Brookline, MA"
+lat,lng = gmaps.addresstolatlng(address)
+print lat,lng

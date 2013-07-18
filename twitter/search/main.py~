@@ -1,0 +1,13 @@
+import twitterSearch
+import getGeoCoords
+print("Welcome! This program allows you type in an address and look at tweets within a specified radius of that location. Type in the address if you were searching google maps (i.e. 1234 Soldiers Field Road, Boston, MA). The program will also ask you to specify a radius in miles.")
+while true:
+    address = input("Enter the address(q to quit): ")
+    if address.lower() == 'q':
+        break
+    distance = input("Distance from address to search: ")
+    geoCoords = getGeoCoords.getGeoCoords(address)
+    print("The GPS coordinates are([lat, lng]): " + str(geoCoords))
+
+    
+    

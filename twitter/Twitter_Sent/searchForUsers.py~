@@ -1,0 +1,36 @@
+import twitterstream
+import tweet_sentiment
+import getTweets
+import json
+
+#assume we have a set of tweets to be passed into our search
+#returns set of tweets with users from a given location
+def getUsersFromLocation(tweets, location):
+    tweetsOfInterest = []
+    usersOfInterest = []
+    for item in tweets:
+        if (item['user']['location']).lowercase() == location.lowercase():
+            tweetsOfInterest.append(item)
+            usersOfInterest.append(item['user'])
+
+def getPercentUsersWithLocation(tweets):
+    withLoc = 0
+    woLoc   = 0 
+    for item in tweets:
+        loc = ''
+        try:
+            loc = item['user']['location']
+        except:
+            woLoc = woLoc + 1
+
+        if len(loc) > 0:
+            witLoc = withLoc + 1
+
+    return (1.0 * withLoc/(withLoc + woLoc))
+
+def main():
+    results = getTweets.getTweets(10,True)
+    print results[0].keys()
+
+
+if __name__ == "__main__": main()

@@ -8,7 +8,7 @@ import time
 import datetime
 import csv
 import json
-import MySQLdb   #download
+#import MySQLdb   #download
 import feedparser#download
 import imp
 
@@ -17,7 +17,7 @@ import getNYTHeadlines
 import saveLoadHeadlines
 
 #importing my own modules
-articleAnalysis = imp.load_source('articleAnalysis', '/home/caseyso/Projects/newsAnalysis/newsAnalysis/analysis')
+articleAnalysis = imp.load_source('articleAnalysis', '/home/gaddis/Projects/newsAnalysis/newsAnalysis/analysis')
 
 #####################################################
 

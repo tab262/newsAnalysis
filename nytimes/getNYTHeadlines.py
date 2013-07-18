@@ -6,7 +6,7 @@ import time
 import datetime
 import csv
 import json
-import MySQLdb   #download
+#import MySQLdb   #download
 import feedparser#download
 import imp
 import time
@@ -14,7 +14,7 @@ import getArticle
 import getNYTHeadlines
 import saveLoadHeadlines
 import getArticle
-articleAnalysis = imp.load_source('articleAnalysis', '/home/caseyso/Projects/newsAnalysis/newsAnalysis/analysis')
+articleAnalysis = imp.load_source('articleAnalysis', '/home/gaddis/Projects/newsAnalysis/newsAnalysis/analysis')
 
 def get(nytimesFeed):
     stories = {}

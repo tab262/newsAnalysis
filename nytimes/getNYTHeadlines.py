@@ -58,7 +58,7 @@ def get(nytimesFeed):
             for key in AD.keys():
                 stories[i-1][key] = AD[key]
         except:
-            print('merp')
+            print('getNYTHeadlines: Analysis lacking...')
         
 
     return stories

@@ -1,0 +1,34 @@
+import urllib
+import re
+import json
+import time
+#epoch time 1371573000000 #has three too many zerps
+#convert: time.gmtime(1371573000000)
+
+def epochToGmt(epochT):
+    epoStr = str(epochT)
+    epoStr = epoStr[:10]
+    epoInt = int(epoStr)
+    return time.gmtime(epoInt)
+
+def epochStructFormat(eStruct, p=None):
+    timeUnit = ['year', 'month','day','hour','minute', 'sec','wday','yday','isdst']
+    for i in range(len(eStruct)):
+        if p == 'p':
+            print timeUnit[i] + ': ' + str(eStruct[i])
+
+def getStockDayData():
+    htmltext = urllib.urlopen("http://www.bloomberg.com/markets/chart/data/1D/AAPL:US").read()
+    data = json.loads(htmltext)
+    print(data)
+    return data
+
+
+
+def get():
+	data = getStockDayData
+	print(data)
+
+
+if __name__=="__main__":
+	get()

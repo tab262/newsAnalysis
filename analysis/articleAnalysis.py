@@ -76,7 +76,7 @@ def gramAnalyzer(t,b,u):
 #Solution to TODO would be to take a list of sents and toss the first word
 def nounFinder(u):
     nounList = []
-    for i in range(1,len(u)):
+    for i in range(2,len(u)):
         prevchar = u[i-1][-1]
         nextChar = 'a'
         if i != len(u)-1:
@@ -178,19 +178,36 @@ def analysis(sents, words):
 
     
 
+def analysis2(words):
+    nouns = nounFinder(words)
+
+    analDict = {'nouns' : nouns}
+
+    return analDict
+
 #star
 def main():
-    a = 'article'
+    a = 'testArticle'
     f  = open(a)
     
     #Makes a list of sentences. Right now it's more like mini-paragraphs as I break up by newlines and not periods
     #TODO: Get sentences and not paras
-    sents = f.read().split('\n')
+    sents = f.read().split('.')
+
+    print(sents)
+    
     f.close()
     
     #get list of individual words
     words = open(a).read().split()
-    
+   
+    ugDict = unigram(words)
+
+    analDict = analysis2(ugDict)
+
+    print(analDict)
+
+    '''
     #trigrams are of sets three word sets ex: {(*,*,trigrams), (*,trigrams, are),(trigrams,are,sets),(are,sets,of)...etc}
     #creates a list of trigrams with their counts. High counts indicates words often appear together (i.e. President Obama)
     tgDict = trigram(sents)
@@ -199,11 +216,11 @@ def main():
     bgDict = bigram(sents)
     
     #individual words and count
-    ugDict = unigram(words)
+    
     
     #this guy needs little work, but will return capitalized words. Still working out the kinks for it to avoid returning
     #words that are capitlized only because they occur at the begining of the sentence.
-    nouns = nounFinder(words)
+    
     
     #Checks to see if any of the nouns are countries
     #Could add a people finder, city finder, organization finder etc...
@@ -215,5 +232,5 @@ def main():
     mcw =(mostCommonWord(ugDict))
     
     analysis(sents, words)
-
+    '''
 if __name__=="__main__": main()

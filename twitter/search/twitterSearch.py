@@ -52,16 +52,33 @@ def twitterreq(url, method, parameters):
 
   return response
 
+def searchUser(user):
+	url = "https://api.twitter.com/1.1/search/tweets.json?q="+user
+ 	parameters = []
+  	response = twitterreq(url, "GET", parameters)
+  	tweets = []
+
+ 
+  	for line in response:    
+		tweet = (line.strip())
+		tweets.append(tweet)
+    
+	p_tweets = json.loads(tweets[0])
+
+	return p_tweets
+	
+
 def search(topic, debug=False):
   url = "https://api.twitter.com/1.1/search/tweets.json?q="+topic
   parameters = []
   response = twitterreq(url, "GET", parameters)
   tweets = []
 
-
+ 
   for line in response:
-    tweet = (line.strip())
-    tweets.append(tweet)
+	print(line)    
+	tweet = (line.strip())
+	tweets.append(tweet)
     
   p_tweets = json.loads(tweets[0])
 

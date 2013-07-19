@@ -11,19 +11,19 @@ import json
 #import MySQLdb   #download
 import feedparser#download
 import imp
-
 import getArticle
 import getNYTHeadlines
 import saveLoadHeadlines
+import uploadToDatabase
 
 #importing my own modules
 articleAnalysis = imp.load_source('articleAnalysis', '/home/gaddis/Projects/newsAnalysis/newsAnalysis/analysis')
 
 #####################################################
 
-def main():
+def main(user=None, passwd=None, upload=False):
     nytimesRSS  = 'http://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml'
-    nytimesFeed = feedparser.parse(nytimesRSS)  #25 entries
+    nytimesFeed = feedparser.parse(nytimesRSS)  #25 entries of class 'feedparser.FeedParserDict'
 
     stories = getNYTHeadlines.get(nytimesFeed)
     
@@ -31,10 +31,12 @@ def main():
     #indexing kung fu. This bit here fixes it. I know...bad programmer, bad!
     temp = stories[0]
     stories[0] = stories[-1]
-    stories[-1] = temp
+    stories[24] = temp
     
     saveLoadHeadlines.saveHeadlines(stories)
-    
+	
+    if upload:
+        uploadToDatabase.uploadToDatabase(stories,user,passwd)
     
 
     
